@@ -90,6 +90,10 @@ ul {
 	margin-top: 0;
 }
 
+img {
+	max-width: 100%;
+}
+
 @media (min-width: 1500px) {
 	body {
 		margin: 0 auto;
