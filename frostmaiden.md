@@ -101,9 +101,9 @@
 - The party awakes in the [Uphill Climb](#uphill-climb) and discusses what to do
     - [Chroneer](#chroneer) thinks it's a mob town and is very suspicious that the [Uphill Climb](#uphill-climb) (an inn) doesn't have any beds
 - [Finnegan](#finnegan) offers to perform at the [Uphill Climb](#uphill-climb), and [Roarck](#roarck) asks him to play later in the evening, and wants to discuss something with the party
-- [Roarck](#roarck) explains to the party that the [Climb](#uphill-climb) is currently populated by "concerned citizens" about the castle, and they are interested in finding out what is [going on in the castle](#investigate-the-caste-of-caer-dineval)
+- [Roarck](#roarck) explains to the party that the [Climb](#uphill-climb) is currently populated by "concerned citizens" about the castle, and they are interested in finding out what is [going on in the castle](#investigate-the-castle-of-caer-dineval)
 - [Finnegan](#finnegan) and [Chroneer](#chroneer) are suspicious of the town in general
-- [Pillby](#pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](#investigate-the-caste-of-caer-dineval)
+- [Pillby](#pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](#investigate-the-castle-of-caer-dineval)
 - [Pillby](#pillby) and [Sven](#sven) go on a reconassiance mission around the castle, and essentially find nothing, but on the way back, they overhear a conversation at the castle gates surrounding making guard for a caravan, then head back to the [Uphill Climb](#uphill-climb) to tell [the party](#party) the result of their spy times
     - [Pillby](#pillby) almost falls into the lake by rolling a 1 (classic)
 
@@ -177,7 +177,7 @@
 ### Conclusion
 - The party decides to keep the [twing](#twinga) and not give them to [Dannica Greysteel](#dannica-greysteel)
 
-## Investigate the Caste of Caer Dineval
+## Investigate the Castle of Caer Dineval
 ### Giver
 - [Roarck](#roarck) of the [Uphill Climb](#uphill-climb) in [Caer-Dineval](#caer-dineval)
 
