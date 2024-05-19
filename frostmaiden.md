@@ -130,6 +130,7 @@
     - evan and subu start talking about a time paradox subu is investigating
 - was [cursed](#undead-face-vision) upon taking a [Pearl of Power](#pearl-of-power) and [Wand of the Warmage](#wand-of-the-warmage) from a tomb in a [verbeeg cave](#verbeeg-cave) outside of [Goodmead](#goodmead)
 - A.B.C.: always be chronoshiftin'
+- Took "the break of eternity" in [session 4](#session-4)
 
 ## Sven
 - cat man
