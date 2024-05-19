@@ -112,6 +112,7 @@
 - [Pillby](#pillby) kicks a cultist in the head, and [Chroneer](#chroneer) takes an amulet off of the cultist's neck (which had a crystal from [Ekkar Kestle](#ekkar-kestle) times)
 - [The party](#party) decides on a safe word of "Pineapple", which makes going to fruit markets a bit awkward
 - [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) go and try to stealth upwards while [Finnegan](#finnegan) and [Brynn](#brynn) go to rendevous with a castle patron that is expecting them
+- [Chroneer](#chroneer) pushes a cultist off of the castle into a fire which raises the alert of the entire castle
 
 # Party
 ## Finnegan
