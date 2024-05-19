@@ -429,7 +429,7 @@
 - In [session 3](#session-3), the party found a letter on a captured thug that was sealed with a seal of the Zentarum
 
 ## Dinev Family
-- Built the castle in [Caer-Dineval]
+- Built the castle in [Caer-Dineval](#caer-dineval)
 
 # Creatures
 ## Twinga
