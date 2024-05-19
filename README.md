@@ -106,10 +106,12 @@
 - [Pillby](#pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](#investigate-the-castle-of-caer-dineval)
 - [Pillby](#pillby) and [Sven](#sven) go on a reconassiance mission around the castle, and essentially find nothing, but on the way back, they overhear a conversation at the castle gates surrounding making guard for a caravan, then head back to the [Uphill Climb](#uphill-climb) to tell [the party](#party) the result of their spy times
     - [Pillby](#pillby) almost falls into the lake by rolling a 1 (classic)
-- [Sven](#sven) scouts the caravan, while the rest of [the party](#the-party) waits at the [Uphill Climb](#uphill-climb) for news that the caravan has cleared town
+- [Sven](#sven) scouts the caravan, while the rest of [the party](#party) waits at the [Uphill Climb](#uphill-climb) for news that the caravan has cleared town
 - [Finnegan](#finnegan) and [Brynn](#brynn) head to the castle and convince the guard that the caravan was ambushed, and gain access to the castle
 - [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) gain to the castle with the help of [Finnegan](#finnegan) and [Brynn](#brynn) during their castle infiltration
 - [Pillby](#pillby) kicks a cultist in the head, and [Chroneer](#chroneer) takes an amulet off of the cultist's neck (which had a crystal from [Ekkar Kestle](#ekkar-kestle) times)
+- [The party](#party) decides on a safe word of "Pineapple", which makes going to fruit markets a bit awkward
+- [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) go and try to stealth upwards while [Finnegan](#finnegan) and [Brynn](#brynn) go to rendevous with a castle patron that is expecting them
 
 # Party
 ## Finnegan
@@ -126,6 +128,7 @@
     - [Chroneer](#chroneer) bought it for him, was 5 silver
 - in [session #2](#session-2), tricked a [verbeeg](#verbeeg) at the [verbeeg cave](#verbeeg-cave) by disguising himself while [the party](#party) snuck away with a cart
 - in [session #3](#session-3), was late as _fuck_
+- A.B.G.: always be guidin'
 
 ## Chroneer
 - high high high elf
@@ -427,17 +430,18 @@
 ## Huwar
 - A member of a caravan that left the castle of [Caer Dineval](#caer-dineval)
 
-## Ekkar Kestle
-- United the orc and barbarian tribes in an attempt to take over the [Ten Towns](#ten-towns)
-- Built a set of two towers out of crystal
-- These towers were destroyed and shattered and sent fragments of the crystal material out to the far reaches of [Icewind Dale](#icewind-dale)
-
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
 - she is a god of fury and chaos, generally an evil diety, also could be neutral, not charitable at all, they believe in natural order
 
 ## Sylvanus the God of Nature
+- [Brynn](#brynn) and [Sylvanus](#sylvanus-the-god-of-nature) sittin' in a tree, K-I-S-S-I-N-G
+
+## Ekkar Kestle
+- United the orc and barbarian tribes in an attempt to take over the [Ten Towns](#ten-towns)
+- Built a set of two towers out of crystal
+- These towers were destroyed and shattered and sent fragments of the crystal material out to the far reaches of [Icewind Dale](#icewind-dale)
 
 # Groups
 ## Toargs Caravan
