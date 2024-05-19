@@ -10,7 +10,7 @@
 - [Creatures](#creatures)
 - [Concepts](#concepts)
 - [Magic Items](#magic-items)
-- [Maps](#maps)
+- [Games](#games)
 
 # Summary
 ## Session #1
@@ -106,6 +106,10 @@
 - [Pillby](#pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](#investigate-the-castle-of-caer-dineval)
 - [Pillby](#pillby) and [Sven](#sven) go on a reconassiance mission around the castle, and essentially find nothing, but on the way back, they overhear a conversation at the castle gates surrounding making guard for a caravan, then head back to the [Uphill Climb](#uphill-climb) to tell [the party](#party) the result of their spy times
     - [Pillby](#pillby) almost falls into the lake by rolling a 1 (classic)
+- [Sven](#sven) scouts the caravan, while the rest of [the party](#the-party) waits at the [Uphill Climb](#uphill-climb) for news that the caravan has cleared town
+- [Finnegan](#finnegan) and [Brynn](#brynn) head to the castle and convince the guard that the caravan was ambushed, and gain access to the castle
+- [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) gain to the castle with the help of [Finnegan](#finnegan) and [Brynn](#brynn) during their castle infiltration
+- [Pillby](#pillby) kicks a cultist in the head, and [Chroneer](#chroneer) takes an amulet off of the cultist's neck (which had a crystal from [Ekkar Kestle](#ekkar-kestle) times)
 
 # Party
 ## Finnegan
@@ -114,6 +118,7 @@
 - hammer talks to [Scramsacks](#scramsacks) about getting more money, scramsacks wants more money from him
 - was offered to become the speaker of [Goodmead](#goodmead) by [Allevesa](#allevesa), but turned it down
 - in [session #3](#session-3), was late as _fuck_
+- codename "Xander"
 
 ## Brynn
 - greedy jew elf/shapeshifter?/red/grey blue furbolg
@@ -131,17 +136,20 @@
 - was [cursed](#undead-face-vision) upon taking a [Pearl of Power](#pearl-of-power) and [Wand of the Warmage](#wand-of-the-warmage) from a tomb in a [verbeeg cave](#verbeeg-cave) outside of [Goodmead](#goodmead)
 - A.B.C.: always be chronoshiftin'
 - Took "the break of eternity" in [session 4](#session-4)
+- In [session 4](#session-4) stole a crystal off the necklace from an unconscious cultist in the castle of [Caer Dineval](#caer-dineval)
 
 ## Sven
 - cat man
 - ranger
 - very high roller
 - gets downed all the time
+- has a "thing" for cultists
 
 ## Pillby
 - a gnome who is a furious note-taker
 - interested in magical items and tinkering
 - never hits
+- nobody listens to his badass, totally fool-proof ladder plans
 
 # Quests
 ## Sepheks Murders
@@ -194,6 +202,9 @@
     - [Finnegan](#finnegan), [Chroneer](#chroneer), and [Brynn](#brynn) decide to stay in the inn and listen for activity
     - [Sven](#sven) and [Pillby](#pillby) are going to attempt to find a fishing boat to see if there is some entrance or weak point of the castle that can be used to break in
 - [Pillby](#pillby) gives one of his [walkie coin-kies](#pillbys-talking-coins) to [Finnegan](#finnegan) in case anything goes wrong
+- A reconassiance plan is carried out by [Sven](#sven) and [Pillby](#pillby), and overhear a caravan will be leaving to [Bryn Shander](#bryn-shander)
+- [Sven](#sven) follows the caravan out of the castle
+- [Finnegan](#finnegan) and [Brynn](#brynn) approach the castle and convince the guard that the caravan was ambushed, and gain access to the castle
 
 # Completed Quests
 ## Missing Mead
@@ -408,6 +419,19 @@
 - Dramatic
 - In [session 3](#session-3), the party learns he has been sick for about 3 weeks
 
+## Fell
+- A member of a caravan that left the castle of [Caer Dineval](#caer-dineval)
+
+## Doob
+
+## Huwar
+- A member of a caravan that left the castle of [Caer Dineval](#caer-dineval)
+
+## Ekkar Kestle
+- United the orc and barbarian tribes in an attempt to take over the [Ten Towns](#ten-towns)
+- Built a set of two towers out of crystal
+- These towers were destroyed and shattered and sent fragments of the crystal material out to the far reaches of [Icewind Dale](#icewind-dale)
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -478,3 +502,43 @@
 ## Pillbys Talking Coins
 - [Pillby](#pillby) creates a set of two copper which can verbally communicate to each other
 - Range is as far as you want
+- Coin 1: [Pillby](#pillby)
+- Coin 2: [Finnegan](#finnegan)
+
+# Games
+## Three-Dragon Ante
+- In [session 4](#session-4), [Pillby](#pillby) created the rules for [Three-Dragon Ante](#three-dragon-ante) while waiting for [Finnegan](#finnegan) and [Brynn](#brynn) to inflitrate the castle
+
+### Rules
+- Three-Dragon Ante is played with 2-8 players.
+- The objective of the game is for the Dragon Slayer to slay all Dragons. If the Dragon Slayer dies, the Dragons win, at which point, a battle between Dragons to the death occurs, so one Dragon emerges as the winner.
+
+### Roles
+- There must be at least one Dragon Slayer and one Dragon. There may only be one Dragon Slayer.
+
+### Cards
+- The cards of Three-Dragon Ante have values for attack, health, and luck. Non-character cards may also require treasure if a Dragon plays them.
+
+#### Character Cards
+- Each deck contains 6 Dragon Slayer character cards, and 12 Dragon cards. These cards will contain the attack, health, and luck for each player of the game.
+
+#### Action Cards
+- Each deck contains 24 action cards that are played by characters on their turn in exchange for attack, health, or luck from their character.
+
+#### Temporal Cards
+- Each deck contains 4 temporal cards that alter characters.
+
+#### World Effect Cards
+- Each deck contains 12 world effect cards which alter the rules of the game.
+
+#### Treasure Cards
+- Each deck contains 24 treasure cards which Dragons desire due to some of their actions requiring treasure, and Dragon Slayers have no use for.
+
+#### Equipment Cards
+- Each deck contains 12 equipment cards which Dragon Slayers desire due to the boosts in stats equipment provides, and Dragons have no use for. 
+
+### How To Play
+1. The character cards are shuffled in a pile, and each character draws sequentially. When a player draws a Dragon Slayer card and there is already a Dragon Slayer, that player discards the selected Dragon Slayer card and re-draws until they draw a Dragon card.
+2. Each player draws 6 cards from the pile of all other cards.
+3. A player will play up to one card from their hand.
+4. The game goes until there is one player remaining.
