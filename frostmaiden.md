@@ -100,7 +100,7 @@
 ## Session #4
 - The party awakes in the [Uphill Climb](#uphill-climb) and discusses what to do
     - [Chroneer](#chroneer) thinks it's a mob town and is very suspicious that the [Uphill Climb](#uphill-climb) (an inn) doesn't have any beds
-- [Finnegan] offers to perform at the [Uphill Climb](#uphill-climb), and [Roarck](#roarck) asks him to play later in the evening, and wants to discuss something with the party
+- [Finnegan](#finnegan) offers to perform at the [Uphill Climb](#uphill-climb), and [Roarck](#roarck) asks him to play later in the evening, and wants to discuss something with the party
 - [Roarck](#roarck) explains to the party that the [Climb](#uphill-climb) is currently populated by "concerned citizens" about the castle, and they are interested in finding out what is [going on in the castle](#investigate-the-caste-of-caer-dineval)
 - [Finnegan](#finnegan) and [Chroneer](#chroneer) are suspicious of the town in general
 - [Pillby](#pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](#investigate-the-caste-of-caer-dineval)
