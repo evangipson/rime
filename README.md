@@ -109,30 +109,64 @@
 - [Sven](#sven) scouts the caravan, while the rest of [the party](#party) waits at the [Uphill Climb](#uphill-climb) for news that the caravan has cleared town
 - [Finnegan](#finnegan) and [Brynn](#brynn) head to the castle and convince the guard that the caravan was ambushed, and gain access to the castle
 - [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) gain to the castle with the help of [Finnegan](#finnegan) and [Brynn](#brynn) during their castle infiltration
-- [Pillby](#pillby) kicks a cultist in the head, and [Chroneer](#chroneer) takes an amulet off of the cultist's neck (which had a crystal from [Ekkar Kestle](#ekkar-kestle) times)
+- [Pillby](#pillby) kicks a [cultist](#followers-of-levistus) in the head, and [Chroneer](#chroneer) takes an amulet off of the [cultist's](#followers-of-levistus) neck (which had a crystal from [Ekkar Kestle](#ekkar-kestle) times)
 - [The party](#party) decides on a safe word of "Pineapple", which makes going to fruit markets a bit awkward
 - [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) go and try to stealth upwards while [Finnegan](#finnegan) and [Brynn](#brynn) go to rendevous with a castle patron that is expecting them
-- [Chroneer](#chroneer) pushes a cultist off of the castle into a fire which raises the alert of the entire castle
+- [Chroneer](#chroneer) pushes a [cultist](#followers-of-levistus) off of the castle into a fire which raises the alert of the entire castle
+
+## Session #5
+- At the castle in [Caer Dineval](#caer-dineval), [Finnegan](#finnegan) and [Brynn](#brynn) while still in disguise, talk to a guard at the top of a tower
+- The guard tells them that [Kadroth](#kadroth) will be back soon and they should wait
+- [Sven](#sven), [Chroneer](#chroneer), and [Pillby](#pillby) listen to the conversation and hide nearby upstairs
+- [Chroneer](#chroneer) casts fireball at a [cultist](#followers-of-levistus) that the three of them see in the distance
+- [Pillby](#pillby) tries "negotiating" with [Kadroth](#kadroth), and finds out [Kadroth](#kadroth) actually sucks at negotiating
+- [Finnegan](#finnegan) and [Brynn](#brynn) meet a [rhyming decript pirate dwarf](#hethel) who worships [ice satan](#Stygia)
+- [Finnegan](#finnegan) totally murders [Kadroth](#kadroth)
+- [Pillby](#pillby) does a little "Home Alone"/"Solid Snake" situation and repels down the side of the castle to evade a bunch of [cultists](#followers-of-levistus)
+- The rest of the party fights all the [cultists](#followers-of-levistus) while [Pillby](#pillby) straight chills outside of the castle
+- [The Party](#party) wins the fight against the [cultists](#followers-of-levistus) (who were frozen when they died) and gets the following loot:
+    - 8 scimitars
+    - 4 daggers
+    - 8 (totally not cursed) amulets
+- [Finnegan](#finnegan), [Brynn](#brynn), and [Chroneer](#chroneer) go back into the castle and talk to the [cultist servants](#followers-of-levistus) to tell them we are here to save them and not hurt them
+- [Sven](#sven) finds 8 gold pieces from the still-living [cultists](#followers-of-levistus), and gives [Pillby](#pillby) 4 gold coins
+- [Sven](#sven) and [Pillby](#pillby) prop up some of the dead [cultists](#followers-of-levistus) to make it look like the [cultists](#followers-of-levistus) are still inhabiting the castle, sort of furthering the "Home Alone" theme of [this session](#session-5)
+- [Brynn](#brynn) finds a keyring on [Kadroth](#kadroth)
+- [The Party](#party) goes room-to-room in search of [Krannik](#krannik-seeva), the speaker of [Caer-Dineval](#caer-dineval)
+- [The Party](#party) finds [Krannik](#krannik-seeva) after [Finnegan](#finnegan) intimidates a young [cultist](#followers-of-levistus) boy
+- [The Party](#party) goes under the castle at the advice of [Krannik](#krannik-seeva), and finds a few dead [cultists](#followers-of-levistus) and finds a small boat in a lake
+- [The Party](#party) finds a frozen [cultist](#followers-of-levistus) covered in brown mold and ice
+- [Avarice](#avarice) talks to the group telepathically and offers to leave and never come back
+- [The Party](#party) votes to attack [Avarice](#avarice), whom they can't see and has warned them against it multiple times
+- [Brynn](#brynn) gets teleported to a lava-fuck hellscape by [Avarice](#avarice)
+- [The Party](#party) negotiates with [Avarice](#avarice) after her teleport breakfast with [Brynn](#brynn), and she agrees to leave with the remaining [cultists](#followers-of-levistus)
+- [The Party](#party) learns from [Avarice](#avarice) that there is a lever which will release the servants that [Krannik](#krannik-seeva) was seeking
+- [The Party](#party) lets [Krannik](#krannik-seeva) know what happened, and apologizes to him about not being able to handle [Avarice](#avarice)
+- [Krannik](#krannik-seeva) agrees to give free room & board to [the party](#party) for their efforts, and is going to look into rewards
+- [The party](#party) completes the [Investigation of the Castle of Caer-Dineval](#investigate-the-castle-of-caer-dineval) and advances to level 3!
 
 # Party
 ## Finnegan
-- bard
+- bard/monk
 - down on his luck
 - hammer talks to [Scramsacks](#scramsacks) about getting more money, scramsacks wants more money from him
 - was offered to become the speaker of [Goodmead](#goodmead) by [Allevesa](#allevesa), but turned it down
 - in [session #3](#session-3), was late as _fuck_
 - codename "Xander"
+- is very curious about the volcano fucksphere that [Avarice](#avarice) teleported [Brynn](#brynn) to in [session 5](#session-5)
 
 ## Brynn
-- greedy jew elf/shapeshifter?/red/grey blue furbolg
+- greedy jew elf/shapeshifter?/red/grey blue furbolg druid
 - acquired a book on remorhaz from [Dannica Greysteel](#dannica-greysteel) in [Bryn Shander](#bryn-shander)
     - [Chroneer](#chroneer) bought it for him, was 5 silver
 - in [session #2](#session-2), tricked a [verbeeg](#verbeeg) at the [verbeeg cave](#verbeeg-cave) by disguising himself while [the party](#party) snuck away with a cart
 - in [session #3](#session-3), was late as _fuck_
 - A.B.G.: always be guidin'
+- in [session 5](#session-5) stole a crystal off the necklace from an [magic rhyming pirate dwarf](#hethel) in the castle of [Caer Dineval](#caer-dineval), and took off the necklace as soon as he found out the weird amulet from the [magic rhyming pirate dwarf](#hethel) was cursed
+- in [session 5](#session-5) got teleported to a lava-fuck hellscape by [Avarice](#avarice) where he very nearly killed the weakest demon in existence
 
 ## Chroneer
-- high high high elf
+- high high high chronomancer elf
 - scholar
 - very out of place in [Icewind Dale](#icewind-dale)
 - studying a [time paradox](#time-paradox) that i'm interested in
@@ -140,20 +174,21 @@
 - was [cursed](#undead-face-vision) upon taking a [Pearl of Power](#pearl-of-power) and [Wand of the Warmage](#wand-of-the-warmage) from a tomb in a [verbeeg cave](#verbeeg-cave) outside of [Goodmead](#goodmead)
 - A.B.C.: always be chronoshiftin'
 - Took "the break of eternity" in [session 4](#session-4)
-- In [session 4](#session-4) stole a crystal off the necklace from an unconscious cultist in the castle of [Caer Dineval](#caer-dineval)
+- In [session 4](#session-4) stole a crystal off the necklace from an unconscious [cultist](#followers-of-levistus) in the castle of [Caer Dineval](#caer-dineval)
 
 ## Sven
-- cat man
-- ranger
+- cat man ranger
 - very high roller
 - gets downed all the time
-- has a "thing" for cultists
+- has a "thing" for [cultists](#followers-of-levistus)
 
 ## Pillby
-- a gnome who is a furious note-taker
+- a gnome who is a furious note-taker and loves items
 - interested in magical items and tinkering
 - never hits
+- only rolls well if he is solo and doing unimportant things, otherwise will not roll above a 5
 - nobody listens to his badass, totally fool-proof ladder plans
+- in [session 5](#session-5), had a great "home alone"-style plan to escape certain death and pulled it off without a hitch
 
 # Quests
 ## Sepheks Murders
@@ -187,28 +222,8 @@
 - the party encountered two [twinga](#twinga) in the woods of [Goodmead](#goodmead), after befriending a fox
 - these [twinga](#twinga) were nice to the party
 
-### Conclusion
+### Resolution
 - The party decides to keep the [twing](#twinga) and not give them to [Dannica Greysteel](#dannica-greysteel)
-
-## Investigate the Castle of Caer Dineval
-### Giver
-- [Roarck](#roarck) of the [Uphill Climb](#uphill-climb) in [Caer-Dineval](#caer-dineval)
-
-### Reward
-- Peace in [Caer-Dineval](#caer-dineval)
-
-### Duty
-- In [Session 4](#session-4), [Roarck](#roarck) of the [Uphill Climb](#uphill-climb) asked the party to investigate what is going on at the castle in [Caer-Dineval](#caer-dineval)
-- There have been caravans going to and from the castle of [Caer-Dineval](#caer-dineval)
-- Some of the townsfolk are also interested in why the castle of [Caer-Dineval](#caer-dineval) is currently "off-limits"
-- [Roarck](#roarck) suggests to the party to find out who is coming to the castle and attempt to dress like them and infiltrate
-- [The party](#party) decides what to do
-    - [Finnegan](#finnegan), [Chroneer](#chroneer), and [Brynn](#brynn) decide to stay in the inn and listen for activity
-    - [Sven](#sven) and [Pillby](#pillby) are going to attempt to find a fishing boat to see if there is some entrance or weak point of the castle that can be used to break in
-- [Pillby](#pillby) gives one of his [walkie coin-kies](#pillbys-talking-coins) to [Finnegan](#finnegan) in case anything goes wrong
-- A reconassiance plan is carried out by [Sven](#sven) and [Pillby](#pillby), and overhear a caravan will be leaving to [Bryn Shander](#bryn-shander)
-- [Sven](#sven) follows the caravan out of the castle
-- [Finnegan](#finnegan) and [Brynn](#brynn) approach the castle and convince the guard that the caravan was ambushed, and gain access to the castle
 
 # Completed Quests
 ## Missing Mead
@@ -249,6 +264,32 @@
 
 ### Resolution
 - [Allevesa](#allevesa) was made speaker of [Goodmead](#goodmead)
+
+## Investigate the Castle of Caer-Dineval
+### Giver
+- [Roarck](#roarck) of the [Uphill Climb](#uphill-climb) in [Caer-Dineval](#caer-dineval)
+
+### Reward
+- Peace in [Caer-Dineval](#caer-dineval)
+- Free room & board at [Caer-Dineval](#caer-dineval) whenever [the party](#party) wants
+- [Krannik](#krannik-seeva) is looking into gathering coin for payment
+
+### Duty
+- In [Session 4](#session-4), [Roarck](#roarck) of the [Uphill Climb](#uphill-climb) asked the party to investigate what is going on at the castle in [Caer-Dineval](#caer-dineval)
+- There have been caravans going to and from the castle of [Caer-Dineval](#caer-dineval)
+- Some of the townsfolk are also interested in why the castle of [Caer-Dineval](#caer-dineval) is currently "off-limits"
+- [Roarck](#roarck) suggests to the party to find out who is coming to the castle and attempt to dress like them and infiltrate
+- [The party](#party) decides what to do
+    - [Finnegan](#finnegan), [Chroneer](#chroneer), and [Brynn](#brynn) decide to stay in the inn and listen for activity
+    - [Sven](#sven) and [Pillby](#pillby) are going to attempt to find a fishing boat to see if there is some entrance or weak point of the castle that can be used to break in
+- [Pillby](#pillby) gives one of his [walkie coin-kies](#pillbys-talking-coins) to [Finnegan](#finnegan) in case anything goes wrong
+- A reconassiance plan is carried out by [Sven](#sven) and [Pillby](#pillby), and overhear a caravan will be leaving to [Bryn Shander](#bryn-shander)
+- [Sven](#sven) follows the caravan out of the castle
+- [Finnegan](#finnegan) and [Brynn](#brynn) approach the castle and convince the guard that the caravan was ambushed, and gain access to the castle
+
+### Resolution
+- [Kadroth](#kadroth) was murdered by [Finnegan](#finnegan) and [Brynn](#brynn) during a castle infiltratioin in [Cear-Dineval](#caer-dineval)
+- [Krannick](#krannik-seeva) is now running [Caer-Dineval](#caer-dineval) again
 
 # Locations
 ## Icewind Dale
@@ -431,6 +472,41 @@
 ## Huwar
 - A member of a caravan that left the castle of [Caer Dineval](#caer-dineval)
 
+## Kadroth
+- The leader of the [cult](#followers-of-levistus) overtaking the castle of [Caer-Dineval](#caer-dineval)
+- Was killed in [session 5](#session-5) by [Finnegan](#finnegan) and [Brynn](#brynn)
+- is a fantastic negotiator
+
+## Hethel
+- An old rhyming pirate dwarf
+- Freezes herself at will?
+
+## Avarice
+- After [session 5](#session-5), became the leader of [the followers of Levistus](#followers-of-levistus) after [Kedroth](#kadroth) was murdered by [Brynn](#brynn) and [Finnegan](#finnegan)
+- Worshipper of [Stygia](#stygia)
+- Teleported [Brynn](#brynn) to a lava outer circle of hell during the events of [session 5](#session-5)
+- Agreed to leave [Caer-Dineval](#caer-dineval) for good if [the party](#party) let her take the remaining [cultists](#followers-of-levistus)
+
+## Lanthis Alderdusk
+- Servant of [Krannick](#krannik-seeva)
+- In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
+## Elbrecht
+- Servant of [Krannick](#krannik-seeva)
+- In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
+## Milbara
+- Servant of [Krannick](#krannik-seeva)
+- In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
+## Tamsharf
+- Servant of [Krannick](#krannik-seeva)
+- In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
+## Dassar Ravenscar
+- Servant of [Krannick](#krannik-seeva)
+- In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -444,12 +520,21 @@
 - Built a set of two towers out of crystal
 - These towers were destroyed and shattered and sent fragments of the crystal material out to the far reaches of [Icewind Dale](#icewind-dale)
 
+## Stygia
+- An archdemon of hell, and a lord of [Icewind Dale](#icewind-dale)
+- [Avarice](#avarice) and the [followers of levistus](#followers-of-levistus) seem to worship them
+
 # Groups
 ## Toargs Caravan
 - group of lottery people who love oraal
 - suspected to hang out in lowly populated areas, even though the murders are happening in high populated areas
 - they travel around a lot
 - the group heard they were headed to [Goodmead](#goodmead), about 6 hours away from [Bryn Shander](#bryn-shander)
+
+## Followers of Levistus
+- The cult that was inhabiting the castle of [Caer-Dineval](#caer-dineval)
+- [Kadroth](#kadroth) was the leader, until [the party](#party) killed him
+- Now [Avarice](#avarice) is the leader
 
 ## Battlehammer Dwarf Clan
 - they run trade
@@ -509,6 +594,7 @@
 - Range is as far as you want
 - Coin 1: [Pillby](#pillby)
 - Coin 2: [Finnegan](#finnegan)
+- Work most of the time unless [Pillby](#pillby) really needs them to, for instance when he's trapped outside a castle
 
 # Games
 ## Three-Dragon Ante
