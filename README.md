@@ -145,6 +145,35 @@
 - [Krannik](#krannik-seeva) agrees to give free room & board to [the party](#party) for their efforts, and is going to look into rewards
 - [The party](#party) completes the [Investigation of the Castle of Caer-Dineval](#investigate-the-castle-of-caer-dineval) and advances to level 3!
 
+## Session #6
+- [The party](#party) spends a few days in [Caer-Dineval](#caer-dineval), which in turn makes the townsfolk ask for help and tell [the party](#party) what they need to do
+- [Finnegan](#finnegan) hears that valuable are missing from [Caer Konig](#caer-konig), and that the speaker has set patrols in the town to find out who is doing it
+- [Sfen](#sven) hears about a murder in [Easthaven](#easthaven)
+- [Brynn](#brynn) does some odd jobs around town and gets paid total donkey shit (5 silver)
+- [Finnegan](#finnegan) plays at the tavern in [Caer-Dineval](#caer-dineval), and makes 10 silver as a result, and hears that the inn at [Caer Konig](#caer-konig) has had an artifact taken
+- [The Party](#party) huddles in the [Uphill Climb](#uphill-climb), while [Tabitha](#tabitha) and [Roarke](#roarck) feed them fish stew
+- [Pillby](#pillby) gets a carved knucklehead trout ivory tower from a little kid in [Caer Dineval](#caer-dineval)
+- [The Party](#party) decides to head to [Caer Konig](#caer-konig)
+- [Finnegan](#finnegan) asks [Krannik](#krannik-seeva) to take a couple dog sleds from the keep in [Caer-Dineval](#caer-dineval)
+- [Brynn](#brynn) gets some cold-ass beets
+- [The Party](#party) gets into [Caer Konig](#caer-konig) and meets [Trovis](#trovis)
+- [Trovis](#trovis) takes [the party](#party) to [The Northern Light](#the-northern-light), an inn in [Caer Konig](#caer-konig)
+- [The Party](#party) meets [Ally](#ally) at [The Northern Light](#the-northern-light) and asks her more about what the thieves have stolen, which she answers: The rainbow lantern of [The Northern Light](#the-northern-light), some alcohol, some clothes
+- [The Party](#party) goes to the [Hook, Line, and Sinker](#hook-line-and-sinker) with [Trovis](#trovis) to find out more about the thievery
+- [Finnegan](#finnegan) speaks with [Terrance](#terrance), and talks about acca dacca's famous song, Thunderstruck, and plays a duet
+- [Trovis](#trovis) comes along and prompts [the party](#party) to head to [Frozen Far Expeditions](#frozen-far-expeditions), as they've had some items stolen as well
+- [The Party](#party) heads to [Frozen Far Expeditions](#frozen-far-expeditions) and meets [Farza](#farza), an employee, and [Atennis](#atennis), the old surly owner
+- [Pillby](#pillby) hatches a totally sweet plan to see if [Farza](#farza) is the thief by dropping a gold piece near them, and seeing if they pick it up. It didn't work.
+- [The Party](#party) heads back to [The Northern Light](#the-northern-light) to investigate the tracks left by the thieves
+- [Brynn](#brynn) and [Sfen](#sven) look for any signs of the tracks, but it has snowed too much to gain any information
+- [The Party](#party) decides to go to [Hook, Line, and Sinker](#hook-line-and-sinker) for a drink
+- [Glenn](#glenn) immediately accosts them and forces them to buy fancy garbage water (human wine) and reindeer steaks
+- [Terrance](#terrance) comes up to the table and tells the party about an evil wizard that was captured in [Easthaven](#easthaven), and he's going to be burned at the stake
+- [The Party](#party) creates a stake-out mission with [Trovis](#trovis) around the town, nothing really happens until [Sfen](#sven) finds some tracks that leads INTO town, no OUT of town, no... wait, they weren't even NEAR the town...
+- [Sfen](#sven) notices that there are some ogre tracks, and sled tracks, around town, but they never entered or left the town, and he leaves a stealthy mark on a nearby tree so he remembers where they are
+- [The Party](#party) wakes up, and decides to check in with [Frozen Far Expeditions](#frozen-far-expeditions) to check if they were missing any sleds, and they had both sleds
+- [The Party](#party) discovers the tracks are heading toward the Cairn of [Caer Konig](#caer-konig)
+
 # Party
 ## Finnegan
 - bard/monk
@@ -224,6 +253,9 @@
 
 ### Resolution
 - The party decides to keep the [twing](#twinga) and not give them to [Dannica Greysteel](#dannica-greysteel)
+
+## Thieves in Caer Konig
+- [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
 
 # Completed Quests
 ## Missing Mead
@@ -329,6 +361,19 @@
 
 #### Caer-Konig
 - in [session 3](#session-3), [pillby](#pillby) found out they are dealing with thieves
+- [Trovis](#trovis) is the speaker
+
+##### The Northern Light
+- The main inn in [Caer Konig](#caer-konig)
+
+##### Hook, Line, and Sinker
+- Another inn in [Caer Konig](#caer-konig)
+- Owned by an enthusiastic half-elf
+- Has a halfling bard who dresses VERY warm
+
+##### Frozen Far Expeditions
+- An adventuring gear shop
+- In [session 6](#session-6), [the party](#party) learns that they had a sack of pearls stolen, about 4 days ago
 
 #### Caer-Dineval
 ![A map of Caer-Dineval](./caer-dineval.jpg)
@@ -506,6 +551,37 @@
 ## Dassar Ravenscar
 - Servant of [Krannick](#krannik-seeva)
 - In [session 5](#session-5), was discovered in the cistern of the castle of [Caer-Dineval] after [the party](#party) made a deal with [Avarice](#avarice)
+
+## Trovis
+- The speaker of [Caer Konig](#caer-konig)
+- Silver dragonborn
+- Alcoholic
+- Kind of a psychopath
+
+## Cory
+- One of the sisters that owns [The Northern Light](#the-northern-light)
+- Sister of [Ally](#ally)
+- Knows about some tracks that were left by the thieves near [The Northern Light](#the-northern-light)
+
+## Ally
+- One of the sisters that owns [The Northern Light](#the-northern-light)
+- Sister of [Cory](#cory)
+
+## Glenn
+- Owner of the [Hook, Line, and Sinker](#hook-line-and-sinker)
+
+## Terrance
+- The bard at the [Hook, Line, and Sinker](#hook-line-and-sinker)
+
+## Farza
+- Real name is Dorshlin Supbarlshlynn
+- An employee at the [Frozen Far Expeditions](#frozen-far-expeditions), an adventuring store
+- Younger scout ranger dwarf
+
+## Atennis
+- The proprietor of [Frozen Far Expeditions](#frozen-far-expeditions)
+- Older human, has the best accent
+- Swears a lot, and his generally hilarious
 
 # Legends
 ## Oraal the Frost Maiden
