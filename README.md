@@ -174,6 +174,31 @@
 - [The Party](#party) wakes up, and decides to check in with [Frozen Far Expeditions](#frozen-far-expeditions) to check if they were missing any sleds, and they had both sleds
 - [The Party](#party) discovers the tracks are heading toward the Cairn of [Caer Konig](#caer-konig)
 
+## Session #7
+- [Chroneer](#chroneer) now has a very effeminate accent
+- [The Party](#party) talks about a river outside of [Caer Konig](#caer-konig) for quite some time
+- [Sfen](#sven) walks up the rock face stairs toward [Caer Konig](#caer-konig) after having some stair conversations with [Finnegan](#finnegan)
+- [The Party](#party) scales a 10 foot ice wall for the better part of 30 minutes
+- [Brynn](#brynn) and [Pillby](#pillby) play rock parchment shears while waiting for the ice wall scaling
+- [Pillby](#pillby) critically fails and falls down the ice when rolling an 8 (???) and wakes up a yeti in an ice cave, recording the first ever critical fail with an 8 in history
+- [The Party](#party) manages to somehow knock the yeti unconscious
+- [The Party](#party) explores the yeti's cave in an attempt to make it even more angry, and discovers _tons_ of yeti puke and shit, as well as a trap door
+- [Finnegan](#finnegan) climbs a ladder to a trap door, tries to open it, and gets shot in the face by a Duregar, and falls 30 feet
+- [The Party](#party) gets into a fight with the Duregar and his lil dwarf buddies
+- [Pillby](#pillby) roasts the last remaining Duregar, and struggles to think of a cool line
+- [The Party](#party) loots up the dead Duregar and the guard shack which they crept up in to
+    - 4 javelins
+    - 2 small shields
+    - warpick
+    - crossbow with 20 quarrels of bolts (goes to [Finnegan](#finnegan))
+    - dried goat meat (5 days)
+    - 20 pieces of silver (4 each)
+    - 15 pieces of copper (3 each)
+    - 50 caltrops (half to [Sfen](#sven) and half to [Finnegan](#finnegan))
+- There are no exits from the guard shack, besides the ladder back down to the cave, so [the Party](#party) exits that way
+- [The party](#party) sees an entrance to a very large stone fortress, the entrance to [Caer Konig](#caer-konig)
+- [Finnegan](#finnegan) thinks next time if the doors are locked and there is no easy way in, [the party](#party) should traverse the river below
+
 # Party
 ## Finnegan
 - bard/monk
@@ -648,6 +673,11 @@
 - This was a curse, which was dispelled by water from a pool in the [verbeeg cave](#verbeeg-cave)
 
 # Magic Items
+## Lantern of Tracking
+- While within any elemental type, it's flame turns light green
+- [Finnegan](#finnegan) recieved this as a reward from the [Find Twingas](#find-twingas) quest
+- In [Session #7](#session-7), [Finnegan](#finnegan) gave it to [Brynn](#brynn) so he can see in the dark when elementals are around
+
 ## Pearl of Power
 - A perfect pearl which recharges a single spell slot every day at dawn
 
