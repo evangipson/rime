@@ -225,6 +225,7 @@
 - [The party](#party) hands over the pearls to [Atennis](#atennis) and get like 2 gold or something :)
 - [Brynn](#brynn) haggles [Atennis](#atennis) all the way up to half the value for all the war picks and 2 mess kits for 9 gold
 - [Brynn](#brynn), [Finnegan](#finnegan), and [Trovis](#trovis) spit all over each other and the party gets 10 gold and passage on a caravan out of town
+- [The party](#party) hops on the caravan and totally sees [Sephik](#sephek-kaltro) in the distance halfway to [Brynn Shander](#bryn-shander)
 
 # Party
 ## Finnegan
@@ -377,8 +378,13 @@
 
 # Locations
 ## Icewind Dale
-![A map of Icewind Dale](./icewind-dale.jpg)
 - Kuncklehead Trout is the biggest export
+
+### Map
+![A map of Icewind Dale](./icewind-dale.jpg)
+
+### Travel time map
+![A map of travel times in Icewind Dale](./icewind-dale-travel-time-map.png)
 
 ### Redwaters
 - Called "Redwaters" because of a battle with fish men which left the river red
