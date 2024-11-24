@@ -199,6 +199,33 @@
 - [The party](#party) sees an entrance to a very large stone fortress, the entrance to [Caer Konig](#caer-konig)
 - [Finnegan](#finnegan) thinks next time if the doors are locked and there is no easy way in, [the party](#party) should traverse the river below
 
+## Session #8
+- [The party](#party) fights like 1,000 duregar and an ogre
+- [The party](#party) loots 15 silver coins
+
+## Session #9
+- [The party](#party) takes a long rest
+- [The party](#party) fights two large duregar
+- [The party](#party) loots 24 gold pieces and 17 silver pieces
+- [The party](#party) loots a magic lantern
+- [Sfen](#sven) and [Finnegan](#finnegan) take a dagger
+- [Chroneer](#chroneer) takes ??? 
+- [Brynn](#brynn) takes ???
+- [Pillby](#pillby) takes a potion of healing
+- [The party](#party) the party finds 75 gold pieces
+- [The party](#party) finds 25 pearls worth 5 gold pieces each
+- [The party](#party) thinks that they are the stolen valuables from [The castle of Caer Konig](#caer-konig)
+- [The party](#party) finds 2 suits of scale mail, 9 javelins, 2 climbers kits, and 4 mess kits
+    - [Finnegan](#finnegan) and [Sfen](#sfen) take a climbers kit
+- [The party](#party) finds a [note about chardolyn](#chardolyn-note)
+- [The party](#party) finds a [Chwinga](#twinga) also, and [Brynn](#brynn) has it sit on his shoulder
+- [The party](#party) travels back to the tavern in [Caer Konig](#caer-konig), and seek out [Trovis](#trovis)
+- [Chroneer](#chroneer) gives [Trovis](#trovis) back the latern they found from the castle
+- [The party](#party) heads to the [Frozen Far](#frozen-far-expeditions) to sell their weapons
+- [The party](#party) hands over the pearls to [Atennis](#atennis) and get like 2 gold or something :)
+- [Brynn](#brynn) haggles [Atennis](#atennis) all the way up to half the value for all the war picks and 2 mess kits for 9 gold
+- [Brynn](#brynn), [Finnegan](#finnegan), and [Trovis](#trovis) spit all over each other and the party gets 10 gold and passage on a caravan out of town
+
 # Party
 ## Finnegan
 - bard/monk
@@ -701,6 +728,20 @@
 - Coin 1: [Pillby](#pillby)
 - Coin 2: [Finnegan](#finnegan)
 - Work most of the time unless [Pillby](#pillby) really needs them to, for instance when he's trapped outside a castle
+
+# Notes
+
+## Chardolyn Note
+[The party](#party) found a note in [Caer Dineval](#caer-dineval) in [Session #9](#session-9) which seems to be from and to a duregar.
+
+The text is as follows:
+<pre>
+Brother,
+
+You will find me on the frozen ferry in Easthaven. From this new base, the search for chardalyn continues. Long may our father reign over this dark land!
+
+Durth
+</pre>
 
 # Games
 ## Three-Dragon Ante
