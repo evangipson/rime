@@ -227,6 +227,26 @@
 - [Brynn](#brynn), [Finnegan](#finnegan), and [Trovis](#trovis) spit all over each other and the party gets 10 gold and passage on a caravan out of town
 - [The party](#party) hops on the caravan and totally sees [Sephik](#sephek-kaltro) in the distance halfway to [Brynn Shander](#bryn-shander)
 
+## Session #10
+- [The party](#party) decides to hunker down and let the blizzard pass, even though [Sephek's](#sephek-kaltro) caravan ([Torga's caravan](#toargs-caravan)) is nearby
+- [The party](#party) actually decides to walk around in a blizzard and scout out [Torga's caravan](#toargs-caravan)
+- [Sfen](#sven) tried to prone and hide in the snow, and the [Axebeak](#axebeak) leading [Torga's caravan](#toargs-caravan) noticed and sqwaked
+- [The party](#party) gets into a fight with [Torga's caravan](#toargs-caravan), with the attack lead by [Torga](#torrga-icevien) throwing a dagger and missing [Sfen](#sven)
+- [Sephek](#sephek-kaltro) almost stabs [Sfen](#sven) to death immediately
+- [Pillby](#pillby) kills [Sephek](#sephek-kaltro) totally on purpose by doing the exact amount of _fire_ damage that he needed, and [Sephek](#sephek-kaltro) combusts into melting ice shards
+- [The party](#party) is victorious in the encounter with [Sephek](#sephek-kaltro) and [Torga's caravan](#toargs-caravan)
+- [The party](#party) decides to long rest in the bandit camp that [Torga's caravan](#toargs-caravan) set up
+- [Brynn](#brynn), [Pillby](#pillby), [Finn](#finnegan), and [Chroneer](#chroneer) all try and search the bandit camp, and nobody finds anything, except [Brynn](#brynn), who breathfully moans on an iron strongbox and a pouch to determine if it's magic, and finds, despite his erotic moans, it's not
+- [Finn](#finnegan) tries to unlock the iron strongbox, attempts to do so almost perfectly, and breaks his lockpick
+- [Brynn](#brynn) finds a key on [Torga](#torrga-icevien), but doesn't breathfully moan on her, and also finds a scimitar, a dagger, and a set of studded leather
+- [Brynn](#brynn) also finds 92 gold, 76 silver, 125 copper, and 7 gemstones worth 10 gold a piece, also an [envelope for a contract killing](#incriminating-assassination-contract) that [incriminates Sephek Kaltro in a murder-for-hire plot](#sepheks-murders)
+- [The party](#party) also finds among the bandit camp: cut wood, flint and tinder, flasks of whale oil, blankets, furs, rations, bottles of wine, casks of cheap ale, fake medicines, and vials of poison (used primarily for killing vermin)
+- The estimated haul for everyone, is just about 500 gold, so 100 gold per person (not distributed yet)
+- [The party](#party) decides to head to [Bryn Shander](#bryn-shander)
+- [The party](#party) long rests in the stolen caravan while feeling their newfound strength as they approach level 4
+- [The party](#party) hears rumblings of a group of dwarves having iron ingots stolen from them as they enter [Bryn Shander](#bryn-shander)
+- Every member of [the party](#party) expends 1 silver each to stay in a room at [Bryn Shander](#bryn-shander)
+
 # Party
 ## Finnegan
 - bard/monk
@@ -271,6 +291,7 @@
 - only rolls well if he is solo and doing unimportant things, otherwise will not roll above a 5
 - nobody listens to his badass, totally fool-proof ladder plans
 - in [session 5](#session-5), had a great "home alone"-style plan to escape certain death and pulled it off without a hitch
+- in [session 10](#session-10), killed [Sephek Kaltro](#sephek-kaltro) completely purposefully
 
 # Quests
 ## Sepheks Murders
@@ -290,6 +311,8 @@
 ### Events
 - In [Session #1](#session-1), the party set out from [Bryn Shander](#bryn-shander), and ran into [Torga's Caravan](#toargs-caravan)
 - In [Session #1](#session-1), [Torga](#torrga-icevien) talked to the party, and brought [Sephek](#sephek-kaltro) to the party, who observed that he appeared to not be breathing
+- In [Session #10](#session-10), [The party](#party) got into an altercation with [Torga's caravan](#toargs-caravan), and [Pillby](#pillby) killed [Sephek](#sephek-kaltro)
+- In [Session #10](#session-10), [The party](#party) found an [envelope for a contract killing](#incriminating-assassination-contract) which incriminates [Sephek](#sephek-kaltro)
 
 ## Find Twingas
 ### Giver
@@ -748,6 +771,11 @@ You will find me on the frozen ferry in Easthaven. From this new base, the searc
 
 Durth
 </pre>
+
+## Incriminating assassination contract
+[The party](#party) found a note while fighting [Torga's caravan](#toargs-caravan) in [session 10](#session-10) that incriminates [Sephek](#sephek-kaltro) in [a murder for hire](#sepheks-murders)
+
+The text describes that a half-elf was "taken care of" by [Torga's caravan](#toargs-caravan)
 
 # Games
 ## Three-Dragon Ante
