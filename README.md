@@ -247,6 +247,38 @@
 - [The party](#party) hears rumblings of a group of dwarves having iron ingots stolen from them as they enter [Bryn Shander](#bryn-shander)
 - Every member of [the party](#party) expends 1 silver each to stay in a room at [Bryn Shander](#bryn-shander)
 
+## Session #11
+- [The party](#party) arrives in [Brynn Shander](#bryn-shander) and arrives at the [Northlook Inn](#the-northlook) for a night of rest, and wakes up to eat breakfast
+- [Finnegan](#finnegan) buys a round for a haggard group of dwarves
+- The haggard group of dwarves (who happen to be Battlehammer dwarves) recently had their friend torn to bits by a yeti, and their caravan was apprehended as well, while trying to deliver iron to [Bryn Shander](#bryn-shander)
+- [The party](#party) agrees to [help the Battlehammer dwarves find their caravan](#find-the-battlehammer-caravan)
+- [The party](#party) finds [Hjoln](#hjoln), and explains that they've murdered [Sephek](#sephek-kaltro)
+- [The party](#party) heads to the [Black Iron Blades](#black-iron-blades) to try and liquidate [Torga's Caravan](#toargs-caravan)
+- [Finnegan](#finnegan) barters [Torga's Caravan](#toargs-caravan) to the [Black Iron Blades](#black-iron-blades) for 800 gold pieces, 2 (shit) scimitars, and a pickaxe
+- Each member of [the party](#party) gets 180 gold each
+- [The party](#party) heads to the [Shrine of Ammanatar](#shrine-of-ammanatar) in search of [Dannica](#dannica-greysteel), and overhear a human speaking with an gnome tinkerer acolyte about a [missing person](#macreedus)
+- [The party](#party) lets the [twinga](#twinga) they found run wild and go to [Dannica](#dannica-greysteel), and he spills some ink on her book
+- [Dannica](#dannica-greysteel) gives the party 50 gold pieces for finding a [twinga](#twinga), and names him "Inky"
+- [The party](#party) gets 10 gold pieces each for finding the [twinga](#twinga) for [Dannica](#dannica-greysteel)
+- [The party](#party) chats with a gnome about [Macreedus](#macreedus)
+- [Pillby](#pillby) gives [Hjoln](#hjoln) 100 gold pieces to be on the lookout for a gemstone or crystal of that value to make a new homunculous servant
+- [The party](#party) decides to go [find the Battlehammer Caravan](#find-the-battlehammer-caravan), which is about a day and a half travel north of [Bryn Shander](#bryn-shander), then go and [find Macreedus](#find-macreedus)
+- [Finnegan](#finnegan) talks to [Scramsacks](#scramsacks) at the [Northlook Inn](#the-northlook), and he asks for a cask of dwarven ale if [the party](#party) comes across one
+- [Finnegan](#finnegan) plays some music in the [Northlook Inn](#the-northlook)
+- [The party](#party) sets off on their travel to the dwarven valley to the north of [Bryn Shander](#bryn-shander)
+- [Pillby](#pillby) is on first watch the first night, and totally does a great job watching and snores the entire watch
+- [The party](#party) finds the corpse of Ubok, the missing Battlehammer dwarf, who has had both of his arms, his head, and his chest removed by a yeti
+- [Sfen](#sven) investigates some tracks around the desecrated corpse of Ubok, and finds some goblin tracks leading away from his body
+- [The party](#party) decides to lug the body of Ubok, because the Battlehammer dwarves wanted his body
+- [The party](#party) runs into a band of goblins, and one-taps all of them by attaching their brains to the [caravan](#find-the-battlehammer-caravan)
+- [The party](#party) interrogates the [goblin boss](#issabye) that was left alive and finds out he was going to [Cracker Jack's](#karakajjaka), a goblin encampment lead by a goblin that is "half metal"
+- [The party](#party) finds 43 copper, 13 silver, and a bone whistle (not divvy'd)
+- [The party](#party) lets [Issabye](#issabye) be devoured by the two bears that [Brynn](#brynn) let free
+- [Sfen](#sven) hides the [Battlehammer caravan](#find-the-battlehammer-caravan) in a tree so [the party](#party) can come back and find it after [visiting Macreedus' cabin](#find-macreedus)
+- [The party](#party) finds the charred remains of [Macreedus](#macreedus), with a dull sphere in front of his corpse
+- [Pillby](#pillby) attempts to grab the [Summerstar](#summerstar), and ends up being exploded into a pile of ash
+- [The party](#party) finds some ghostly communications from [Pillby](#pillby) outside in the snow
+
 # Party
 ## Finnegan
 - bard/monk
@@ -294,44 +326,41 @@
 - in [session 10](#session-10), killed [Sephek Kaltro](#sephek-kaltro) completely purposefully
 
 # Quests
-## Sepheks Murders
+## Find a cask of Dwarven Ale for Scramsacks
 ### Giver
-- [Hjoln](#hjoln) in [The Northlook](#the-northlook)
+- [Scramsacks](#scramsacks) of the [Northlook Inn](#the-northlook)
 
 ### Reward
-- 100 gold
+- None determined
 
 ### Duty
-- Ascertain if [Sephek](#sephek-kaltro) is guilty
-- If he's guilty, get rid of him
-    - all victims were lottery dodgers
-    - they died in the three most populated towns
-- Guilty parties all involved in [The Lottery](#the-lottery) controlled by government of each town
+- Find any casks of dwarven ale in the mountains and bring it back to [Scramsacks](#scramsacks)
 
-### Events
-- In [Session #1](#session-1), the party set out from [Bryn Shander](#bryn-shander), and ran into [Torga's Caravan](#toargs-caravan)
-- In [Session #1](#session-1), [Torga](#torrga-icevien) talked to the party, and brought [Sephek](#sephek-kaltro) to the party, who observed that he appeared to not be breathing
-- In [Session #10](#session-10), [The party](#party) got into an altercation with [Torga's caravan](#toargs-caravan), and [Pillby](#pillby) killed [Sephek](#sephek-kaltro)
-- In [Session #10](#session-10), [The party](#party) found an [envelope for a contract killing](#incriminating-assassination-contract) which incriminates [Sephek](#sephek-kaltro)
-
-## Find Twingas
+## Find Macreedus
 ### Giver
-- [Dannica Greysteel](#dannica-greysteel) in [Bryn Shander](#bryn-shander)
+- Human acolyte at the [Shrine of Ammanatar](#shrine-of-ammanatar), sort of
+- Gnome tinkerer acolyte
 
 ### Reward
-- 25 gold and a latern covered in icicles and runes
-    - Latern of Tracking: while within any elemental type it's flame turns light green
+- None
 
 ### Duty
-- find a [twinga](#twinga) and report back to [Dannica Greysteel](#dannica-greysteel)
-- the party encountered two [twinga](#twinga) in the woods of [Goodmead](#goodmead), after befriending a fox
-- these [twinga](#twinga) were nice to the party
-
-### Resolution
-- The party decides to keep the [twing](#twinga) and not give them to [Dannica Greysteel](#dannica-greysteel)
+- Go find the insane [Macreedus](#macreedus) for the gnome tinkerer acolyte
 
 ## Thieves in Caer Konig
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
+
+## Find the Battlehammer Caravan
+### Giver
+- Haggard Battlehammer dwarf in [Bryn Shander](#bryn-shander)
+
+### Reward
+- Boon of the Battlehammer dwarves
+- Gemstones for each party member (which [Pillby](#pillby) jew-ily verified) worth 50 gold pieces each
+
+### Duty
+- In [session 11](#session-11), [The party](#party) agreed to help the Battlehammer dwarves find their caravan
+- In [session 11](#session-11), [the party](#party) found the Battlehammer caravan being ransacked and pulled away by goblins
 
 # Completed Quests
 ## Missing Mead
@@ -398,6 +427,48 @@
 ### Resolution
 - [Kadroth](#kadroth) was murdered by [Finnegan](#finnegan) and [Brynn](#brynn) during a castle infiltratioin in [Cear-Dineval](#caer-dineval)
 - [Krannick](#krannik-seeva) is now running [Caer-Dineval](#caer-dineval) again
+
+## Sepheks Murders
+### Giver
+- [Hjoln](#hjoln) in [The Northlook](#the-northlook)
+
+### Reward
+- 100 gold
+
+### Duty
+- Ascertain if [Sephek](#sephek-kaltro) is guilty
+- If he's guilty, get rid of him
+    - all victims were lottery dodgers
+    - they died in the three most populated towns
+- Guilty parties all involved in [The Lottery](#the-lottery) controlled by government of each town
+
+### Events
+- In [Session #1](#session-1), the party set out from [Bryn Shander](#bryn-shander), and ran into [Torga's Caravan](#toargs-caravan)
+- In [Session #1](#session-1), [Torga](#torrga-icevien) talked to the party, and brought [Sephek](#sephek-kaltro) to the party, who observed that he appeared to not be breathing
+- In [Session #10](#session-10), [The party](#party) got into an altercation with [Torga's caravan](#toargs-caravan), and [Pillby](#pillby) killed [Sephek](#sephek-kaltro)
+- In [Session #10](#session-10), [The party](#party) found an [envelope for a contract killing](#incriminating-assassination-contract) which incriminates [Sephek](#sephek-kaltro)
+
+### Resolution
+- In [session 11](#session-11), [Finnegan](#finnegan) bartered [Torga's Caravan](#toargs-caravan) to the [Black Iron Blades](#black-iron-blades) for 800 gold pieces, 2 horrible scimitars, and a miner's pickaxe
+- In [session 11](#session-11), [the party](#party) connected with [Hjoln](#hjoln) and recieved their reward of 100 gold pieces
+
+## Find Twingas
+### Giver
+- [Dannica Greysteel](#dannica-greysteel) in [Bryn Shander](#bryn-shander)
+
+### Reward
+- 25 gold and a latern covered in icicles and runes
+    - Latern of Tracking: while within any elemental type it's flame turns light green
+
+### Duty
+- find a [twinga](#twinga) and report back to [Dannica Greysteel](#dannica-greysteel)
+- the party encountered two [twinga](#twinga) in the woods of [Goodmead](#goodmead), after befriending a fox
+- these [twinga](#twinga) were nice to the party
+
+### Resolution
+- The party decides to keep the [twinga](#twinga) and not give them to [Dannica Greysteel](#dannica-greysteel)
+- In [session 11](#session-11), the party the [twinga](#twinga) that [Brynn](#brynn) loved to [Dannica](#dannica-greysteel) in [Bryn Shander](#bryn-shander), for a total of 50 gold pieces
+
 
 # Locations
 ## Icewind Dale
@@ -502,8 +573,15 @@
 
 #### Targos
 
+#### Shrine of Ammanatar
+- A shrine to the god of the sun, Ammanatar
+
 #### East Road
 - a road which connects [Easthaven](#easthaven) and [Bryn Shander](#bryn-shander)
+
+## Karakajjaka
+- A goblin camp to the southeast of [Icewind Dale](#icewind-dale)
+- Lead by a goblin that is "half metal"
 
 # People
 ## Hjoln
@@ -664,6 +742,22 @@
 - Older human, has the best accent
 - Swears a lot, and his generally hilarious
 
+## Macreedus
+- A former acolyte at the [Shrine of Ammanatar](#shrine-of-ammanatar) in [Bryn Shander](#bryn-shander)
+- Boisterous
+- Had "weird ideas", like building something to make everlasting warmth called the "[Summerstar](#summerstar)"
+- Friends with Copper
+
+## Copper
+- An acolyte of the [Shrine of Ammanater](#shrine-of-ammanatar)
+- Friends with [Macreedus](#macreedus)
+
+## Mishon
+- A human acolyte of the [Shrine of Ammanatar](#shrine-of-ammanatar)
+
+## Issabye
+- A goblin boss from [Kalakamaogja](#karakajjaka) that was "befriended" by [the party](#party) after they discovered the goblin band shanghai'd the caravan
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -694,7 +788,8 @@
 - Now [Avarice](#avarice) is the leader
 
 ## Battlehammer Dwarf Clan
-- they run trade
+- They run trade
+- In [session 11](#session-11), [the party](#party) agreed to help the Battlehammers [find their lost caravan](#find-the-battlehammer-caravan) outside of [Bryn Shander](#bryn-shander)
 
 ## Zentarum
 - A guild that is for exchanging of illegal items and they deal with evil & neutral things
@@ -727,6 +822,10 @@
 ## Undead Face Vision
 - [Chroneer](#chroneer) saw a vision of an undead face when taking the [Pearl of Power](#pearl-of-power) and [Wand of the Warmage](#wand-of-the-warmage) from the tomb in the [verbeeg cave](#verbeeg-cave)
 - This was a curse, which was dispelled by water from a pool in the [verbeeg cave](#verbeeg-cave)
+
+## Summerstar
+- A concept being worked on by [Macreedus](#macreedus), an insane former acolyte of the [Shrine of Ammanatar](#shrine-of-ammanatar)
+- Once turned on, it will melt all the snow in [Icewind Dale](#icewind-dale) and remove all the coldness from [Oraal, the Frostmaiden](#oraal-the-frost-maiden)
 
 # Magic Items
 ## Lantern of Tracking
@@ -776,6 +875,21 @@ Durth
 [The party](#party) found a note while fighting [Torga's caravan](#toargs-caravan) in [session 10](#session-10) that incriminates [Sephek](#sephek-kaltro) in [a murder for hire](#sepheks-murders)
 
 The text describes that a half-elf was "taken care of" by [Torga's caravan](#toargs-caravan)
+
+## Note to Macreedus from Copper
+In [session 11](#session-11), [the party](#party) found a note addressed to the charred remains of [Macreedus](#macreedus).
+
+The text is as follows:
+<pre>
+Macreadus,
+
+I’ve had enough of this damned, relentless cold. I feel it creep into my bones, my head, my heart. I’m heading back to Ten-Towns for a decent meal and a warm bed. I fear this endless winter has numbed your mind, and any tinkerer worth their chains can see the Summer Star is a fool’s errand. Maybe without me here to incessantly complain to, you’ll finally snap out of your obsession.
+
+If you truly insist on dedicating your remaining days to this doomed project, might I suggest that three is better than two. I considered telling you before, but you were particularly rude about the dinner I made last night.
+
+May the light of the Morninglord protect you,
+Copper
+</pre>
 
 # Games
 ## Three-Dragon Ante
