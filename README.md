@@ -10,6 +10,7 @@
 - [Creatures](#creatures)
 - [Concepts](#concepts)
 - [Magic Items](#magic-items)
+- [Notes](#notes)
 - [Games](#games)
 
 # Summary
@@ -279,6 +280,30 @@
 - [Pillby](#pillby) attempts to grab the [Summerstar](#summerstar), and ends up being exploded into a pile of ash
 - [The party](#party) finds some ghostly communications from [Pillby](#pillby) outside in the snow
 
+## Session #12
+- [The party](#party) tries to find out how to communicate with [Pillby's](#pillby) desecrated corpse
+- [Pillby](#pillby) communicates with [Finnegan](#finnegan) by writing "Nice amulet" in the snow after he picks one up and wears it
+- [Pillby](#pillby) has some communication with a big fiery head in [Purgatory](#purgatory)
+- [The party](#party) starts to find out how to get [Pillby](#pillby) out of [Purgatory](#purgatory)
+- [Chroneer](#chroneer) and [Brynn](#brynn) decipher some runes on a ring and figure out how to bring [Pillby](#pillby) back from [Purgatory](#purgatory)
+- [Pillby](#pillby) regales [the party](#party) with tales from [Purgatory](#purgatory)
+- [The party](#party) postulates about how the [Summerstar](#summerstar) actually worked
+- [Chroneer](#chroneer) talks about a plan to sell good weather to towns with the first recorded SaaS ([Summerstar](#summerstar)-as-a-Service) business model of history
+- [The party](#party) rests in [Sfen's hut](#leomans-tiny-hut) overnight, outside of the cabin, in case a large warm beacon drew attention
+- A bunch of crystally bois and a cult leader show up and notice [Sfen's hut](#leomans-tiny-hut), so [the party](#party) attempts to fight them
+- [Sfen](#sven) pulls a "Weekend at Bernie's" (kind of) and goes fucking blind
+- [Pillby](#pillby) also goes blind from the man with many attacks
+- [The party](#party) overall gets their asses kicked by these crystally flying bois and a dude in a black hoody
+- [The party](#party) somehow beats the gang of assholes that attacked them
+- [The party](#party) takes a long rest inside the cabin
+- [The party](#party) decides to go to [Bryn Shander](#bryn-shander)
+- [The party](#party) meets a couple of santie clause [Battlehammer dwarves](#battlehammer-dwarf-clan) looking for Knucklehead Trout
+- [Pillby](#pillby) creates the "Hammered Hammer", which smells of the wine that he smells like, and gifts it to the santie bois
+- [The party](#party) passes [Targos](#targos) on the way to [Bryn Shander](#bryn-shander)
+- [The party](#party) arrives at [Bryn Shander](#bryn-shander) and heads to the House of the Morning Lord to see [Copper](#copper), and let him know about [Macreedus'](#macreedus) downfall
+- [The party](#party) goes to [the Northlook Inn](#the-northlook) and reports the results of the [caravan theft](#find-the-battlehammer-caravan) quest and turns it in
+- [The party](#party) notices [Dannica](#dannica-greysteel) walk into [The Northlook Inn](#the-northlook)...
+
 # Party
 ## Finnegan
 - bard/monk
@@ -324,6 +349,7 @@
 - nobody listens to his badass, totally fool-proof ladder plans
 - in [session 5](#session-5), had a great "home alone"-style plan to escape certain death and pulled it off without a hitch
 - in [session 10](#session-10), killed [Sephek Kaltro](#sephek-kaltro) completely purposefully
+- In [session 11](#session-11), touched the [Summerstar](#summerstar) and fucking died
 
 # Quests
 ## Find a cask of Dwarven Ale for Scramsacks
@@ -335,14 +361,7 @@
 
 ### Duty
 - Find any casks of dwarven ale in the mountains and bring it back to [Scramsacks](#scramsacks)
-
-## Find Macreedus
-### Giver
-- Human acolyte at the [Shrine of Ammanatar](#shrine-of-ammanatar), sort of
-- Gnome tinkerer acolyte
-
-### Reward
-- None
+- In [Session 12](#session-12), [The party](#party) ran into a couple santa-themed [Battlehammer dwarves](#battlehammer-dwarf-clan) and instead of buying a cask, they opted to get totally shit-faced instead
 
 ### Duty
 - Go find the insane [Macreedus](#macreedus) for the gnome tinkerer acolyte
@@ -350,6 +369,7 @@
 ## Thieves in Caer Konig
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
 
+# Completed Quests
 ## Find the Battlehammer Caravan
 ### Giver
 - Haggard Battlehammer dwarf in [Bryn Shander](#bryn-shander)
@@ -362,7 +382,20 @@
 - In [session 11](#session-11), [The party](#party) agreed to help the Battlehammer dwarves find their caravan
 - In [session 11](#session-11), [the party](#party) found the Battlehammer caravan being ransacked and pulled away by goblins
 
-# Completed Quests
+### Outcome
+- In [session 12](#session-12), [the party](#party) went back to [Bryn Shander](#bryn-shander) and reported to the [haggard Battlehammer dwarves](#battlehammer-dwarf-clan), and returned the caravan
+
+## Find Macreedus
+### Giver
+- Human acolyte at the [Shrine of Ammanatar](#shrine-of-ammanatar), sort of
+- Gnome tinkerer acolyte
+
+### Reward
+- Free healing from the [Shrine of Ammantar](#shrine-of-ammanatar) anytime the party is in [Bryn Shander](#bryn-shander)
+
+### Outcome
+- In [Session 12](#session-12), [The party](#party) reported to [Copper](#copper) about [Macreedus'](#macreedus) downfall
+
 ## Missing Mead
 ### Giver
 - [Crying Man, Feff](#feff-morrin) in [Goodmead](#goodmead)
@@ -572,6 +605,8 @@
 - the [East Road](#east-road) connects Easthaven and [Bryn Shander](#bryn-shander)
 
 #### Targos
+- on the shores
+- around 1,000 people
 
 #### Shrine of Ammanatar
 - A shrine to the god of the sun, Ammanatar
@@ -582,6 +617,10 @@
 ## Karakajjaka
 - A goblin camp to the southeast of [Icewind Dale](#icewind-dale)
 - Lead by a goblin that is "half metal"
+
+## Purgatory
+- In [Session 11](#session-11), [Pillby](#pillby) blew himself up trying to grab the [Summerstar](#summerstar) and ended up in Purgatory
+- In [Session 12](#session-12), [Pillby](#pillby) hung out and had some misadventures in Purgatory
 
 # People
 ## Hjoln
@@ -858,7 +897,6 @@
 - Work most of the time unless [Pillby](#pillby) really needs them to, for instance when he's trapped outside a castle
 
 # Notes
-
 ## Chardolyn Note
 [The party](#party) found a note in [Caer Dineval](#caer-dineval) in [Session #9](#session-9) which seems to be from and to a duregar.
 
