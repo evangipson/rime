@@ -339,6 +339,14 @@
 - [Brynn](#brynn) shits his pants because he's so scared of the bansh
 - [The party](#party) kills the bansher
 - [Finn](#finnegan) begrudgingly gives his [Amulet of Health](#amulet-of-health) to [Sfen](#sven)
+- [The party](#party) takes a long rest, then looks around for more [white moose tracks](#hunt-a-white-moose)
+- [The party](#party) follows the moose tracks and comes across a nice lil' fancy forest area with a bunch of marble carvings
+- [Sfen](#sven) has a vision of a Pinecone, Twig, Flame, Feather, and Hand
+- [The party](#party) spends some time investigating the area, and finds something that is preventing people from [finding the white moose](#hunt-a-white-moose)
+- [The party](#party) discovers a moon dial, a cave, and discern the area was created by elves
+- [Pillby](#pillby) takes down the carvings on paper, and gets the sense that these items might be for a ritual, and tells that to the group
+- [Finn](#finnegan) puts his hand on the hand statue.... and, nothing happens
+- [The party](#party) attempts to solve the "ritual puzzle" for some time, and decides to wait until night time to see if the moon dial plays into the ritual
 
 # Party
 ## Finnegan
