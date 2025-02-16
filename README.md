@@ -282,7 +282,7 @@
 
 ## Session #12
 - [The party](#party) tries to find out how to communicate with [Pillby's](#pillby) desecrated corpse
-- [Pillby](#pillby) communicates with [Finnegan](#finnegan) by writing "Nice amulet" in the snow after he picks one up and wears it
+- [Pillby](#pillby) communicates with [Finnegan](#finnegan) by writing ["Nice amulet" in the snow after he picks one up and wears it](#amulet-of-health)
 - [Pillby](#pillby) has some communication with a big fiery head in [Purgatory](#purgatory)
 - [The party](#party) starts to find out how to get [Pillby](#pillby) out of [Purgatory](#purgatory)
 - [Chroneer](#chroneer) and [Brynn](#brynn) decipher some runes on a ring and figure out how to bring [Pillby](#pillby) back from [Purgatory](#purgatory)
@@ -304,6 +304,42 @@
 - [The party](#party) goes to [the Northlook Inn](#the-northlook) and reports the results of the [caravan theft](#find-the-battlehammer-caravan) quest and turns it in
 - [The party](#party) notices [Dannica](#dannica-greysteel) walk into [The Northlook Inn](#the-northlook)...
 
+## Session #13
+- [Dannica](#dannica-greysteel) talks with [Finn](#finnegan), and lets him know that she has a favor to ask [the party](#party)
+- [The party](#party) meets [Krummok](#krummok), the dwarf, who gives a quest to [hunt a white moose](#hunt-a-white-moose)
+- [Dannica](#dannica-greysteel) gives [the party](#party) the advice that the speaker of [Lonelywood](#lonelywood) might also require further help
+- [The party](#party) decides they will eat the moose upon successfully murdering it
+- [Finn](#finnegan) plays some jazz fusion (on accident) for the crowd at [The Northlook](#the-northlook), and it didn't go over too well (he made 2 silver)
+- [The party](#party) heads out to [Targos](#targos) after a long night's rest
+- [The party](#party) gets to [Targos](#targos) without incident
+- [The party](#party) heads to the [Three Flag Sailing](#three-flag-sailing), a tavern in [Targos](#targos)
+- [Brynn](#brynn) gets tackled and licked by a dog, and then follows the dog, who leads [the party](#party) to a house inhabited by a [human man](#gay-man)
+- [The man](#gay-man) tells [the party](#party) about [his missing husband](#brokeback-mountain-pass)
+- [The party](#party) sets off from [the man's](#gay-man) home in [Targos](#targos) to head [toward the white moose](#hunt-a-white-moose)
+- It takes 5 hours for [the party](#party) and [Krummok](#krummok) to get to [Termalaine](#termalaine)
+- [The party](#party) and [Krummok](#krummok) learn about [the Gemstone Mine](#gemstone-mine), and about [how closed it is](#investigate-the-gemstone-mine)
+- [Krummok](#krummok) follows up on a hot lead and attempts to talk to the town crier's shoes, thinking that [Speaker Masshew](#speaker-masshew) was in fact, ma shoe.
+- The town crier also lets [the party](#party) and [Krummok](#krummok) know that a [recently bereaved inn](#ramshackle-inn) may be up for grabs if they [cut off the head of the white moose](#hunt-a-white-moose)
+- [Krummok](#krummok) has joined [the party](#party)
+- [The party](#party) heads to [Lonelywood](#lonelywood) and are greeted by a (very creepy) halfling child
+- [The party](#party) heads to the home of [the Speaker of Lonelywood, Nimsy Huddle](#nimsy-huddle)
+- [Nimsy](#nimsy-huddle) suggests [the party](#party) asks loggers (particularly the foreman, [Darnuth](#darnuth)) about [the white moose](#hunt-a-white-moose)
+- [The party](#party) travels about an hour outside of [Lonelywood](#lonelywood) to the [lumber camp](#lumber-camp)
+- [Finn](#finnegan) asks about [Darnuth](#darnuth), and [the party](#party) gets introduced to him
+- [Darnuth](#darnuth) lets [the party](#party) know there are two other hunting parties [looking for the white moose](#hunt-a-white-moose) as well
+- [The party](#party) heads toward [the white moose](#hunt-a-white-moose)
+- [Sfen](#sven) finds moose tracks, the lets [the party](#party)
+- [The party](#party) finds a moose, but it is not [the white moose](#hunt-a-white-moose)
+- [Brynn](#brynn) speaks with the non-white moose, and discovers it is in fact, canadian
+- [Brynn](#brynn) screams like a goat in an attempt to lure [the white moose](#hunt-a-white-moose)
+- Half of [the party](#party) begins to get exhausted, as they are following a set of moose tracks
+- [The party](#party) hears a loud scream, and prepares for combat against [the white moose](#hunt-a-white-moose)
+- [The party](#party) sees a spectral remnant of a female elf warrior, who is a banshee
+- [Chroneer](#chroneer), [Pillby](#pillby), and [Finn](#finnegan) all immediately die because of a lil' bansh yell
+- [Brynn](#brynn) shits his pants because he's so scared of the bansh
+- [The party](#party) kills the bansher
+- [Finn](#finnegan) begrudgingly gives his [Amulet of Health](#amulet-of-health) to [Sfen](#sven)
+
 # Party
 ## Finnegan
 - bard/monk
@@ -323,6 +359,7 @@
 - A.B.G.: always be guidin'
 - in [session 5](#session-5) stole a crystal off the necklace from an [magic rhyming pirate dwarf](#hethel) in the castle of [Caer Dineval](#caer-dineval), and took off the necklace as soon as he found out the weird amulet from the [magic rhyming pirate dwarf](#hethel) was cursed
 - in [session 5](#session-5) got teleported to a lava-fuck hellscape by [Avarice](#avarice) where he very nearly killed the weakest demon in existence
+- scared of halfling children
 
 ## Chroneer
 - high high high chronomancer elf
@@ -351,7 +388,53 @@
 - in [session 10](#session-10), killed [Sephek Kaltro](#sephek-kaltro) completely purposefully
 - In [session 11](#session-11), touched the [Summerstar](#summerstar) and fucking died
 
+## Krummok
+- A haggardly, dense dwarf
+- "Good with axe"
+- "Good with survive in wilderness"
+- Krummok refers to Krummok in the third-person
+- Doesn't speak a lot, but does grunt a lot
+- Rubs his back against trees like a bear
+- In [session 13](#session-13), [the party](#party) met him at [The Northlook](#the-northlook), and adopted him
+
 # Quests
+## Hunt a White Moose
+### Giver
+- [Krummok](#krummok), in [The Northlook](#the-northlook)
+
+### Reward
+- 100 gold coins from [Krummok](#krummok)
+- 100 gold coins from [Nimsy](#nimsy-huddle)
+- Possibly the deed of a [recently widowed inn](#ramshackle-inn)?
+
+### Duty
+- In [Lonelywood](#lonelywood), there is a large white moose that is attacking people
+- In [session 13](#session-13), [the party](#party) heads to [Lonelywood](#lonelywood) and arrives at [Nimsy's](#nimsy-huddle) house
+- [Nimsy](#nimsy-huddle) tells [the party](#party) about [Darnuth](#darnuth), the foreman at [the lumber camp](#lumber-camp)
+- There are two other hunting parties looking for the moose, a group of three and a group of two
+- The moose attacked three days ago, on the northeast side of [the lumber camp](#lumber-camp)
+
+## Brokeback Mountain Pass
+### Giver
+- [Gay man](#gay-man) in [Targos](#targos)
+
+### Reward
+- Free lodgings in the inn
+- Some artwork
+
+### Duty
+- In [session 13](#session-13), [the gay man](#gay-man) told us [his husband](#Garret) went to [Caer Konig](#caer-konig)
+
+## Investigate the Gemstone Mine
+### Giver
+- Random town crier in [Termalaine](#termalaine)
+
+### Reward
+- Unlimited gemstones???
+
+### Duty
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn about [the Gemstone Mine](#gemstone-mine) being closed by monsters
+
 ## Find a cask of Dwarven Ale for Scramsacks
 ### Giver
 - [Scramsacks](#scramsacks) of the [Northlook Inn](#the-northlook)
@@ -362,9 +445,6 @@
 ### Duty
 - Find any casks of dwarven ale in the mountains and bring it back to [Scramsacks](#scramsacks)
 - In [Session 12](#session-12), [The party](#party) ran into a couple santa-themed [Battlehammer dwarves](#battlehammer-dwarf-clan) and instead of buying a cask, they opted to get totally shit-faced instead
-
-### Duty
-- Go find the insane [Macreedus](#macreedus) for the gnome tinkerer acolyte
 
 ## Thieves in Caer Konig
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
@@ -392,6 +472,9 @@
 
 ### Reward
 - Free healing from the [Shrine of Ammantar](#shrine-of-ammanatar) anytime the party is in [Bryn Shander](#bryn-shander)
+
+### Duty
+- Go find the insane [Macreedus](#macreedus) for the gnome tinkerer acolyte
 
 ### Outcome
 - In [Session 12](#session-12), [The party](#party) reported to [Copper](#copper) about [Macreedus'](#macreedus) downfall
@@ -607,12 +690,43 @@
 #### Targos
 - on the shores
 - around 1,000 people
+- encircled by woods, like [Bryn Shander](#bryn-shander)
+- the wall around the town extends into the lake around the town, to protect the town against raiders
+
+##### Three Flag Sailing
+- a tavern in the harbor of [Targos](#targos)
 
 #### Shrine of Ammanatar
 - A shrine to the god of the sun, Ammanatar
 
 #### East Road
 - a road which connects [Easthaven](#easthaven) and [Bryn Shander](#bryn-shander)
+
+#### Termalaine
+- Founded by Kalashites, known for the largest cities in the region
+- The most beautiful of the cities in [Icewind Dale](#icewind-dale)
+- No wall protecting the town
+- Almost exactly like Frankenmuth, Michigan and also arabic (?)
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) arrive
+
+##### Gemstone Mine
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) closed on account of monsters
+- Is an hour to the east of [Termalaine](#termalaine)
+
+##### The Blue Clam
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn that [Speaker Masshew](#speaker-masshew) is at The Blue Clam
+
+#### Lonelywood
+- In [session 13](#session-13), [the party](#party) heard of a [white moose](#hunt-a-white-moose) from [Krummok](#krummok)
+
+##### Ramshackle Inn
+- Currently used as log storage
+- Up for grabs if [the party](#party) manages to [kill the white moose](#hunt-a-white-moose)
+- Will be renamed to "Inn & Out" when [the party](#party) acquires it, [Pillby](#pillby) is sure
+
+##### Lumber Camp
+- [Darnuth](#darnuth) is the foreman
+- [The white moose](#hunt-a-white-moose) is hanging out around the lumber camp
 
 ## Karakajjaka
 - A goblin camp to the southeast of [Icewind Dale](#icewind-dale)
@@ -797,6 +911,30 @@
 ## Issabye
 - A goblin boss from [Kalakamaogja](#karakajjaka) that was "befriended" by [the party](#party) after they discovered the goblin band shanghai'd the caravan
 
+## Gay Man
+- Lives in [Targos](#targos)
+- Has a plot dog named "Boy"
+- Gay
+
+## Garret
+- Husband of [Gay Man](#gay-man) in [Targos](#targos)
+
+## Speaker Masshew
+- The speaker of [Termalaine](#termalaine)
+
+## Scoop Huddle
+- Halfling child
+- Very creepy voice
+- Haunts [Brynn's](#brynn) dreams
+
+## Nimsy Huddle
+- Halfling
+- The mother of a very flamboyant child in [Lonelywood](#lonelywood)
+- Speaker of [Lonelywood](#lonelywood)
+
+## Darnuth
+- Foreman of the loggers in [Lonelywood](#lonelywood)
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -895,6 +1033,10 @@
 - Coin 1: [Pillby](#pillby)
 - Coin 2: [Finnegan](#finnegan)
 - Work most of the time unless [Pillby](#pillby) really needs them to, for instance when he's trapped outside a castle
+
+## Amulet of Health
+- [Finn](#finnegan) received this in [session 12](#session-11) by rummaging through [Macreedus'](#macreedus) house while [Pillby](#pillby) was fucking dead
+- In [session 13](#session-13), [Finn](#finnegan) gave it to [Sfen](#sven)
 
 # Notes
 ## Chardolyn Note
