@@ -348,6 +348,39 @@
 - [Finn](#finnegan) puts his hand on the hand statue.... and, nothing happens
 - [The party](#party) attempts to solve the "ritual puzzle" for some time, and decides to wait until night time to see if the moon dial plays into the ritual
 
+## Session #14
+- [Pillby](#pillby) was sick as a bitch
+- Apparently there is a bush named "Berry"
+- There is a mummy that is a valley girl who wants to bang [Chroneer](#chroneer) named [Shanar](#shanar)
+- Rest of notes TBD
+
+## Session #15
+- [The party](#party) sets up business structure for [the tavern](#disarray-tavern)
+- [The party](#party) decides to ask ChatGPT to name their most coveted possesson and ChatGPT comes up with the name "Berry in Bandages"
+- [The party](#party) needs to find a cook, a bartender, and a waiter
+- [Sfen](#sven) finds and tries to catch some mice, and sets up some non-lethal traps
+- [Sfen](#sven) notices a table with a picture of a mug that's foaming over the lip, and there's some gold reflection of light off of it, covered in frost and dust
+- [Sfen](#sven) captures 2 out of the 4 mice
+- [Brynn](#brynn) and [Finn](#finnegan) go on an adventure to meet the most ungrateful quest giver of all time, and ask [Nimsy](#nimsy-huddle) about where to find a carpenter, cook, bartender, and a waiter
+- [Nimsy](#nimsy-huddle) tells them to look for [Darnuth](#darnuth) in the [Logging Encapment](#lumber-camp)
+- [Nimsy](#nimsy-huddle) tells them to go to [Termalaine](#termalaine) to look for a barkeep
+- [Nimsy](#nimsy-huddle) tells them that [Danae](#danae) the bartender is a betch
+- [Nimsy](#nimsy-huddle) tells them there is a taxdermist in [Termalaine](#termalaine) as well, for the party to hang the desecrated moose head
+- [Nimsy](#nimsy-huddle) tells them that the other tavern in town is named ["The Lucky Liar"](#the-lucky-liar)
+- [Brynn](#brynn) and [Finn](#finnegan) regale [the party](#party) with what they've learned
+- [Pillby](#pillby) tells [Danae](#danae) she needs to change her tone
+- [Pillby](#pillby) throws up on the bouncer and [Krummok](#krummok) grabs [Pillby](#pillby)
+- [Pillby](#pillby) and [Krummok](#krummok) devise a plan to get a "much taller" bouncer, a yeti that [Krummok](#krummok) knows
+- [The party](#party) takes a long rest
+- [Brynn](#brynn), [Finnegan](#finnegan) and [Pillby](#pillby) work all day making the bar nice, [Brynn](#brynn) by casting mending on things in the bar, and [Pillby](#pillby) by spit-shining details and making sure [Brynn](#brynn) is good
+- [Chroneer](#chroneer) and his [mummy wife](#shanar) go to [The Happy Scrim Shander](#the-happy-scrim-shander)
+- [Krummok](#krummok) and [Sfen](#sven) hunt mice
+- [Darnuth](#darnuth) arrives at [The Bags & Bones](#ramshackle-inn)
+- [Finnegan](#finnegan) shows [Darnuth](#darnuth) [The Dusty Mummy](#ramshackle-inn) in order to get an estimate for the work needed to restore the bar
+- [Darnuth](#darnuth) tells [the party](#party) it'll be 72 gold
+- [Finnegan](#finnegan) fronts 35 gold for half the payment
+- [The party](#party) heads to [Termalaine](#termalaine), and leaves [Chroneer's](#chroneer) [mummy lover](#shanar) in charge of [Berry and the Jets](#ramshackle-inn)
+
 # Party
 ## Finnegan
 - bard/monk
@@ -406,22 +439,6 @@
 - In [session 13](#session-13), [the party](#party) met him at [The Northlook](#the-northlook), and adopted him
 
 # Quests
-## Hunt a White Moose
-### Giver
-- [Krummok](#krummok), in [The Northlook](#the-northlook)
-
-### Reward
-- 100 gold coins from [Krummok](#krummok)
-- 100 gold coins from [Nimsy](#nimsy-huddle)
-- Possibly the deed of a [recently widowed inn](#ramshackle-inn)?
-
-### Duty
-- In [Lonelywood](#lonelywood), there is a large white moose that is attacking people
-- In [session 13](#session-13), [the party](#party) heads to [Lonelywood](#lonelywood) and arrives at [Nimsy's](#nimsy-huddle) house
-- [Nimsy](#nimsy-huddle) tells [the party](#party) about [Darnuth](#darnuth), the foreman at [the lumber camp](#lumber-camp)
-- There are two other hunting parties looking for the moose, a group of three and a group of two
-- The moose attacked three days ago, on the northeast side of [the lumber camp](#lumber-camp)
-
 ## Brokeback Mountain Pass
 ### Giver
 - [Gay man](#gay-man) in [Targos](#targos)
@@ -458,6 +475,25 @@
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
 
 # Completed Quests
+## Hunt a White Moose
+### Giver
+- [Krummok](#krummok), in [The Northlook](#the-northlook)
+
+### Reward
+- 100 gold coins from [Krummok](#krummok)
+- 100 gold coins from [Nimsy](#nimsy-huddle)
+- Possibly the deed of a [recently widowed inn](#ramshackle-inn)?
+
+### Duty
+- In [Lonelywood](#lonelywood), there is a large white moose that is attacking people
+- In [session 13](#session-13), [the party](#party) heads to [Lonelywood](#lonelywood) and arrives at [Nimsy's](#nimsy-huddle) house
+- [Nimsy](#nimsy-huddle) tells [the party](#party) about [Darnuth](#darnuth), the foreman at [the lumber camp](#lumber-camp)
+- There are two other hunting parties looking for the moose, a group of three and a group of two
+- The moose attacked three days ago, on the northeast side of [the lumber camp](#lumber-camp)
+
+### Outcome
+- In [session 14](#session-14), [the party](#party) was awarded 200 gold coins and the [decrepit, dusty inn](#ramshackle-inn)
+
 ## Find the Battlehammer Caravan
 ### Giver
 - Haggard Battlehammer dwarf in [Bryn Shander](#bryn-shander)
@@ -731,10 +767,29 @@
 - Currently used as log storage
 - Up for grabs if [the party](#party) manages to [kill the white moose](#hunt-a-white-moose)
 - Will be renamed to "Inn & Out" when [the party](#party) acquires it, [Pillby](#pillby) is sure
+- It was actually named "Berry Bandagetown" or something like that :|
+
+###### Business Plan
+- Maximum expense die 1d4
+- Maximum revenue die 1d6
+- 2 employees is comfortable
+- Revenue per week is between -25 to 50
+- 120 gold to upgrade the downstairs and upstairs to generate revenue
+- 30 gold for first floor second upgrade (bar, kitchen storage)
+- 50 gold for second floor second upgrade (large suite)
+- 35 gold for the basement second upgrade
+- 110 + 120 + 35 for all upgrades
 
 ##### Lumber Camp
 - [Darnuth](#darnuth) is the foreman
 - [The white moose](#hunt-a-white-moose) is hanging out around the lumber camp
+
+##### The Lucky Liar
+- A tavern without bedrooms that is competing with [Ol' Berry Bushleagues](#ramshackle-inn)
+
+##### The Happy Scrim Shander
+- A shop that sells trinkets, and engravings
+- In [session 15](#session-15), [Chroneer](#chroneer) goes there with his [mummy wife](#shanar)
 
 ## Karakajjaka
 - A goblin camp to the southeast of [Icewind Dale](#icewind-dale)
@@ -943,6 +998,16 @@
 ## Darnuth
 - Foreman of the loggers in [Lonelywood](#lonelywood)
 
+## Berry
+- A bush
+
+## Shanar
+- A valley girl mummy that likes [Chroneer](#chroneer)
+
+## Danae
+- Bartender
+- Betch
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -959,6 +1024,9 @@
 ## Stygia
 - An archdemon of hell, and a lord of [Icewind Dale](#icewind-dale)
 - [Avarice](#avarice) and the [followers of levistus](#followers-of-levistus) seem to worship them
+
+## Emiskry Harrowshil
+- The owner of [The Happy Scrim Shander](#the-happy-scrim-shander)
 
 # Groups
 ## Toargs Caravan
