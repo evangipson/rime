@@ -381,6 +381,24 @@
 - [Finnegan](#finnegan) fronts 35 gold for half the payment
 - [The party](#party) heads to [Termalaine](#termalaine), and leaves [Chroneer's](#chroneer) [mummy lover](#shanar) in charge of [Berry and the Jets](#ramshackle-inn)
 
+## Session #16
+- [The party](#party) leaves [Lonelywood](#lonelywood) to head to [Termalaine](#termalaine) in the wake of a blizzard (due to [Finn](#finnegan) commanding one with his roll)
+- [The party](#party) arrives at [Termalaine](#termalaine) around noon
+- [The party](#party) heads to [The Blue Clam](#the-blue-clam), and run into the speaker who is speaking, a half-orc named [Oarus](#oarus)
+- [Finn](#finnegan) asks [Oarus](#oarus) about four people that are fighting in the [Gemstone Mine](#gemstone-mine), one person went missing shortly before the kobold's arrival, then the other three went missing afterwards
+- [Oarus](#oarus) tells [the party](#party) about a rivalry with [Targos](#targos)
+- [Oarus](#oarus) also tells [the party](#party) there is a [50 gold reward for finding the three missing people in the mines](#investigate-the-gemstone-mine)
+- [Oarus](#oarus) also tells [the party](#party) about [Ossrik](#ossrik), his cousin, who might be able to desecrate some corpses for [Brynn](#brynn)
+- [The party](#party) hangs out in [The Blue Clam](#the-blue-clam) for about 3 hours, and hangs out with the owner
+- [Finn](#finnegan) talks to the waitress in [The Blue Clam](#the-blue-clam), and talks about her song origin and her ring, which ends up being a [Ring of Warmth](#ring-of-warmth)
+- The waitress gives the [ring of warmth](#ring-of-warmth) to [Finn](#finnegan)
+- [The party](#party) exits [The Blue Clam](#the-blue-clam) and heads to [The Gemstone Mine](#gemstone-mine)
+- [The party](#party) makes it into [The Gemstone Mine](#gemstone-mine) and [Pillby](#pillby) tries to abandon the group and excavate the gems, but [The party](#party) convinces him to follow them to [rescue the 3 townspeople](#investigate-the-gemstone-mine)
+- [Krummok](#krummok) attempts to throw a kobold down the mineshaft, and ends up throwing two of them down a waterfall
+- [The party](#party) adventures further into [The Gemstone Mine](#gemstone-mine), [Krummok](#krummok) shoves himself into a bucket to lower himself deeper into the mine
+- [The party](#party) follows [Pillby](#pillby) for some reason, and runs into a few floaty brain bois, and wins the fight
+
+
 # Party
 ## Finnegan
 - bard/monk
@@ -453,12 +471,15 @@
 ## Investigate the Gemstone Mine
 ### Giver
 - Random town crier in [Termalaine](#termalaine)
+- [Oarus](#oarus)
 
 ### Reward
 - Unlimited gemstones???
+- 50 gold pieces
 
 ### Duty
 - In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn about [the Gemstone Mine](#gemstone-mine) being closed by monsters
+- In [session 16](#session-16), [the party](#party) runs into [Oarus](#oarus) and learns more about [The Gemstone Mine](#gemstone-mine), namely that there are 3 missing people
 
 ## Find a cask of Dwarven Ale for Scramsacks
 ### Giver
@@ -1008,6 +1029,13 @@
 - Bartender
 - Betch
 
+## Oarus
+- Speaker of [Termalaine](#termalaine)
+- In [session 16](#session-16), [the party](#party) ran into <> at [The Blue Clam](#the-blue-clam)
+
+## Ossrik
+- Cousin of [Oarus](#oarus)
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -1113,6 +1141,10 @@
 ## Amulet of Health
 - [Finn](#finnegan) received this in [session 12](#session-11) by rummaging through [Macreedus'](#macreedus) house while [Pillby](#pillby) was fucking dead
 - In [session 13](#session-13), [Finn](#finnegan) gave it to [Sfen](#sven)
+
+## Ring of Warmth
+- In [session 16](#session-16), [Finn](#finnegan) attempts to identify a ring from a waitress in [The Blue Clam](#the-blue-clam)
+- When this ring is worn, and attuned to, this ring helps protect the wearer from the cold elements, keeps the wearer quite warm
 
 # Notes
 ## Chardolyn Note
