@@ -407,7 +407,7 @@
 - [The party](#party) finds three more kobolds, including one that speaks very good common, and [Finnegan](#finnegan) asks them if they've seen any people
 - [Finnegan](#finnegan) threatens to murder them if they don't [the party](#party) where the missing people are, the kobolds insist they are only there to make shelter
 - [Pillby](#pillby) nearly passes out after seeing a room filled with geodes
-- [Chroneer](#chroneer) gets a message from [Danae](#danae) that everything is going well in [the inn](#ramshackle-inn), she got a new spell, she murdered someone, but she has to go
+- [Chroneer](#chroneer) gets a message from [Shanar](#shanar) that everything is going well in [the inn](#ramshackle-inn), she got a new spell, she murdered someone, but she has to go
 - [Pillby](#pillby), while almost fainting, begins to attempt to plan an excavation for the gemstones, but only [Krummok](#krummok) enters the room
 - [Krummok](#krummok) asks [Pillby](#pillby) if he needs help mining, and [pillby](#pillby) says he doesn't, and tells [Krummok](#krummok) to eat some of those rodents in his bag
 - [Pillby](#pillby) ends up eating a rat to appease [Krummok](#krummok) after a miscommunication, and becomes violently ill
