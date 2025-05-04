@@ -398,16 +398,56 @@
 - [The party](#party) adventures further into [The Gemstone Mine](#gemstone-mine), [Krummok](#krummok) shoves himself into a bucket to lower himself deeper into the mine
 - [The party](#party) follows [Pillby](#pillby) for some reason, and runs into a few floaty brain bois, and wins the fight
 
+## Session #17
+- [The party](#party) heads towards the left after completing the fight against the floaty brain bois
+- [Sfen](#sven) hears some kobolds whispering while [the party](#party) walks through the winding tunnels of the mineshaft, even though [Krummok](#krummok) nearly tripped and fell
+- [The party](#party) sees two kobolds talking about a dead rat
+- _[Krummok](krummok) intensifies_
+- [Sfen](#sven) and [Finn](#finnegan) both mercilessly slaughter the two kobolds, and [Krummok](#krummok) takes the dead rat, adding it to his growing collection of desecrated rodent corpses
+- [The party](#party) finds three more kobolds, including one that speaks very good common, and [Finnegan](#finnegan) asks them if they've seen any people
+- [Finnegan](#finnegan) threatens to murder them if they don't [the party](#party) where the missing people are, the kobolds insist they are only there to make shelter
+- [Pillby](#pillby) nearly passes out after seeing a room filled with geodes
+- [Chroneer](#chroneer) gets a message from [Danae](#danae) that everything is going well in [the inn](#ramshackle-inn), she got a new spell, she murdered someone, but she has to go
+- [Pillby](#pillby), while almost fainting, begins to attempt to plan an excavation for the gemstones, but only [Krummok](#krummok) enters the room
+- [Krummok](#krummok) asks [Pillby](#pillby) if he needs help mining, and [pillby](#pillby) says he doesn't, and tells [Krummok](#krummok) to eat some of those rodents in his bag
+- [Pillby](#pillby) ends up eating a rat to appease [Krummok](#krummok) after a miscommunication, and becomes violently ill
+- [Finnegan](#finnegan) notices a rock cover-up in the wall, [Krummok](#krummok) rages and actually builds a door in the wall (which he tells an unconscious [Pillby](#pillby) to "write down")
+- Upon clearing the rocks, the party notices three people trapped in the room, who all look very sick and look like they need help
+- [Finnegan](#finnegan) pulls out a couple rations and and casts healing word on all the unconscious ones, but they still look kind of out of it
+- [Pillby](#pillby) wakes up from his sickness, immediately disregards the hidden sick folk, and gets [Sfen](#sven) to follow him back into the gemstone room, and he begins to attempt to persuade [Sfen](#sven) into helping him come up with a plan for everyone to mine out gemstones without hurting [Krummok's](#krummok) feelings (since [Krummok](#krummok) would more than likely destroy the gems)
+- [Chroneer](#chroneer) notices a skull in the wall, which is a skull of a mindflayer, embedded deeply
+- [Chroneer](#chroneer) begins to excavate the skull, and it gets destroyed, but then sees a purple and blue crystal inside of the skull
+- [The party](#party) starts mining out the geodes, and gets 18 in total, [pillby](#pillby) keeps 17 of them, and [Krummok](#krummok) keeps the rock he's mined, because it's his "baby rock", as he thinks this is how rocks are born
+- [The party](#party) offers 6% of the profits of [the inn](#ramshackle-inn) to [Edda](#edda-frostbrewer), [Finnan](#finnan-quickstep), and [Torsten](#torsten-yorin) for them to work for [the party](#party)
+- [The party](#party) leaves the [gemstone mine](#gemstone-mine) to head to [The Blue Clam](#the-blue-clam) to find [Oarus](#oarus)
+- [Finnegan](#finnegan) reports his success to [Oarus](#oarus), and explains the people were missing because of a cave-in, and trapped behind rocks
+- [Oarus](#oarus) inquires more about how [the people got trapped](#investigate-the-gemstone-mine), and [Finnegan](#finnegan) and [Pillby](#pillby) explain that the big ol' brainy bois were the real ones that caused the cave-in, and also let [Oarus](#oarus) know that there are still 3 very frightened kobolds down there
+- [The party](#party) all get 8 gold a piece for [finding the people in the gemstone mine](#investigate-the-gemstone-mine)
+- [The party](#party) hits level 5!
+- [The party](#party) hears rumors among the town when they arrive: one about [an enchanted fishhook in Easthaven](#find-nabiras-enchanted-fishhook), one about [frost giants and their disputes](#frost-giants), and one about [an evil wizard being murdered in Easthaven](#wizards-arson-and-towers-oh-my)
+- [Brynn](#brynn) and [Pillby](#pillby) both have dreams about their gods, even though [Pillby](#pillby) doesn't have a god
+- [Brynn](#brynn) dreams of his god [Sylvanis](#sylvanus-the-god-of-nature) embracing and talking with Shantia, the god of harvests, his dreams give him notions of this winter at [Ten Towns](#ten-towns) being extreme, unlike any other and seemingly otherworldly; he gets the pull that this is unnatural and needs to be remedied
+- [Pillby](#pillby) had a dream of a whimsical man playing a lute (the god of knowledge, [Oghma](#oghma)) with a blank scroll floating above him, who asks him to help out [Brynn](#brynn) in whatever he's doing, and also speaks [Pillby's](#pillby) **true** name (which horrified him), and he woke up with a newfound sense of purpose and respect for [Brynn](#brynn)
+- [Pillby](#pillby) and [Brynn](#brynn) discuss their dream in the morning, and [Pillby](#pillby) attempts to learn music from [Finnegan](#finnegan), who graciously allowed him to play his lute
+- [The party](#party) heads back to [the inn](#ramshackle-inn) with their new employees, [Edda](#edda-frostbrewer), [Finnan](#finnan-quickstep), and [Torsten](#torsten-yorin)
+- [Finnegan](#finnegan) is pleased with the progress that the workers have made while they have been away
+- After [the party](#party) makes it back to [the inn](#ramshackle-inn), [Shanar](#shanar) explains that a human man "put his hands on her" so she sort of... killed him, and "made him disappear"
+- [The party](#party) collectively sort of decides not to look into the whole "mummy murdering random people and hiding their corpses" thing
+- [Brynn](#brynn) explains he believes that people can become gods if they get enough power through prayer and/or sacrifice
+- [Pillby](#pillby) has a momentary lapse in judgement when he wants to use a [frost giant](#frost-giants) as a bouncer for [the inn](#ramshackle-inn), but [Finnegan](#finnegan) corrects his behavior
+- [The party](#party) decides to go and find the [frost giant](#frost-giants) meeting place to a hill out to the west, and attempt to find out a location from the most western town of [Ten Towns](#ten-towns), [Targos](#targos), to try and find out when the ritualistic sacrifices started that seem to be pushing [Icewind Dale](#icewind-dale) into a more cold and evil place
 
 # Party
 ## Finnegan
-- bard/monk
-- down on his luck
-- hammer talks to [Scramsacks](#scramsacks) about getting more money, scramsacks wants more money from him
-- was offered to become the speaker of [Goodmead](#goodmead) by [Allevesa](#allevesa), but turned it down
-- in [session #3](#session-3), was late as _fuck_
-- codename "Xander"
-- is very curious about the volcano fucksphere that [Avarice](#avarice) teleported [Brynn](#brynn) to in [session 5](#session-5)
+- Bard/monk
+- Down on his luck
+- In [session #2](#session-2), talked to [Scramsacks](#scramsacks) about getting more money, [scramsacks](#scramsacks) wants more money from him, but he's too good of negotiator
+- Was offered to become the speaker of [Goodmead](#goodmead) by [Allevesa](#allevesa), but turned it down
+- In [session #3](#session-3), was late as _fuck_
+- Codename "Xander"
+- Is very curious about the volcano fucksphere that [Avarice](#avarice) teleported [Brynn](#brynn) to in [session 5](#session-5)
+- Is Chris Pine
+- In [session 17](#session-17), gracefully loaned his lute to [Pillby](#pillby) and began teaching him how to play music
 
 ## Brynn
 - greedy jew elf/shapeshifter?/red/grey blue furbolg druid
@@ -419,6 +459,7 @@
 - in [session 5](#session-5) stole a crystal off the necklace from an [magic rhyming pirate dwarf](#hethel) in the castle of [Caer Dineval](#caer-dineval), and took off the necklace as soon as he found out the weird amulet from the [magic rhyming pirate dwarf](#hethel) was cursed
 - in [session 5](#session-5) got teleported to a lava-fuck hellscape by [Avarice](#avarice) where he very nearly killed the weakest demon in existence
 - scared of halfling children
+- In [session 17](#session-17) had a dream of [sylvanus](#sylvanus-the-god-of-nature) who told him that there was [something disturbing happening in Ten Towns](#ritualistic-sacrifices) that should be remedied
 
 ## Chroneer
 - high high high chronomancer elf
@@ -430,6 +471,7 @@
 - A.B.C.: always be chronoshiftin'
 - Took "the break of eternity" in [session 4](#session-4)
 - In [session 4](#session-4) stole a crystal off the necklace from an unconscious [cultist](#followers-of-levistus) in the castle of [Caer Dineval](#caer-dineval)
+- In [session 17](#session-17) found a mind flayer skull, and took a jewel from it's shattered remains
 
 ## Sven
 - cat man ranger
@@ -446,6 +488,7 @@
 - in [session 5](#session-5), had a great "home alone"-style plan to escape certain death and pulled it off without a hitch
 - in [session 10](#session-10), killed [Sephek Kaltro](#sephek-kaltro) completely purposefully
 - In [session 11](#session-11), touched the [Summerstar](#summerstar) and fucking died
+- In [session 17](#session-17), had a dream about [Oghma](#oghma) telling him to assist [Brynn](#brynn) in finding out [what is wrong with Ten Towns](#ritualistic-sacrifices)
 
 ## Krummok
 - A haggardly, dense dwarf
@@ -457,6 +500,41 @@
 - In [session 13](#session-13), [the party](#party) met him at [The Northlook](#the-northlook), and adopted him
 
 # Quests
+## Find Nabira's Enchanted Fishhook
+### Giver
+- A rumor in [Lonelywood](#lonelywood): "[Nabira Moarskull](#nabira-moarskull), an Easthaven fisher, owned an enchanted fishhook that could catch magical fish. While she and her friends were out on the ice one day, a pair of filthy gnolls attacked them. They killed Nabira and stole her fishing pole and hook. Hunters from Easthaven tracked the gnolls to an icy rift in the ground but were too scared to go farther."
+
+### Reward
+- An enchanted fishhook probably?
+
+### Duty
+- Find Nabira Morskull's enchanted fishhook in [Easthaven](#easthaven)
+
+## Frost Giant Conflict Resolution
+### Giver
+- A rumor in [Lonelywood](#lonelywood): "[Frost giants](#frost-giants) ruled this land long ago. Their leaders, the jarls, would meet atop a hill to the west to settle disputes. Their thrones still rest on that hill."
+- A rumor in [Lonelywood](#lonelywood): "We don't see goliaths much around here, but there are two feuding clans in the Spine of the World. I bet if someone from [Ten Towns](#ten-towns) were to help them put aside their differences, all the goliaths would benefit. I'd sure like to meet a goliath someday!"
+
+### Reward
+- Hopefully happier [frost giants](#frost-giants)
+- Hopefully knowledge of when the sacrifices of [Icewind Dale](#icewind-dale) started
+
+### Duty
+- Find the [frost giant](#frost-giants) conflict resolution area
+- In [session 17](#session-17), [the party](#party) decided to try and find the [frost giant](#frost-giants) conflict resolution area by heading to [Targos](#targos), the most western town of the [Ten Towns](#ten-towns)
+
+## Wizards, Arson, and Towers, Oh My
+### Giver
+- A rumor in [Lonelywood](#lonelywood): "Did you hear what happened to that evil wizard in Easthaven? They tied him to a stake and lit him on fire! Why? 'Cause he hired some Ten-Towners to help him find a buried tower, then killed 'em to keep its location secret. Well, one of 'em told me where the tower's at! I wouldn't go myself, but maybe it's somethin' you'd like to explore."
+
+### Reward
+- Riches!
+- Knowing where a secret tower is
+- Maybe a wizard hat???
+
+### Duty
+- Find the hidden tower by asking around in [Easthaven](#easthaven)
+
 ## Brokeback Mountain Pass
 ### Giver
 - [Gay man](#gay-man) in [Targos](#targos)
@@ -467,19 +545,6 @@
 
 ### Duty
 - In [session 13](#session-13), [the gay man](#gay-man) told us [his husband](#Garret) went to [Caer Konig](#caer-konig)
-
-## Investigate the Gemstone Mine
-### Giver
-- Random town crier in [Termalaine](#termalaine)
-- [Oarus](#oarus)
-
-### Reward
-- Unlimited gemstones???
-- 50 gold pieces
-
-### Duty
-- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn about [the Gemstone Mine](#gemstone-mine) being closed by monsters
-- In [session 16](#session-16), [the party](#party) runs into [Oarus](#oarus) and learns more about [The Gemstone Mine](#gemstone-mine), namely that there are 3 missing people
 
 ## Find a cask of Dwarven Ale for Scramsacks
 ### Giver
@@ -496,6 +561,23 @@
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
 
 # Completed Quests
+## Investigate the Gemstone Mine
+### Giver
+- Random town crier in [Termalaine](#termalaine)
+- [Oarus](#oarus)
+
+### Reward
+- Unlimited gemstones???
+- 50 gold pieces
+
+### Duty
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn about [the Gemstone Mine](#gemstone-mine) being closed by monsters
+- In [session 16](#session-16), [the party](#party) runs into [Oarus](#oarus) and learns more about [The Gemstone Mine](#gemstone-mine), namely that there are 3 missing people
+
+### Outcome
+- In [session 17](#session-17), [the party](#party) found [Edda](#edda-frostbrewer), [Finnan](#finnan-quickstep), and [Torsten](#torsten-yorin) hidden behind a cave-in in the [gemstone mine](#gemstone-mine)
+- In [session 17](#session-17), [the party](#party) made it back to [Oarus](#oarus) and he rewarded the party 50 gold (8 gold a piece)
+
 ## Hunt a White Moose
 ### Giver
 - [Krummok](#krummok), in [The Northlook](#the-northlook)
@@ -966,6 +1048,9 @@
 ## Glenn
 - Owner of the [Hook, Line, and Sinker](#hook-line-and-sinker)
 
+## Emiskry Harrowshil
+- The owner of [The Happy Scrim Shander](#the-happy-scrim-shander)
+
 ## Terrance
 - The bard at the [Hook, Line, and Sinker](#hook-line-and-sinker)
 
@@ -1024,6 +1109,7 @@
 
 ## Shanar
 - A valley girl mummy that likes [Chroneer](#chroneer)
+- In [session 17](#session-17), murdered a guy in [the inn](#ramshackle-inn) and "made him disappear"
 
 ## Danae
 - Bartender
@@ -1035,6 +1121,27 @@
 
 ## Ossrik
 - Cousin of [Oarus](#oarus)
+
+## Edda Frostbrewer
+- Human
+- In [session #16](#session-16), [the party](#party) discovered her in the [gemstone mine](#gemstone-mine)
+- Famous bartender
+
+## Finnan Quickstep
+- Halfling
+- In [session #16](#session-16), [the party](#party) discovered him in the [gemstone mine](#gemstone-mine)
+- Charismatic
+- Lively
+- Renowned waiter
+
+## Torsten Yorin
+- Nicknamed "spice hand"
+- In [session #16](#session-16), [the party](#party) discovered him in the [gemstone mine](#gemstone-mine)
+- Popular chef
+
+## Nabira Moarskull
+- A fisher in [Easthaven](#easthaven)
+- Murdered for her enchanted fishhook by gnolls
 
 # Legends
 ## Oraal the Frost Maiden
@@ -1053,8 +1160,10 @@
 - An archdemon of hell, and a lord of [Icewind Dale](#icewind-dale)
 - [Avarice](#avarice) and the [followers of levistus](#followers-of-levistus) seem to worship them
 
-## Emiskry Harrowshil
-- The owner of [The Happy Scrim Shander](#the-happy-scrim-shander)
+## Oghma
+- Known as The Lord of Knowledge
+- Neutral god of bards, inspiration, invention, and knowledge
+- In [session 17](#session-17), contacted [Pillby](#pillby) via a dream where he told him to assist [Brynn](#brynn), and scared the shit out of him by speaking his **true** name
 
 # Groups
 ## Toargs Caravan
@@ -1090,6 +1199,10 @@
 ## Axebeak
 - A tall flightless bird which can be ridden
 
+## Frost Giants
+- The original leaders of [Icewind Dale](#icewind-dale)
+- In [session 17](#session-17), [the party](#party) learned that there is [conflict among frost giants](#frost-giant-conflict-resolution), and decided to head to where they live to see if they can help, and to learn more about when the ritual sacrifices to [Oraal, the Frost Maiden](#oraal-the-frost-maiden) started
+
 # Concepts
 ## Time Paradox
 - [Chroneer](#chroneer) is investigating a paradox in [Icewind Dale](#icewind-dale)
@@ -1107,6 +1220,10 @@
 ## Summerstar
 - A concept being worked on by [Macreedus](#macreedus), an insane former acolyte of the [Shrine of Ammanatar](#shrine-of-ammanatar)
 - Once turned on, it will melt all the snow in [Icewind Dale](#icewind-dale) and remove all the coldness from [Oraal, the Frostmaiden](#oraal-the-frost-maiden)
+
+## Ritualistic Sacrifices
+- In [Ten Towns](#ten-towns), each one of the ten towns will sacrifice something to [Oraal, the Frost Maiden](#oraal-the-frost-maiden)
+- In [session 17](#session-17), [the party](#party) became interested in finding out more about these sacrifices and when, why, and how they started
 
 # Magic Items
 ## Lantern of Tracking
