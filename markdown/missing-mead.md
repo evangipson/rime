@@ -14,6 +14,6 @@
 - Spokesman of [Goodmead](/pages/goodmead) was recently murdered
 
 ### Resolution
-- In [Session #2](#session-2), the party found the missing mead in a [verbeeg cave](/pages/verbeeg-cave) outside of [Goodmead](/pages/goodmead)
+- In [Session #2](/pages/session-2), the party found the missing mead in a [verbeeg cave](/pages/verbeeg-cave) outside of [Goodmead](/pages/goodmead)
 - [The party](/pages/party) turned the mead in to [Allevesa](/pages/allevesa)
 

@@ -1,4 +1,4 @@
-[The party](/pages/party) found a note in [Caer Dineval](/pages/caer-dineval) in [Session #9](#session-9) which seems to be from and to a duregar.
+[The party](/pages/party) found a note in [Caer Dineval](/pages/caer-dineval) in [Session #9](/pages/session-9) which seems to be from and to a duregar.
 
 The text is as follows:
 <pre>
