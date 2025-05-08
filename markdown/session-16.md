@@ -1,0 +1,16 @@
+- [The party](/pages/party) leaves [Lonelywood](/pages/lonelywood) to head to [Termalaine](/pages/termalaine) in the wake of a blizzard (due to [Finn](/pages/finnegan) commanding one with his roll)
+- [The party](/pages/party) arrives at [Termalaine](/pages/termalaine) around noon
+- [The party](/pages/party) heads to [The Blue Clam](/pages/the-blue-clam), and run into the speaker who is speaking, a half-orc named [Oarus](/pages/oarus)
+- [Finn](/pages/finnegan) asks [Oarus](/pages/oarus) about four people that are fighting in the [Gemstone Mine](/pages/gemstone-mine), one person went missing shortly before the kobold's arrival, then the other three went missing afterwards
+- [Oarus](/pages/oarus) tells [the party](/pages/party) about a rivalry with [Targos](/pages/targos)
+- [Oarus](/pages/oarus) also tells [the party](/pages/party) there is a [50 gold reward for finding the three missing people in the mines](/pages/investigate-the-gemstone-mine)
+- [Oarus](/pages/oarus) also tells [the party](/pages/party) about [Ossrik](/pages/ossrik), his cousin, who might be able to desecrate some corpses for [Brynn](/pages/brynn)
+- [The party](/pages/party) hangs out in [The Blue Clam](/pages/the-blue-clam) for about 3 hours, and hangs out with the owner
+- [Finn](/pages/finnegan) talks to the waitress in [The Blue Clam](/pages/the-blue-clam), and talks about her song origin and her ring, which ends up being a [Ring of Warmth](/pages/ring-of-warmth)
+- The waitress gives the [ring of warmth](/pages/ring-of-warmth) to [Finn](/pages/finnegan)
+- [The party](/pages/party) exits [The Blue Clam](/pages/the-blue-clam) and heads to [The Gemstone Mine](/pages/gemstone-mine)
+- [The party](/pages/party) makes it into [The Gemstone Mine](/pages/gemstone-mine) and [Pillby](/pages/pillby) tries to abandon the group and excavate the gems, but [The party](/pages/party) convinces him to follow them to [rescue the 3 townspeople](/pages/investigate-the-gemstone-mine)
+- [Krummok](/pages/krummok) attempts to throw a kobold down the mineshaft, and ends up throwing two of them down a waterfall
+- [The party](/pages/party) adventures further into [The Gemstone Mine](/pages/gemstone-mine), [Krummok](/pages/krummok) shoves himself into a bucket to lower himself deeper into the mine
+- [The party](/pages/party) follows [Pillby](/pages/pillby) for some reason, and runs into a few floaty brain bois, and wins the fight
+

@@ -743,24 +743,26 @@
 ### Travel time map
 ![A map of travel times in Icewind Dale](./icewind-dale-travel-time-map.png)
 
-### Redwaters
+## Redwaters
 - Called "Redwaters" because of a battle with fish men which left the river red
 
-#### Goodmead
+## Goodmead
 - produces famous mead
 - in [The Redwaters](#redwaters)
 - doesn't have any fires lit during the night, indicative of a connection with [Oraal, the Frost Maiden](#oraal-the-frost-maiden)
 - population of 100, about 20 decently strong men
 - in [session 3](#session-3), the party takes on a quest to help [find a speaker of goodmead](#elect-a-speaker-for-goodmead)
 
-##### Beehive
-- in the center of town
+### Beehive
+- in the center of town in [Goodmead](#goodmead)
 
-##### Mead Hall
+## Mead Hall
+- A meadery in [Goodmead](#goodmead)
 - The mead is all gone, although the mead is famous
 - [Torga](#torrga-icevien) has some of the last mead
 
-#### Verbeeg Cave
+## Verbeeg Cave
+- in [The Redwaters](#redwaters)
 - In [Session #2](#session-2), [the party](#party) fought a [verbeeg](#verbeeg) and a bear
 - In [Session #2](#session-2), [the party](#party) finds a magical tomb
 - In [Session #2](#session-2), [the party](#party) finds barrels filled with liquid, possibly the [missing mead](#missing-mead)
@@ -768,29 +770,30 @@
 - There's a pile of dwarf bones
 - There's a pool of clear water, and by the water there is a statue of [Sylvanus](#sylvanus-the-god-of-nature)
 
-#### Dougans Hole
+## Dougans Hole
 - A place near [Goodmead](#goodmead)
 
-### Ten Towns
+## Ten Towns
 - Region in [Icewind Dale](#icewind-dale)
+- Contains [Dougan's Hole](#dougans-hole), [Goodmead](#goodmead), [Easthaven](#easthaven), [Caer-Dineval](#caer-dineval), [Caer-Konig](#caer-konig), [Lonelywood](#lonelywood), [Termalaine](#termalaine), [Targos](#targos), and [Bryn Shander](#bryn-shander)
 
-#### Caer-Konig
+## Caer-Konig
 - in [session 3](#session-3), [pillby](#pillby) found out they are dealing with thieves
 - [Trovis](#trovis) is the speaker
 
-##### The Northern Light
+## The Northern Light
 - The main inn in [Caer Konig](#caer-konig)
 
-##### Hook, Line, and Sinker
+## Hook, Line, and Sinker
 - Another inn in [Caer Konig](#caer-konig)
 - Owned by an enthusiastic half-elf
 - Has a halfling bard who dresses VERY warm
 
-##### Frozen Far Expeditions
-- An adventuring gear shop
+## Frozen Far Expeditions
+- An adventuring gear shop in [Caer-Konig](#caer-konig)
 - In [session 6](#session-6), [the party](#party) learns that they had a sack of pearls stolen, about 4 days ago
 
-#### Caer-Dineval
+## Caer-Dineval
 ![A map of Caer-Dineval](./caer-dineval.jpg)
 - in [session 3](#session-3), the party made a detour to Caer-Dineval because of the blizzard, on the way to [Caer-Konig](#caer-dineval)
 - there is a castle
@@ -802,28 +805,28 @@
 - there used to be a second inn in town, called [Dinev's Rest](#dinevs-rest), which used to be the more rowdy place, but after the last 2 years of perpetual darkness, it's been ran into the ground
     - it's been out of business for about a year
 
-##### Uphill Climb
+## Uphill Climb
 - A tavern in [Caer-Dineval](#caer-dineval)
 - Owned by [Roarck](#roarck), and his partner [Tabitha](#tabitha)
 
-##### Dinevs Rest
+## Dinevs Rest
 - A rowdier tavern in [Caer-Dineval](#caer-dineval) that is now defunct on account of the perpetual darkness
 
-#### Ruined Tower
+## Ruined Tower
 - Across the bay from the [Uphill Climb](#uphill-climb)
 - Currently in disrepair
 
-#### Bryn Shander
+## Bryn Shander
 ![A map of Bryn Shandar](./bryn-shandar.png)
 - main trade hub of the [Ten Towns](#ten-towns)
 - the [East Road](#east-road) connects Bryn Shander and [Easthaven](#easthaven)
 
-##### Black Iron Blades
-- smithing and armor
+## Black Iron Blades
+- smithing and armor shop in [Bryn Shander](#bryn-shander)
 - the group asks about [Torga](#torga-icemane)
 
-##### The Northlook
-- this is where the game started
+## The Northlook
+- this is where the adventure started, an inn at [Bryn Shander](#bryn-shander)
 - there is a magic fish that sings here which i desire heavily
 - [Scramsacks](#scramsacks) is the inn propietor
 - the party first met [Hjoln](#hjoln) here
@@ -831,48 +834,50 @@
 - serves "Trout Stout"
 - has very popular mead, from [Goodmead](#goodmead) (in [Redwaters](#redwaters)), but was out when we were there
 
-#### Easthaven
+## Easthaven
 - the [East Road](#east-road) connects Easthaven and [Bryn Shander](#bryn-shander)
 
-#### Targos
+## Targos
 - on the shores
 - around 1,000 people
 - encircled by woods, like [Bryn Shander](#bryn-shander)
 - the wall around the town extends into the lake around the town, to protect the town against raiders
 
-##### Three Flag Sailing
+## Three Flag Sailing
 - a tavern in the harbor of [Targos](#targos)
 
-#### Shrine of Ammanatar
-- A shrine to the god of the sun, Ammanatar
+## Shrine of Ammanatar
+- A shrine in [Targos](#targos) to the god of the sun, Ammanatar
 
-#### East Road
+## East Road
 - a road which connects [Easthaven](#easthaven) and [Bryn Shander](#bryn-shander)
 
-#### Termalaine
+## Termalaine
 - Founded by Kalashites, known for the largest cities in the region
 - The most beautiful of the cities in [Icewind Dale](#icewind-dale)
 - No wall protecting the town
 - Almost exactly like Frankenmuth, Michigan and also arabic (?)
 - In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) arrive
 
-##### Gemstone Mine
-- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) closed on account of monsters
+## Gemstone Mine
 - Is an hour to the east of [Termalaine](#termalaine)
+- In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) closed on account of monsters
 
-##### The Blue Clam
+## The Blue Clam
+- A tavern in [Termalaine](#termalaine)
 - In [session 13](#session-13), [the party](#party) and [Krummok](#krummok) learn that [Speaker Masshew](#speaker-masshew) is at The Blue Clam
 
-#### Lonelywood
+## Lonelywood
 - In [session 13](#session-13), [the party](#party) heard of a [white moose](#hunt-a-white-moose) from [Krummok](#krummok)
 
-##### Ramshackle Inn
+## Ramshackle Inn
+- An inn at [Termalaine](#termalaine)
 - Currently used as log storage
 - Up for grabs if [the party](#party) manages to [kill the white moose](#hunt-a-white-moose)
 - Will be renamed to "Inn & Out" when [the party](#party) acquires it, [Pillby](#pillby) is sure
 - It was actually named "Berry Bandagetown" or something like that :|
 
-###### Business Plan
+### Business Plan
 - Maximum expense die 1d4
 - Maximum revenue die 1d6
 - 2 employees is comfortable
@@ -883,15 +888,17 @@
 - 35 gold for the basement second upgrade
 - 110 + 120 + 35 for all upgrades
 
-##### Lumber Camp
+## Lumber Camp
+- Near [Lonelywood](#lonelywood)
 - [Darnuth](#darnuth) is the foreman
 - [The white moose](#hunt-a-white-moose) is hanging out around the lumber camp
 
-##### The Lucky Liar
+## The Lucky Liar
+- In [Lonelywood](#lonelywood)
 - A tavern without bedrooms that is competing with [Ol' Berry Bushleagues](#ramshackle-inn)
 
-##### The Happy Scrim Shander
-- A shop that sells trinkets, and engravings
+## The Happy Scrim Shander
+- A shop that sells trinkets, and engravings in [Termalaine](#termalaine)
 - In [session 15](#session-15), [Chroneer](#chroneer) goes there with his [mummy wife](#shanar)
 
 ## Karakajjaka

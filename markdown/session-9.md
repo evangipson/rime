@@ -1,0 +1,23 @@
+- [The party](/pages/party) takes a long rest
+- [The party](/pages/party) fights two large duregar
+- [The party](/pages/party) loots 24 gold pieces and 17 silver pieces
+- [The party](/pages/party) loots a magic lantern
+- [Sfen](/pages/sven) and [Finnegan](/pages/finnegan) take a dagger
+- [Chroneer](/pages/chroneer) takes ??? 
+- [Brynn](/pages/brynn) takes ???
+- [Pillby](/pages/pillby) takes a potion of healing
+- [The party](/pages/party) the party finds 75 gold pieces
+- [The party](/pages/party) finds 25 pearls worth 5 gold pieces each
+- [The party](/pages/party) thinks that they are the stolen valuables from [The castle of Caer Konig](/pages/caer-konig)
+- [The party](/pages/party) finds 2 suits of scale mail, 9 javelins, 2 climbers kits, and 4 mess kits
+    - [Finnegan](/pages/finnegan) and [Sfen](/pages/sfen) take a climbers kit
+- [The party](/pages/party) finds a [note about chardolyn](/pages/chardolyn-note)
+- [The party](/pages/party) finds a [Chwinga](/pages/twinga) also, and [Brynn](/pages/brynn) has it sit on his shoulder
+- [The party](/pages/party) travels back to the tavern in [Caer Konig](/pages/caer-konig), and seek out [Trovis](/pages/trovis)
+- [Chroneer](/pages/chroneer) gives [Trovis](/pages/trovis) back the latern they found from the castle
+- [The party](/pages/party) heads to the [Frozen Far](/pages/frozen-far-expeditions) to sell their weapons
+- [The party](/pages/party) hands over the pearls to [Atennis](/pages/atennis) and get like 2 gold or something :)
+- [Brynn](/pages/brynn) haggles [Atennis](/pages/atennis) all the way up to half the value for all the war picks and 2 mess kits for 9 gold
+- [Brynn](/pages/brynn), [Finnegan](/pages/finnegan), and [Trovis](/pages/trovis) spit all over each other and the party gets 10 gold and passage on a caravan out of town
+- [The party](/pages/party) hops on the caravan and totally sees [Sephik](/pages/sephek-kaltro) in the distance halfway to [Brynn Shander](/pages/bryn-shander)
+

@@ -1,0 +1,18 @@
+- murderer
+- works as a bodyguard for [Toarg's Caravan](/pages/toargs-caravan)
+- first murder: halfling trapper in [Easthaven](/pages/easthaven)
+- second murder: in [Bryn Shander](/pages/bryn-shander)
+- third murder: in [Targos](/pages/targos)
+- each guy found with a dagger of ice in their heart
+- travels around with ["Toarg's Caravan"](#toargs-caravan), a small merchant company
+    - operated by [Torga Icemane](torga-icemane), who deals in shady stuff
+- each victim had notes on them:
+    - agreement form from a runic character that we don't understand
+    - they all have the sense from the person that was murdered that says "i can't keep doing this, i can't keep getting you out of [this lottery](/pages/the-lottery), you have to figure out a different way", then signed from an "odd character"
+    - we get the sense it's a name
+- [Hjoln](/pages/hjoln) thinks it's lottery dodgers, one person is left out in the cold overnight to be frozen and taken away
+    - she followed toargs to bryn shander, she looked at sephek, he wears no warm clothing, no coat, scarf, or gloves, it's like the cold didn't effect him
+    - kiss of the frost maiden
+- doesn't carry any weapons
+- talks with his mouth closed
+

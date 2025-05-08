@@ -1,0 +1,38 @@
+- The party tracked the [verbeeg](/pages/verbeeg) down to a cave about 2 hours outside of [Goodmead](/pages/goodmead)
+- The party goes into the [verbeeg](/pages/verbeeg) lair and fights a [verbeeg](/pages/verbeeg) and a bear
+- The bear kind of fucks up the entire party
+    - [Sven](/pages/sven) and [Brynn](/pages/brynn) get knocked down
+    - [Chroneer](/pages/chroneer) casts sleep on the bear to save the fight
+    - [Sven](/pages/sven), [Chroneer](/pages/chroneer), and [Pillby](/pages/pillby) stab the bear in the neck together and murder it
+- The party takes a short rest to recover
+- The party finds a tomb in the verbeeg cave
+- The party discovers a cheiftan holding a [pearl orb](/pages/pearl-of-power) and a [wand](/pages/wand-of-the-warmage), which are both magical, which [Chroneer](/pages/chroneer) takes out of curiosity
+    - The pearl was a [Pearl of Power](/pages/pearl-of-power), which goes to [Pillby](/pages/pillby)
+    - The wand was a [Wand of the Warmage](/pages/wand-of-the-warmage)
+- [Chroneer](/pages/chroneer) sees a vision of an undead face
+- The party fills up their canteens with water from a pool in the [verbeeg cave](/pages/verbeeg-cave)
+    - Upon drinking the water, [Chroneer's](/pages/chroneer) [curse](/pages/undead-face-vision) is dispelled
+- The party finds:
+    - 72 silver, gets distributed to the party
+    - 344 copper, gets distributed to the party
+    - translucent pink moss agate gemstone, goes to [Pillby](/pages/pillby)
+    - healer's kit, goes to [Sven](/pages/sven)
+    - hunting trap, goes to [Sven](/pages/sven)
+    - small rabbitskin quiver containing 10 silvered arrows, goes to [Sven](/pages/sven)
+    - A basket of [precious otherworldly metals](/pages/otherworldly-metals) (worth 75gp)
+- The party encounters a [verbeeg](/pages/verbeeg), which [Brynn](/pages/brynn) fools by disguising himself while the party sneaks away with a cart of [barrels of mead](/pages/missing-mead)
+- The party heads back to [Goodmead](/pages/goodmead) with the cart, which takes 3 hours
+- [Allevesa](/pages/allevesa) asks [Finnegan](/pages/finnegan) to become the speaker of [Goodmead](/pages/goodmead), which [Finnegan](/pages/finnegan) denies
+    - [Shandar](/pages/shandar-froth) listens in to the conversation
+- The party takes a long rest in [Goodmead](/pages/goodmead), after which [Chroneer](/pages/chroneer) discusses a plan to use sleep on the last remaining [verbeeg](/pages/verbeeg) and interrogate her
+- The party navigates back to the [verbeeg cave](/pages/verbeeg-cave), and encounters the remaining [verbeeg](/pages/verbeeg)
+    - [Sven](/pages/sven) is downed
+- [Sven](/pages/sven) downs the last remaining [verbeeg](/pages/verbeeg) without getting to interrogate her
+- The party decides to go to the [verbeeg cave](/pages/verbeeg-cave) to find concrete evidence of [Sephek's](/pages/sephek-kaltro) influence
+    - The party also suspects [Shandar](/pages/shandar-froth) of working with the [verbeeg](/pages/verbeeg), as he's running for speaker of [Goodmead](/pages/goodmead)
+    - The party finds more [precious otherworldly metals](/pages/otherworldly-metals) (worth 75gp)
+    - The trail is cold, no additional tracks
+    - The party notices the bodies are moved around
+    - [Chroneer](/pages/chroneer) discovered the [verbeeg](/pages/verbeeg) moved the bodies around
+- The party goes back to [Goodmead](/pages/goodmead), and asks for the whereabouts of [Torga's Caravan](/pages/toargs-caravan), and they're in [Dougan's Hole](/pages/dougans-hole)
+

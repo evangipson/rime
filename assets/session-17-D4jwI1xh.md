@@ -1,0 +1,38 @@
+- [The party](/pages/party) heads towards the left after completing the fight against the floaty brain bois
+- [Sfen](/pages/sven) hears some kobolds whispering while [the party](/pages/party) walks through the winding tunnels of the mineshaft, even though [Krummok](/pages/krummok) nearly tripped and fell
+- [The party](/pages/party) sees two kobolds talking about a dead rat
+- _[Krummok](krummok) intensifies_
+- [Sfen](/pages/sven) and [Finn](/pages/finnegan) both mercilessly slaughter the two kobolds, and [Krummok](/pages/krummok) takes the dead rat, adding it to his growing collection of desecrated rodent corpses
+- [The party](/pages/party) finds three more kobolds, including one that speaks very good common, and [Finnegan](/pages/finnegan) asks them if they've seen any people
+- [Finnegan](/pages/finnegan) threatens to murder them if they don't [the party](/pages/party) where the missing people are, the kobolds insist they are only there to make shelter
+- [Pillby](/pages/pillby) nearly passes out after seeing a room filled with geodes
+- [Chroneer](/pages/chroneer) gets a message from [his mummy side piece](/pages/shanar) that everything is going well in [the inn](/pages/ramshackle-inn), she got a new spell, she murdered someone, but she has to go
+- [Pillby](/pages/pillby), while almost fainting, begins to attempt to plan an excavation for the gemstones, but only [Krummok](/pages/krummok) enters the room
+- [Krummok](/pages/krummok) asks [Pillby](/pages/pillby) if he needs help mining, and [pillby](/pages/pillby) says he doesn't, and tells [Krummok](/pages/krummok) to eat some of those rodents in his bag
+- [Pillby](/pages/pillby) ends up eating a rat to appease [Krummok](/pages/krummok) after a miscommunication, and becomes violently ill
+- [Finnegan](/pages/finnegan) notices a rock cover-up in the wall, [Krummok](/pages/krummok) rages and actually builds a door in the wall (which he tells an unconscious [Pillby](/pages/pillby) to "write down")
+- Upon clearing the rocks, the party notices three people trapped in the room, who all look very sick and look like they need help
+- [Finnegan](/pages/finnegan) pulls out a couple rations and and casts healing word on all the unconscious ones, but they still look kind of out of it
+- [Pillby](/pages/pillby) wakes up from his sickness, immediately disregards the hidden sick folk, and gets [Sfen](/pages/sven) to follow him back into the gemstone room, and he begins to attempt to persuade [Sfen](/pages/sven) into helping him come up with a plan for everyone to mine out gemstones without hurting [Krummok's](/pages/krummok) feelings (since [Krummok](/pages/krummok) would more than likely destroy the gems)
+- [Chroneer](/pages/chroneer) notices a skull in the wall, which is a skull of a mindflayer, embedded deeply
+- [Chroneer](/pages/chroneer) begins to excavate the skull, and it gets destroyed, but then sees a purple and blue crystal inside of the skull
+- [The party](/pages/party) starts mining out the geodes, and gets 18 in total, [pillby](/pages/pillby) keeps 17 of them, and [Krummok](/pages/krummok) keeps the rock he's mined, because it's his "baby rock", as he thinks this is how rocks are born
+- [The party](/pages/party) offers 6% of the profits of [the inn](/pages/ramshackle-inn) to [Edda](/pages/edda-frostbrewer), [Finnan](/pages/finnan-quickstep), and [Torsten](/pages/torsten-yorin) for them to work for [the party](/pages/party)
+- [The party](/pages/party) leaves the [gemstone mine](/pages/gemstone-mine) to head to [The Blue Clam](/pages/the-blue-clam) to find [Oarus](/pages/oarus)
+- [Finnegan](/pages/finnegan) reports his success to [Oarus](/pages/oarus), and explains the people were missing because of a cave-in, and trapped behind rocks
+- [Oarus](/pages/oarus) inquires more about how [the people got trapped](/pages/investigate-the-gemstone-mine), and [Finnegan](/pages/finnegan) and [Pillby](/pages/pillby) explain that the big ol' brainy bois were the real ones that caused the cave-in, and also let [Oarus](/pages/oarus) know that there are still 3 very frightened kobolds down there
+- [The party](/pages/party) all get 8 gold a piece for [finding the people in the gemstone mine](/pages/investigate-the-gemstone-mine)
+- [The party](/pages/party) hits level 5!
+- [The party](/pages/party) hears rumors among the town when they arrive: one about [an enchanted fishhook in Easthaven](/pages/find-nabiras-enchanted-fishhook), one about [frost giants and their disputes](/pages/frost-giants), and one about [an evil wizard being murdered in Easthaven](/pages/wizards-arson-and-towers-oh-my)
+- [Brynn](/pages/brynn) and [Pillby](/pages/pillby) both have dreams about their gods, even though [Pillby](/pages/pillby) doesn't have a god
+- [Brynn](/pages/brynn) dreams of his god [Sylvanis](/pages/sylvanus-the-god-of-nature) embracing and talking with Shantia, the god of harvests, his dreams give him notions of this winter at [Ten Towns](/pages/ten-towns) being extreme, unlike any other and seemingly otherworldly; he gets the pull that this is unnatural and needs to be remedied
+- [Pillby](/pages/pillby) had a dream of a whimsical man playing a lute (the god of knowledge, [Oghma](/pages/oghma)) with a blank scroll floating above him, who asks him to help out [Brynn](/pages/brynn) in whatever he's doing, and also speaks [Pillby's](/pages/pillby) **true** name (which horrified him), and he woke up with a newfound sense of purpose and respect for [Brynn](/pages/brynn)
+- [Pillby](/pages/pillby) and [Brynn](/pages/brynn) discuss their dream in the morning, and [Pillby](/pages/pillby) attempts to learn music from [Finnegan](/pages/finnegan), who graciously allowed him to play his lute
+- [The party](/pages/party) heads back to [the inn](/pages/ramshackle-inn) with their new employees, [Edda](/pages/edda-frostbrewer), [Finnan](/pages/finnan-quickstep), and [Torsten](/pages/torsten-yorin)
+- [Finnegan](/pages/finnegan) is pleased with the progress that the workers have made while they have been away
+- After [the party](/pages/party) makes it back to [the inn](/pages/ramshackle-inn), [Shanar](/pages/shanar) explains that a human man "put his hands on her" so she sort of... killed him, and "made him disappear"
+- [The party](/pages/party) collectively sort of decides not to look into the whole "mummy murdering random people and hiding their corpses" thing
+- [Brynn](/pages/brynn) explains he believes that people can become gods if they get enough power through prayer and/or sacrifice
+- [Pillby](/pages/pillby) has a momentary lapse in judgement when he wants to use a [frost giant](/pages/frost-giants) as a bouncer for [the inn](/pages/ramshackle-inn), but [Finnegan](/pages/finnegan) corrects his behavior
+- [The party](/pages/party) decides to go and find the [frost giant](/pages/frost-giants) meeting place to a hill out to the west, and attempt to find out a location from the most western town of [Ten Towns](/pages/ten-towns), [Targos](/pages/targos), to try and find out when the ritualistic sacrifices started that seem to be pushing [Icewind Dale](/pages/icewind-dale) into a more cold and evil place
+

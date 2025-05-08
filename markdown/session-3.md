@@ -1,0 +1,28 @@
+- The party awakes in [Goodmead](/pages/goodmead), and approaches [Allevesa](/pages/allevesa) to learn more about why she doesn't want [Shandar](/pages/shandar-froth) to be elected speaker
+- A group of thugs riding [axebeaks](/pages/axebeak) charges toward [Allevesa](/pages/allevesa), and [Shandar](/pages/shandar-froth) and the party go to protect her
+    - The party chases down one of the members of the attacking group
+    - The party restrains and interrogates one of the thugs, who says "A person in [Goodmead](/pages/goodmead), his name is [Rucy](/pages/rucy), sent me to mess up the [mead hall](/pages/mead-hall)", after [Finnegan](/pages/finnegan) applies pressure to his neck
+    - [Chroneer](/pages/chroneer) finds a letter in the captured thug's pocket, which [Finnegan](/pages/finnegan) reads aloud to the town, which contains orders to make a scene at the [mead hall](/pages/mead-hall), but do not kill or injure [Shandar](/pages/shandar-froth)
+- The party goes to interrogate [Shandar](/pages/shandar-froth), while [Allevesa](/pages/allevesa) stays in the [mead hall](/pages/mead-hall)
+    - The party brings along an old fisherman of some clout from [Goodmead](/pages/goodmead)
+- The party breaks from [Goodmead](/pages/goodmead) and goes to ~~torture~~ talk to [Shandar](/pages/shandar-froth)
+    - [Shandar](/pages/shandar-froth) admits to working with [Narth](/pages/narth-maxeldawner) during the interrogation
+    - [Chroneer](/pages/chroneer) slices the eye of [Shandar](/pages/shandar-froth), then chronoshifts back, which causes [Shandar](/pages/shandar-froth) and the old fisherman to vomit
+        - this leaves a faint scar on the bridge of the nose down to the lower jaw of [Shandar](/pages/shandar-froth)
+    - [Brynn](/pages/brynn) asks [Shandar](/pages/shandar-froth) what he knows about [Torrga](/pages/torrga-icevien), which [Shandar](/pages/shandar-froth) insists he knows nothing about
+    - [Shandar](/pages/shandar-froth) insists he doesn't work with the [Zentarum](/pages/zentarum)
+    - [Pillby](/pages/pillby) attempts to waterboard [Shandar](/pages/shandar-froth), and presses him for information about his connection with the [verbeeg](/pages/verbeeg), but ends up using whiskey and totally doesn't succeed
+- The party lets [Allevesa](/pages/allevesa) know [Shandar](/pages/shandar-froth) has been restrained in the temple of fire
+    - [Chroneer](/pages/chroneer) lets [Allevesa](/pages/allevesa) know the [Zentarum](/pages/zentarum) are trying to take over the town
+- The party debates whether to head to [Dougan's Hole](/pages/dougans-hole) to find [Torrga](/pages/torrga-icevien), or [Targos](/pages/targos) to talk with [Narth](/pages/narth-maxeldawner) about [Shandar](/pages/shandar-froth) about the [Zentarum](/pages/zentarum)
+    - The party spends an hour asking around about rumors/things to do in [Goodmead](/pages/goodmead)
+    - [Finnegan](/pages/finnegan) talks to [Allevesa](/pages/allevesa) about the current state of things
+    - [Pillby](/pages/pillby) asks around [Goodmead](/pages/goodmead) to find out what is important
+        - In [Caer-Konig](#caer-konig), they are dealing with a lot of thieves
+- The party decides to head to [Caer-Konig](#caer-konig), which is 10 hours away from [Goodmead](/pages/goodmead) and tells [Allevesa](/pages/allevesa) of their intent before leaving
+    - The party purchases another day's worth of rations
+- A blizzard happens when the party is 3 hours into the trip to [Caer-Konig](#caer-konig)
+- The party decides to head to [Caer-Dineval](#caer-dineval) because the blizzard is impacting travel
+- [Finnegan](/pages/finnegan) asks a citizen where a tavern would be, and learns of the [Uphill Climb](/pages/uphill-climb), a tavern near the castle of [Caer-Dineval](#caer-dineval)
+- The party tries to head to the castle of [Caer-Dineval](#caer-dineval), but the speaker being sick blocks the party from entering
+

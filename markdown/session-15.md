@@ -1,0 +1,26 @@
+- [The party](/pages/party) sets up business structure for [the tavern](/pages/disarray-tavern)
+- [The party](/pages/party) decides to ask ChatGPT to name their most coveted possesson and ChatGPT comes up with the name "Berry in Bandages"
+- [The party](/pages/party) needs to find a cook, a bartender, and a waiter
+- [Sfen](/pages/sven) finds and tries to catch some mice, and sets up some non-lethal traps
+- [Sfen](/pages/sven) notices a table with a picture of a mug that's foaming over the lip, and there's some gold reflection of light off of it, covered in frost and dust
+- [Sfen](/pages/sven) captures 2 out of the 4 mice
+- [Brynn](/pages/brynn) and [Finn](/pages/finnegan) go on an adventure to meet the most ungrateful quest giver of all time, and ask [Nimsy](/pages/nimsy-huddle) about where to find a carpenter, cook, bartender, and a waiter
+- [Nimsy](/pages/nimsy-huddle) tells them to look for [Darnuth](/pages/darnuth) in the [Logging Encapment](/pages/lumber-camp)
+- [Nimsy](/pages/nimsy-huddle) tells them to go to [Termalaine](/pages/termalaine) to look for a barkeep
+- [Nimsy](/pages/nimsy-huddle) tells them that [Danae](/pages/danae) the bartender is a betch
+- [Nimsy](/pages/nimsy-huddle) tells them there is a taxdermist in [Termalaine](/pages/termalaine) as well, for the party to hang the desecrated moose head
+- [Nimsy](/pages/nimsy-huddle) tells them that the other tavern in town is named ["The Lucky Liar"](#the-lucky-liar)
+- [Brynn](/pages/brynn) and [Finn](/pages/finnegan) regale [the party](/pages/party) with what they've learned
+- [Pillby](/pages/pillby) tells [Danae](/pages/danae) she needs to change her tone
+- [Pillby](/pages/pillby) throws up on the bouncer and [Krummok](/pages/krummok) grabs [Pillby](/pages/pillby)
+- [Pillby](/pages/pillby) and [Krummok](/pages/krummok) devise a plan to get a "much taller" bouncer, a yeti that [Krummok](/pages/krummok) knows
+- [The party](/pages/party) takes a long rest
+- [Brynn](/pages/brynn), [Finnegan](/pages/finnegan) and [Pillby](/pages/pillby) work all day making the bar nice, [Brynn](/pages/brynn) by casting mending on things in the bar, and [Pillby](/pages/pillby) by spit-shining details and making sure [Brynn](/pages/brynn) is good
+- [Chroneer](/pages/chroneer) and his [mummy wife](/pages/shanar) go to [The Happy Scrim Shander](/pages/the-happy-scrim-shander)
+- [Krummok](/pages/krummok) and [Sfen](/pages/sven) hunt mice
+- [Darnuth](/pages/darnuth) arrives at [The Bags & Bones](#ramshackle-inn)
+- [Finnegan](/pages/finnegan) shows [Darnuth](/pages/darnuth) [The Dusty Mummy](/pages/ramshackle-inn) in order to get an estimate for the work needed to restore the bar
+- [Darnuth](/pages/darnuth) tells [the party](/pages/party) it'll be 72 gold
+- [Finnegan](/pages/finnegan) fronts 35 gold for half the payment
+- [The party](/pages/party) heads to [Termalaine](/pages/termalaine), and leaves [Chroneer's](/pages/chroneer) [mummy lover](/pages/shanar) in charge of [Berry and the Jets](/pages/ramshackle-inn)
+

@@ -1,0 +1,11 @@
+- greedy jew elf/shapeshifter?/red/grey blue furbolg druid
+- acquired a book on remorhaz from [Dannica Greysteel](/pages/dannica-greysteel) in [Bryn Shander](/pages/bryn-shander)
+    - [Chroneer](/pages/chroneer) bought it for him, was 5 silver
+- in [session #2](#session-2), tricked a [verbeeg](/pages/verbeeg) at the [verbeeg cave](/pages/verbeeg-cave) by disguising himself while [the party](/pages/party) snuck away with a cart
+- in [session #3](#session-3), was late as _fuck_
+- A.B.G.: always be guidin'
+- in [session 5](/pages/session-5) stole a crystal off the necklace from an [magic rhyming pirate dwarf](/pages/hethel) in the castle of [Caer Dineval](/pages/caer-dineval), and took off the necklace as soon as he found out the weird amulet from the [magic rhyming pirate dwarf](/pages/hethel) was cursed
+- in [session 5](/pages/session-5) got teleported to a lava-fuck hellscape by [Avarice](/pages/avarice) where he very nearly killed the weakest demon in existence
+- scared of halfling children
+- In [session 17](/pages/session-17) had a dream of [sylvanus](/pages/sylvanus-the-god-of-nature) who told him that there was [something disturbing happening in Ten Towns](/pages/ritualistic-sacrifices) that should be remedied
+

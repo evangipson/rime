@@ -1,0 +1,43 @@
+- [Dannica](/pages/dannica-greysteel) talks with [Finn](/pages/finnegan), and lets him know that she has a favor to ask [the party](/pages/party)
+- [The party](/pages/party) meets [Krummok](/pages/krummok), the dwarf, who gives a quest to [hunt a white moose](/pages/hunt-a-white-moose)
+- [Dannica](/pages/dannica-greysteel) gives [the party](/pages/party) the advice that the speaker of [Lonelywood](/pages/lonelywood) might also require further help
+- [The party](/pages/party) decides they will eat the moose upon successfully murdering it
+- [Finn](/pages/finnegan) plays some jazz fusion (on accident) for the crowd at [The Northlook](/pages/the-northlook), and it didn't go over too well (he made 2 silver)
+- [The party](/pages/party) heads out to [Targos](/pages/targos) after a long night's rest
+- [The party](/pages/party) gets to [Targos](/pages/targos) without incident
+- [The party](/pages/party) heads to the [Three Flag Sailing](/pages/three-flag-sailing), a tavern in [Targos](/pages/targos)
+- [Brynn](/pages/brynn) gets tackled and licked by a dog, and then follows the dog, who leads [the party](/pages/party) to a house inhabited by a [human man](/pages/gay-man)
+- [The man](/pages/gay-man) tells [the party](/pages/party) about [his missing husband](/pages/brokeback-mountain-pass)
+- [The party](/pages/party) sets off from [the man's](/pages/gay-man) home in [Targos](/pages/targos) to head [toward the white moose](/pages/hunt-a-white-moose)
+- It takes 5 hours for [the party](/pages/party) and [Krummok](/pages/krummok) to get to [Termalaine](/pages/termalaine)
+- [The party](/pages/party) and [Krummok](/pages/krummok) learn about [the Gemstone Mine](/pages/gemstone-mine), and about [how closed it is](/pages/investigate-the-gemstone-mine)
+- [Krummok](/pages/krummok) follows up on a hot lead and attempts to talk to the town crier's shoes, thinking that [Speaker Masshew](/pages/speaker-masshew) was in fact, ma shoe.
+- The town crier also lets [the party](/pages/party) and [Krummok](/pages/krummok) know that a [recently bereaved inn](/pages/ramshackle-inn) may be up for grabs if they [cut off the head of the white moose](/pages/hunt-a-white-moose)
+- [Krummok](/pages/krummok) has joined [the party](/pages/party)
+- [The party](/pages/party) heads to [Lonelywood](/pages/lonelywood) and are greeted by a (very creepy) halfling child
+- [The party](/pages/party) heads to the home of [the Speaker of Lonelywood, Nimsy Huddle](#nimsy-huddle)
+- [Nimsy](/pages/nimsy-huddle) suggests [the party](/pages/party) asks loggers (particularly the foreman, [Darnuth](/pages/darnuth)) about [the white moose](/pages/hunt-a-white-moose)
+- [The party](/pages/party) travels about an hour outside of [Lonelywood](/pages/lonelywood) to the [lumber camp](/pages/lumber-camp)
+- [Finn](/pages/finnegan) asks about [Darnuth](/pages/darnuth), and [the party](/pages/party) gets introduced to him
+- [Darnuth](/pages/darnuth) lets [the party](/pages/party) know there are two other hunting parties [looking for the white moose](/pages/hunt-a-white-moose) as well
+- [The party](/pages/party) heads toward [the white moose](/pages/hunt-a-white-moose)
+- [Sfen](/pages/sven) finds moose tracks, the lets [the party](/pages/party)
+- [The party](/pages/party) finds a moose, but it is not [the white moose](/pages/hunt-a-white-moose)
+- [Brynn](/pages/brynn) speaks with the non-white moose, and discovers it is in fact, canadian
+- [Brynn](/pages/brynn) screams like a goat in an attempt to lure [the white moose](/pages/hunt-a-white-moose)
+- Half of [the party](/pages/party) begins to get exhausted, as they are following a set of moose tracks
+- [The party](/pages/party) hears a loud scream, and prepares for combat against [the white moose](/pages/hunt-a-white-moose)
+- [The party](/pages/party) sees a spectral remnant of a female elf warrior, who is a banshee
+- [Chroneer](/pages/chroneer), [Pillby](/pages/pillby), and [Finn](/pages/finnegan) all immediately die because of a lil' bansh yell
+- [Brynn](/pages/brynn) shits his pants because he's so scared of the bansh
+- [The party](/pages/party) kills the bansher
+- [Finn](/pages/finnegan) begrudgingly gives his [Amulet of Health](/pages/amulet-of-health) to [Sfen](/pages/sven)
+- [The party](/pages/party) takes a long rest, then looks around for more [white moose tracks](/pages/hunt-a-white-moose)
+- [The party](/pages/party) follows the moose tracks and comes across a nice lil' fancy forest area with a bunch of marble carvings
+- [Sfen](/pages/sven) has a vision of a Pinecone, Twig, Flame, Feather, and Hand
+- [The party](/pages/party) spends some time investigating the area, and finds something that is preventing people from [finding the white moose](/pages/hunt-a-white-moose)
+- [The party](/pages/party) discovers a moon dial, a cave, and discern the area was created by elves
+- [Pillby](/pages/pillby) takes down the carvings on paper, and gets the sense that these items might be for a ritual, and tells that to the group
+- [Finn](/pages/finnegan) puts his hand on the hand statue.... and, nothing happens
+- [The party](/pages/party) attempts to solve the "ritual puzzle" for some time, and decides to wait until night time to see if the moon dial plays into the ritual
+

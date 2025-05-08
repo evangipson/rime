@@ -1,0 +1,24 @@
+- [Chroneer](/pages/chroneer) now has a very effeminate accent
+- [The Party](/pages/party) talks about a river outside of [Caer Konig](/pages/caer-konig) for quite some time
+- [Sfen](/pages/sven) walks up the rock face stairs toward [Caer Konig](/pages/caer-konig) after having some stair conversations with [Finnegan](/pages/finnegan)
+- [The Party](/pages/party) scales a 10 foot ice wall for the better part of 30 minutes
+- [Brynn](/pages/brynn) and [Pillby](/pages/pillby) play rock parchment shears while waiting for the ice wall scaling
+- [Pillby](/pages/pillby) critically fails and falls down the ice when rolling an 8 (???) and wakes up a yeti in an ice cave, recording the first ever critical fail with an 8 in history
+- [The Party](/pages/party) manages to somehow knock the yeti unconscious
+- [The Party](/pages/party) explores the yeti's cave in an attempt to make it even more angry, and discovers _tons_ of yeti puke and shit, as well as a trap door
+- [Finnegan](/pages/finnegan) climbs a ladder to a trap door, tries to open it, and gets shot in the face by a Duregar, and falls 30 feet
+- [The Party](/pages/party) gets into a fight with the Duregar and his lil dwarf buddies
+- [Pillby](/pages/pillby) roasts the last remaining Duregar, and struggles to think of a cool line
+- [The Party](/pages/party) loots up the dead Duregar and the guard shack which they crept up in to
+    - 4 javelins
+    - 2 small shields
+    - warpick
+    - crossbow with 20 quarrels of bolts (goes to [Finnegan](/pages/finnegan))
+    - dried goat meat (5 days)
+    - 20 pieces of silver (4 each)
+    - 15 pieces of copper (3 each)
+    - 50 caltrops (half to [Sfen](/pages/sven) and half to [Finnegan](/pages/finnegan))
+- There are no exits from the guard shack, besides the ladder back down to the cave, so [the Party](/pages/party) exits that way
+- [The party](/pages/party) sees an entrance to a very large stone fortress, the entrance to [Caer Konig](/pages/caer-konig)
+- [Finnegan](/pages/finnegan) thinks next time if the doors are locked and there is no easy way in, [the party](/pages/party) should traverse the river below
+

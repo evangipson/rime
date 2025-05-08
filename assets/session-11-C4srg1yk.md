@@ -1,0 +1,31 @@
+- [The party](/pages/party) arrives in [Brynn Shander](/pages/bryn-shander) and arrives at the [Northlook Inn](/pages/the-northlook) for a night of rest, and wakes up to eat breakfast
+- [Finnegan](/pages/finnegan) buys a round for a haggard group of dwarves
+- The haggard group of dwarves (who happen to be Battlehammer dwarves) recently had their friend torn to bits by a yeti, and their caravan was apprehended as well, while trying to deliver iron to [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) agrees to [help the Battlehammer dwarves find their caravan](/pages/find-the-battlehammer-caravan)
+- [The party](/pages/party) finds [Hjoln](/pages/hjoln), and explains that they've murdered [Sephek](/pages/sephek-kaltro)
+- [The party](/pages/party) heads to the [Black Iron Blades](/pages/black-iron-blades) to try and liquidate [Torga's Caravan](/pages/toargs-caravan)
+- [Finnegan](/pages/finnegan) barters [Torga's Caravan](/pages/toargs-caravan) to the [Black Iron Blades](/pages/black-iron-blades) for 800 gold pieces, 2 (shit) scimitars, and a pickaxe
+- Each member of [the party](/pages/party) gets 180 gold each
+- [The party](/pages/party) heads to the [Shrine of Ammanatar](/pages/shrine-of-ammanatar) in search of [Dannica](/pages/dannica-greysteel), and overhear a human speaking with an gnome tinkerer acolyte about a [missing person](/pages/macreedus)
+- [The party](/pages/party) lets the [twinga](/pages/twinga) they found run wild and go to [Dannica](/pages/dannica-greysteel), and he spills some ink on her book
+- [Dannica](/pages/dannica-greysteel) gives the party 50 gold pieces for finding a [twinga](/pages/twinga), and names him "Inky"
+- [The party](/pages/party) gets 10 gold pieces each for finding the [twinga](/pages/twinga) for [Dannica](/pages/dannica-greysteel)
+- [The party](/pages/party) chats with a gnome about [Macreedus](/pages/macreedus)
+- [Pillby](/pages/pillby) gives [Hjoln](/pages/hjoln) 100 gold pieces to be on the lookout for a gemstone or crystal of that value to make a new homunculous servant
+- [The party](/pages/party) decides to go [find the Battlehammer Caravan](/pages/find-the-battlehammer-caravan), which is about a day and a half travel north of [Bryn Shander](/pages/bryn-shander), then go and [find Macreedus](/pages/find-macreedus)
+- [Finnegan](/pages/finnegan) talks to [Scramsacks](/pages/scramsacks) at the [Northlook Inn](/pages/the-northlook), and he asks for a cask of dwarven ale if [the party](/pages/party) comes across one
+- [Finnegan](/pages/finnegan) plays some music in the [Northlook Inn](/pages/the-northlook)
+- [The party](/pages/party) sets off on their travel to the dwarven valley to the north of [Bryn Shander](/pages/bryn-shander)
+- [Pillby](/pages/pillby) is on first watch the first night, and totally does a great job watching and snores the entire watch
+- [The party](/pages/party) finds the corpse of Ubok, the missing Battlehammer dwarf, who has had both of his arms, his head, and his chest removed by a yeti
+- [Sfen](/pages/sven) investigates some tracks around the desecrated corpse of Ubok, and finds some goblin tracks leading away from his body
+- [The party](/pages/party) decides to lug the body of Ubok, because the Battlehammer dwarves wanted his body
+- [The party](/pages/party) runs into a band of goblins, and one-taps all of them by attaching their brains to the [caravan](/pages/find-the-battlehammer-caravan)
+- [The party](/pages/party) interrogates the [goblin boss](/pages/issabye) that was left alive and finds out he was going to [Cracker Jack's](/pages/karakajjaka), a goblin encampment lead by a goblin that is "half metal"
+- [The party](/pages/party) finds 43 copper, 13 silver, and a bone whistle (not divvy'd)
+- [The party](/pages/party) lets [Issabye](/pages/issabye) be devoured by the two bears that [Brynn](/pages/brynn) let free
+- [Sfen](/pages/sven) hides the [Battlehammer caravan](/pages/find-the-battlehammer-caravan) in a tree so [the party](/pages/party) can come back and find it after [visiting Macreedus' cabin](/pages/find-macreedus)
+- [The party](/pages/party) finds the charred remains of [Macreedus](/pages/macreedus), with a dull sphere in front of his corpse
+- [Pillby](/pages/pillby) attempts to grab the [Summerstar](/pages/summerstar), and ends up being exploded into a pile of ash
+- [The party](/pages/party) finds some ghostly communications from [Pillby](/pages/pillby) outside in the snow
+

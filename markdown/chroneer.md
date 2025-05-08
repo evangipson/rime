@@ -1,0 +1,11 @@
+- high high high chronomancer elf
+- scholar
+- very out of place in [Icewind Dale](/pages/icewind-dale)
+- studying a [time paradox](/pages/time-paradox) that i'm interested in
+    - evan and subu start talking about a time paradox subu is investigating
+- was [cursed](/pages/undead-face-vision) upon taking a [Pearl of Power](/pages/pearl-of-power) and [Wand of the Warmage](/pages/wand-of-the-warmage) from a tomb in a [verbeeg cave](/pages/verbeeg-cave) outside of [Goodmead](/pages/goodmead)
+- A.B.C.: always be chronoshiftin'
+- Took "the break of eternity" in [session 4](/pages/session-4)
+- In [session 4](/pages/session-4) stole a crystal off the necklace from an unconscious [cultist](/pages/followers-of-levistus) in the castle of [Caer Dineval](/pages/caer-dineval)
+- In [session 17](/pages/session-17) found a mind flayer skull, and took a jewel from it's shattered remains
+

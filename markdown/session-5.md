@@ -1,0 +1,30 @@
+- At the castle in [Caer Dineval](/pages/caer-dineval), [Finnegan](/pages/finnegan) and [Brynn](/pages/brynn) while still in disguise, talk to a guard at the top of a tower
+- The guard tells them that [Kadroth](/pages/kadroth) will be back soon and they should wait
+- [Sven](/pages/sven), [Chroneer](/pages/chroneer), and [Pillby](/pages/pillby) listen to the conversation and hide nearby upstairs
+- [Chroneer](/pages/chroneer) casts fireball at a [cultist](/pages/followers-of-levistus) that the three of them see in the distance
+- [Pillby](/pages/pillby) tries "negotiating" with [Kadroth](/pages/kadroth), and finds out [Kadroth](/pages/kadroth) actually sucks at negotiating
+- [Finnegan](/pages/finnegan) and [Brynn](/pages/brynn) meet a [rhyming decript pirate dwarf](/pages/hethel) who worships [ice satan](/pages/Stygia)
+- [Finnegan](/pages/finnegan) totally murders [Kadroth](/pages/kadroth)
+- [Pillby](/pages/pillby) does a little "Home Alone"/"Solid Snake" situation and repels down the side of the castle to evade a bunch of [cultists](/pages/followers-of-levistus)
+- The rest of the party fights all the [cultists](/pages/followers-of-levistus) while [Pillby](/pages/pillby) straight chills outside of the castle
+- [The Party](/pages/party) wins the fight against the [cultists](/pages/followers-of-levistus) (who were frozen when they died) and gets the following loot:
+    - 8 scimitars
+    - 4 daggers
+    - 8 (totally not cursed) amulets
+- [Finnegan](/pages/finnegan), [Brynn](/pages/brynn), and [Chroneer](/pages/chroneer) go back into the castle and talk to the [cultist servants](/pages/followers-of-levistus) to tell them we are here to save them and not hurt them
+- [Sven](/pages/sven) finds 8 gold pieces from the still-living [cultists](/pages/followers-of-levistus), and gives [Pillby](/pages/pillby) 4 gold coins
+- [Sven](/pages/sven) and [Pillby](/pages/pillby) prop up some of the dead [cultists](/pages/followers-of-levistus) to make it look like the [cultists](/pages/followers-of-levistus) are still inhabiting the castle, sort of furthering the "Home Alone" theme of [this session](/pages/session-5)
+- [Brynn](/pages/brynn) finds a keyring on [Kadroth](/pages/kadroth)
+- [The Party](/pages/party) goes room-to-room in search of [Krannik](/pages/krannik-seeva), the speaker of [Caer-Dineval](#caer-dineval)
+- [The Party](/pages/party) finds [Krannik](/pages/krannik-seeva) after [Finnegan](/pages/finnegan) intimidates a young [cultist](/pages/followers-of-levistus) boy
+- [The Party](/pages/party) goes under the castle at the advice of [Krannik](/pages/krannik-seeva), and finds a few dead [cultists](/pages/followers-of-levistus) and finds a small boat in a lake
+- [The Party](/pages/party) finds a frozen [cultist](/pages/followers-of-levistus) covered in brown mold and ice
+- [Avarice](/pages/avarice) talks to the group telepathically and offers to leave and never come back
+- [The Party](/pages/party) votes to attack [Avarice](/pages/avarice), whom they can't see and has warned them against it multiple times
+- [Brynn](/pages/brynn) gets teleported to a lava-fuck hellscape by [Avarice](/pages/avarice)
+- [The Party](/pages/party) negotiates with [Avarice](/pages/avarice) after her teleport breakfast with [Brynn](/pages/brynn), and she agrees to leave with the remaining [cultists](/pages/followers-of-levistus)
+- [The Party](/pages/party) learns from [Avarice](/pages/avarice) that there is a lever which will release the servants that [Krannik](/pages/krannik-seeva) was seeking
+- [The Party](/pages/party) lets [Krannik](/pages/krannik-seeva) know what happened, and apologizes to him about not being able to handle [Avarice](/pages/avarice)
+- [Krannik](/pages/krannik-seeva) agrees to give free room & board to [the party](/pages/party) for their efforts, and is going to look into rewards
+- [The party](/pages/party) completes the [Investigation of the Castle of Caer-Dineval](#investigate-the-castle-of-caer-dineval) and advances to level 3!
+

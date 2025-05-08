@@ -1,0 +1,23 @@
+- [The party](/pages/party) tries to find out how to communicate with [Pillby's](/pages/pillby) desecrated corpse
+- [Pillby](/pages/pillby) communicates with [Finnegan](/pages/finnegan) by writing ["Nice amulet" in the snow after he picks one up and wears it](#amulet-of-health)
+- [Pillby](/pages/pillby) has some communication with a big fiery head in [Purgatory](/pages/purgatory)
+- [The party](/pages/party) starts to find out how to get [Pillby](/pages/pillby) out of [Purgatory](/pages/purgatory)
+- [Chroneer](/pages/chroneer) and [Brynn](/pages/brynn) decipher some runes on a ring and figure out how to bring [Pillby](/pages/pillby) back from [Purgatory](/pages/purgatory)
+- [Pillby](/pages/pillby) regales [the party](/pages/party) with tales from [Purgatory](/pages/purgatory)
+- [The party](/pages/party) postulates about how the [Summerstar](/pages/summerstar) actually worked
+- [Chroneer](/pages/chroneer) talks about a plan to sell good weather to towns with the first recorded SaaS ([Summerstar](/pages/summerstar)-as-a-Service) business model of history
+- [The party](/pages/party) rests in [Sfen's hut](/pages/leomans-tiny-hut) overnight, outside of the cabin, in case a large warm beacon drew attention
+- A bunch of crystally bois and a cult leader show up and notice [Sfen's hut](/pages/leomans-tiny-hut), so [the party](/pages/party) attempts to fight them
+- [Sfen](/pages/sven) pulls a "Weekend at Bernie's" (kind of) and goes fucking blind
+- [Pillby](/pages/pillby) also goes blind from the man with many attacks
+- [The party](/pages/party) overall gets their asses kicked by these crystally flying bois and a dude in a black hoody
+- [The party](/pages/party) somehow beats the gang of assholes that attacked them
+- [The party](/pages/party) takes a long rest inside the cabin
+- [The party](/pages/party) decides to go to [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) meets a couple of santie clause [Battlehammer dwarves](/pages/battlehammer-dwarf-clan) looking for Knucklehead Trout
+- [Pillby](/pages/pillby) creates the "Hammered Hammer", which smells of the wine that he smells like, and gifts it to the santie bois
+- [The party](/pages/party) passes [Targos](/pages/targos) on the way to [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) arrives at [Bryn Shander](/pages/bryn-shander) and heads to the House of the Morning Lord to see [Copper](/pages/copper), and let him know about [Macreedus'](/pages/macreedus) downfall
+- [The party](/pages/party) goes to [the Northlook Inn](/pages/the-northlook) and reports the results of the [caravan theft](/pages/find-the-battlehammer-caravan) quest and turns it in
+- [The party](/pages/party) notices [Dannica](/pages/dannica-greysteel) walk into [The Northlook Inn](/pages/the-northlook)...
+

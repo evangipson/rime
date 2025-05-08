@@ -1,0 +1,16 @@
+- The party awakes in the [Uphill Climb](/pages/uphill-climb) and discusses what to do
+    - [Chroneer](/pages/chroneer) thinks it's a mob town and is very suspicious that the [Uphill Climb](/pages/uphill-climb) (an inn) doesn't have any beds
+- [Finnegan](/pages/finnegan) offers to perform at the [Uphill Climb](/pages/uphill-climb), and [Roarck](/pages/roarck) asks him to play later in the evening, and wants to discuss something with the party
+- [Roarck](/pages/roarck) explains to the party that the [Climb](/pages/uphill-climb) is currently populated by "concerned citizens" about the castle, and they are interested in finding out what is [going on in the castle](/pages/investigate-the-castle-of-caer-dineval)
+- [Finnegan](/pages/finnegan) and [Chroneer](/pages/chroneer) are suspicious of the town in general
+- [Pillby](/pages/pillby) creates [a set of two magically-communicating copper pieces](#pillbys-talking-coins) to help with the [investigation of the castle](/pages/investigate-the-castle-of-caer-dineval)
+- [Pillby](/pages/pillby) and [Sven](/pages/sven) go on a reconassiance mission around the castle, and essentially find nothing, but on the way back, they overhear a conversation at the castle gates surrounding making guard for a caravan, then head back to the [Uphill Climb](/pages/uphill-climb) to tell [the party](/pages/party) the result of their spy times
+    - [Pillby](/pages/pillby) almost falls into the lake by rolling a 1 (classic)
+- [Sven](/pages/sven) scouts the caravan, while the rest of [the party](/pages/party) waits at the [Uphill Climb](/pages/uphill-climb) for news that the caravan has cleared town
+- [Finnegan](/pages/finnegan) and [Brynn](/pages/brynn) head to the castle and convince the guard that the caravan was ambushed, and gain access to the castle
+- [Sven](/pages/sven), [Chroneer](/pages/chroneer), and [Pillby](/pages/pillby) gain to the castle with the help of [Finnegan](/pages/finnegan) and [Brynn](/pages/brynn) during their castle infiltration
+- [Pillby](/pages/pillby) kicks a [cultist](/pages/followers-of-levistus) in the head, and [Chroneer](/pages/chroneer) takes an amulet off of the [cultist's](/pages/followers-of-levistus) neck (which had a crystal from [Ekkar Kestle](/pages/ekkar-kestle) times)
+- [The party](/pages/party) decides on a safe word of "Pineapple", which makes going to fruit markets a bit awkward
+- [Sven](/pages/sven), [Chroneer](/pages/chroneer), and [Pillby](/pages/pillby) go and try to stealth upwards while [Finnegan](/pages/finnegan) and [Brynn](/pages/brynn) go to rendevous with a castle patron that is expecting them
+- [Chroneer](/pages/chroneer) pushes a [cultist](/pages/followers-of-levistus) off of the castle into a fire which raises the alert of the entire castle
+

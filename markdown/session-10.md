@@ -1,0 +1,19 @@
+- [The party](/pages/party) decides to hunker down and let the blizzard pass, even though [Sephek's](/pages/sephek-kaltro) caravan ([Torga's caravan](/pages/toargs-caravan)) is nearby
+- [The party](/pages/party) actually decides to walk around in a blizzard and scout out [Torga's caravan](/pages/toargs-caravan)
+- [Sfen](/pages/sven) tried to prone and hide in the snow, and the [Axebeak](/pages/axebeak) leading [Torga's caravan](/pages/toargs-caravan) noticed and sqwaked
+- [The party](/pages/party) gets into a fight with [Torga's caravan](/pages/toargs-caravan), with the attack lead by [Torga](/pages/torrga-icevien) throwing a dagger and missing [Sfen](/pages/sven)
+- [Sephek](/pages/sephek-kaltro) almost stabs [Sfen](/pages/sven) to death immediately
+- [Pillby](/pages/pillby) kills [Sephek](/pages/sephek-kaltro) totally on purpose by doing the exact amount of _fire_ damage that he needed, and [Sephek](/pages/sephek-kaltro) combusts into melting ice shards
+- [The party](/pages/party) is victorious in the encounter with [Sephek](/pages/sephek-kaltro) and [Torga's caravan](/pages/toargs-caravan)
+- [The party](/pages/party) decides to long rest in the bandit camp that [Torga's caravan](/pages/toargs-caravan) set up
+- [Brynn](/pages/brynn), [Pillby](/pages/pillby), [Finn](/pages/finnegan), and [Chroneer](/pages/chroneer) all try and search the bandit camp, and nobody finds anything, except [Brynn](/pages/brynn), who breathfully moans on an iron strongbox and a pouch to determine if it's magic, and finds, despite his erotic moans, it's not
+- [Finn](/pages/finnegan) tries to unlock the iron strongbox, attempts to do so almost perfectly, and breaks his lockpick
+- [Brynn](/pages/brynn) finds a key on [Torga](/pages/torrga-icevien), but doesn't breathfully moan on her, and also finds a scimitar, a dagger, and a set of studded leather
+- [Brynn](/pages/brynn) also finds 92 gold, 76 silver, 125 copper, and 7 gemstones worth 10 gold a piece, also an [envelope for a contract killing](/pages/incriminating-assassination-contract) that [incriminates Sephek Kaltro in a murder-for-hire plot](#sepheks-murders)
+- [The party](/pages/party) also finds among the bandit camp: cut wood, flint and tinder, flasks of whale oil, blankets, furs, rations, bottles of wine, casks of cheap ale, fake medicines, and vials of poison (used primarily for killing vermin)
+- The estimated haul for everyone, is just about 500 gold, so 100 gold per person (not distributed yet)
+- [The party](/pages/party) decides to head to [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) long rests in the stolen caravan while feeling their newfound strength as they approach level 4
+- [The party](/pages/party) hears rumblings of a group of dwarves having iron ingots stolen from them as they enter [Bryn Shander](/pages/bryn-shander)
+- Every member of [the party](/pages/party) expends 1 silver each to stay in a room at [Bryn Shander](/pages/bryn-shander)
+

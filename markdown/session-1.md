@@ -1,0 +1,15 @@
+- The party meets in [Bryn Shander](/pages/bryn-shander) in the [Ten Towns](/pages/ten-towns)
+- The party takes a [quest](/pages/quests) to [Investigate Sephek's Murders](/pages/sepheks-murders), from [Hjoln](/pages/hjoln) at [The Northlook](/pages/the-northlook)
+- The party takes another [quest](/pages/quests) to [find twingas](/pages/find-twingas), from [Dannica Greysteel](/pages/dannica-greysteel) in the center of [Bryn Shander](/pages/bryn-shander)
+- The party sets out from [Bryn Shander](/pages/bryn-shander), and runs into [Torga's Caravan](/pages/toargs-caravan)
+- [Torga](/pages/torrga-icevien) talks to the party, and brings [Sephek](/pages/sephek-kaltro) to the party, who observes that he appears to not be breathing
+- The party arrives in [Goodmead](/pages/goodmead) after confronting [Torga's Caravan](/pages/toargs-caravan)
+- The party finds out about some [missing mead](/pages/missing-mead), from [Feff](/pages/feff-morrin) in [Goodmead](/pages/goodmead)
+- The party sets off to the northwest to try and find the [verbeeg](/pages/verbeeg) who [stole the mead](/pages/missing-mead)
+- [Sven](/pages/sven) finds a fox in the woods to the northwest
+- The party meets a couple [twinga](/pages/twinga) in the woods, which rode the fox
+- Party finds from [5 corpses in the forests](/pages/missing-mead) of [Goodmead](/pages/goodmead):
+    - 2 shortswords
+    - 2 hammers
+    - handaxe
+

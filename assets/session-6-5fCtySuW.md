@@ -1,0 +1,28 @@
+- [The party](/pages/party) spends a few days in [Caer-Dineval](#caer-dineval), which in turn makes the townsfolk ask for help and tell [the party](/pages/party) what they need to do
+- [Finnegan](/pages/finnegan) hears that valuable are missing from [Caer Konig](/pages/caer-konig), and that the speaker has set patrols in the town to find out who is doing it
+- [Sfen](/pages/sven) hears about a murder in [Easthaven](/pages/easthaven)
+- [Brynn](/pages/brynn) does some odd jobs around town and gets paid total donkey shit (5 silver)
+- [Finnegan](/pages/finnegan) plays at the tavern in [Caer-Dineval](#caer-dineval), and makes 10 silver as a result, and hears that the inn at [Caer Konig](/pages/caer-konig) has had an artifact taken
+- [The Party](/pages/party) huddles in the [Uphill Climb](/pages/uphill-climb), while [Tabitha](/pages/tabitha) and [Roarke](/pages/roarck) feed them fish stew
+- [Pillby](/pages/pillby) gets a carved knucklehead trout ivory tower from a little kid in [Caer Dineval](/pages/caer-dineval)
+- [The Party](/pages/party) decides to head to [Caer Konig](/pages/caer-konig)
+- [Finnegan](/pages/finnegan) asks [Krannik](/pages/krannik-seeva) to take a couple dog sleds from the keep in [Caer-Dineval](#caer-dineval)
+- [Brynn](/pages/brynn) gets some cold-ass beets
+- [The Party](/pages/party) gets into [Caer Konig](/pages/caer-konig) and meets [Trovis](/pages/trovis)
+- [Trovis](/pages/trovis) takes [the party](/pages/party) to [The Northern Light](/pages/the-northern-light), an inn in [Caer Konig](/pages/caer-konig)
+- [The Party](/pages/party) meets [Ally](/pages/ally) at [The Northern Light](/pages/the-northern-light) and asks her more about what the thieves have stolen, which she answers: The rainbow lantern of [The Northern Light](/pages/the-northern-light), some alcohol, some clothes
+- [The Party](/pages/party) goes to the [Hook, Line, and Sinker](#hook-line-and-sinker) with [Trovis](/pages/trovis) to find out more about the thievery
+- [Finnegan](/pages/finnegan) speaks with [Terrance](/pages/terrance), and talks about acca dacca's famous song, Thunderstruck, and plays a duet
+- [Trovis](/pages/trovis) comes along and prompts [the party](/pages/party) to head to [Frozen Far Expeditions](/pages/frozen-far-expeditions), as they've had some items stolen as well
+- [The Party](/pages/party) heads to [Frozen Far Expeditions](/pages/frozen-far-expeditions) and meets [Farza](/pages/farza), an employee, and [Atennis](/pages/atennis), the old surly owner
+- [Pillby](/pages/pillby) hatches a totally sweet plan to see if [Farza](/pages/farza) is the thief by dropping a gold piece near them, and seeing if they pick it up. It didn't work.
+- [The Party](/pages/party) heads back to [The Northern Light](/pages/the-northern-light) to investigate the tracks left by the thieves
+- [Brynn](/pages/brynn) and [Sfen](/pages/sven) look for any signs of the tracks, but it has snowed too much to gain any information
+- [The Party](/pages/party) decides to go to [Hook, Line, and Sinker](#hook-line-and-sinker) for a drink
+- [Glenn](/pages/glenn) immediately accosts them and forces them to buy fancy garbage water (human wine) and reindeer steaks
+- [Terrance](/pages/terrance) comes up to the table and tells the party about an evil wizard that was captured in [Easthaven](/pages/easthaven), and he's going to be burned at the stake
+- [The Party](/pages/party) creates a stake-out mission with [Trovis](/pages/trovis) around the town, nothing really happens until [Sfen](/pages/sven) finds some tracks that leads INTO town, no OUT of town, no... wait, they weren't even NEAR the town...
+- [Sfen](/pages/sven) notices that there are some ogre tracks, and sled tracks, around town, but they never entered or left the town, and he leaves a stealthy mark on a nearby tree so he remembers where they are
+- [The Party](/pages/party) wakes up, and decides to check in with [Frozen Far Expeditions](/pages/frozen-far-expeditions) to check if they were missing any sleds, and they had both sleds
+- [The Party](/pages/party) discovers the tracks are heading toward the Cairn of [Caer Konig](/pages/caer-konig)
+
