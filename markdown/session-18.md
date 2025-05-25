@@ -1,0 +1,22 @@
+- The session opens with [Pillby](/pages/pillby) practice the lute recently given to him by [Finnegan](/pages/finnegan)
+- [Chroneer](/pages/chroneer) immediately beings drinking, and [Pillby](/pages/pillby) joins him
+- [Choneer's murderous mummy bride](/pages/shanar) wants to make a berry wine, after explaining the details of her homicide to [Chroneer](/pages/chroneer)
+- [Chroneer](/pages/chroneer) tells [Pillby](/pages/pillby) that he has felt compelled to be drunk since the [events at the cave](/pages/investigate-the-gemstone-mine), during the [last adventure](/pages/session-17)
+- [Krummok](/pages/krummok) mentions he has dwarf allies, somewhere near [Caer-Konig](#caer-konig)
+- [The party](/pages/party) decides to go to the Dwarven Valley in betweeen [Termalaine](/pages/termalaine) and [Caer-Konig](#caer-konig), to try and find [The Gay Man from Targos' Husband](/pages/brokeback-mountain-pass)
+- After that, [the party](/pages/party) will head to [Caer-Dineval](#caer-dineval) and ask around about the [hidden wizard's tower](/pages/wizards-arson-and-towers-oh-my)
+- [The party](/pages/party) makes it to [Termalaine](/pages/termalaine), and is recognized amongst the townspeople and town speaker for their help with [the gemstone mine](/pages/investigate-the-gemstone-mine)
+- [The party](/pages/party) makes it to about 4 hours outside of [Kelvin's Cairn](/pages/kelvins-cairn), and decides to make camp for the night to avoid exhaustion
+- [The party](/pages/party) gets ambused by a frost giant, which [Krummok](/pages/krummok) persuades into attacking by calling the party "The Dale Fisters (who are giant-killers)"
+- [Krummok](/pages/krummok) gets absolutely shitcanned by the mammoth and frost giant
+- [The party](/pages/party) barely survives an encounter with a frost giant and mammoth, which [Krummok](/pages/krummok) says is similar in challenge to an adult white dragon
+- [The party](/pages/party) makes it to [Kelvin's Cairn](/pages/kelvins-cairn)
+- [The party](/pages/party) stumbles upon a sabretooth and an owlbear fighting each other
+- [Pillby](/pages/pillby) and [Krummok](/pages/krummok) take bets on who will win
+- Fortune favors [Pillby](/pages/pillby) for the first time in this entire campaign, and he wins the bet
+- [Krummok](/pages/krummok) pays out the 5 gold bet with 10 gold coins, [Pillby](/pages/pillby) gives back 9 gold coins and tells [Krummok](/pages/krummok), the bet was only 1 gold piece, and assures [Krummok](/pages/krummok) he'd bet on him every time
+- [The party](/pages/party) comes across a base camp filled with dwarves
+- [The party](/pages/party) meets up with [Tulin](/pages/tulin-battlehammer) and [Buffin](/pages/buffin-battlehammer), who are battlehammer dwarven giant scouts
+- [Pillby](/pages/pillby) asks [Tulin](/pages/tulin-battlehammer) and [Buffin](/pages/buffin-battlehammer) about [the gay boi from Targos](/pages/brokeback-mountain-pass), who is named [Garret](/pages/garret), who is somewhere up the peak of [Kelvin's Cairn](/pages/kelvins-cairn)
+- [The party](/pages/party) decides to be merry while [Pillby](/pages/pillby) plays some ambiance with [Brynn](/pages/brynn) on his pan flute
+

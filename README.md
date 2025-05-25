@@ -437,6 +437,29 @@
 - [Pillby](#pillby) has a momentary lapse in judgement when he wants to use a [frost giant](#frost-giants) as a bouncer for [the inn](#ramshackle-inn), but [Finnegan](#finnegan) corrects his behavior
 - [The party](#party) decides to go and find the [frost giant](#frost-giants) meeting place to a hill out to the west, and attempt to find out a location from the most western town of [Ten Towns](#ten-towns), [Targos](#targos), to try and find out when the ritualistic sacrifices started that seem to be pushing [Icewind Dale](#icewind-dale) into a more cold and evil place
 
+## Session #18
+- The session opens with [Pillby](#pillby) practice the lute recently given to him by [Finnegan](#finnegan)
+- [Chroneer](#chroneer) immediately beings drinking, and [Pillby](#pillby) joins him
+- [Choneer's murderous mummy bride](#shanar) wants to make a berry wine, after explaining the details of her homicide to [Chroneer](#chroneer)
+- [Chroneer](#chroneer) tells [Pillby](#pillby) that he has felt compelled to be drunk since the [events at the cave](#investigate-the-gemstone-mine), during the [last adventure](#session-17)
+- [Krummok](#krummok) mentions he has dwarf allies, somewhere near [Caer-Konig](#caer-konig)
+- [The party](#party) decides to go to the Dwarven Valley in betweeen [Termalaine](#termalaine) and [Caer-Konig](#caer-konig), to try and find [The Gay Man from Targos' Husband](#brokeback-mountain-pass)
+- After that, [the party](#party) will head to [Caer-Dineval](#caer-dineval) and ask around about the [hidden wizard's tower](#wizards-arson-and-towers-oh-my)
+- [The party](#party) makes it to [Termalaine](#termalaine), and is recognized amongst the townspeople and town speaker for their help with [the gemstone mine](#investigate-the-gemstone-mine)
+- [The party](#party) makes it to about 4 hours outside of [Kelvin's Cairn](#kelvins-cairn), and decides to make camp for the night to avoid exhaustion
+- [The party](#party) gets ambused by a frost giant, which [Krummok](#krummok) persuades into attacking by calling the party "The Dale Fisters (who are giant-killers)"
+- [Krummok](#krummok) gets absolutely shitcanned by the mammoth and frost giant
+- [The party](#party) barely survives an encounter with a frost giant and mammoth, which [Krummok](#krummok) says is similar in challenge to an adult white dragon
+- [The party](#party) makes it to [Kelvin's Cairn](#kelvins-cairn)
+- [The party](#party) stumbles upon a sabretooth and an owlbear fighting each other
+- [Pillby](#pillby) and [Krummok](#krummok) take bets on who will win
+- Fortune favors [Pillby](#pillby) for the first time in this entire campaign, and he wins the bet
+- [Krummok](#krummok) pays out the 5 gold bet with 10 gold coins, [Pillby](#pillby) gives back 9 gold coins and tells [Krummok](#krummok), the bet was only 1 gold piece, and assures [Krummok](#krummok) he'd bet on him every time
+- [The party](#party) comes across a base camp filled with dwarves
+- [The party](#party) meets up with [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer), who are battlehammer dwarven giant scouts
+- [Pillby](#pillby) asks [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer) about [the gay boi from Targos](#brokeback-mountain-pass), who is named [Garret](#garret), who is somewhere up the peak of [Kelvin's Cairn](#kelvins-cairn)
+- [The party](#party) decides to be merry while [Pillby](#pillby) plays some ambiance with [Brynn](#brynn) on his pan flute
+
 # Party
 ## Finnegan
 - Bard/monk
@@ -527,6 +550,9 @@
 ### Giver
 - A rumor in [Lonelywood](#lonelywood): "Did you hear what happened to that evil wizard in Easthaven? They tied him to a stake and lit him on fire! Why? 'Cause he hired some Ten-Towners to help him find a buried tower, then killed 'em to keep its location secret. Well, one of 'em told me where the tower's at! I wouldn't go myself, but maybe it's somethin' you'd like to explore."
 
+### Location
+- East of Lake Dinneshere
+
 ### Reward
 - Riches!
 - Knowing where a secret tower is
@@ -559,6 +585,9 @@
 
 ## Thieves in Caer Konig
 - [Trovis](#trovis) insists there are thieves robbing the people of [Caer Konig](#caer-konig)
+
+## Whale Stuff
+- In the [Sea of Moving Ice](#sea-of-moving-ice)
 
 # Completed Quests
 ## Investigate the Gemstone Mine
@@ -909,6 +938,17 @@
 - In [Session 11](#session-11), [Pillby](#pillby) blew himself up trying to grab the [Summerstar](#summerstar) and ended up in Purgatory
 - In [Session 12](#session-12), [Pillby](#pillby) hung out and had some misadventures in Purgatory
 
+## Kelvin's Cairn
+- A mountain to the northwest of [Caer-Konig](#caer-konig)
+- [Gauntlegrim](#gauntlegrim) is at the base of Kevlin's Cairn
+
+## Gauntlegrim
+- The home of the [Battlehammer dwarves](#battlehammer-dwarf-clan), near the mountain of [Kelvin's Cairn](#kelvins-cairn)
+- [Krummok](#krummok) seems to think he has allies among the dwarves of Gauntlegrim
+
+## Sea of Moving Ice
+- A large sea of moving ice to the northwest of [Lonelywood](#lonelywood)
+
 # People
 ## Hjoln
 - Female dwarf at bar that gave us first quest
@@ -1149,6 +1189,12 @@
 ## Nabira Moarskull
 - A fisher in [Easthaven](#easthaven)
 - Murdered for her enchanted fishhook by gnolls
+
+## Tulin Battlehammer
+- A dwarven giant watcher at the base of [Kelvin's Cairn](#kelvins-cairn)
+
+## Buffin Battlehammer
+- A dwarven giant watcher at the base of [Kelvin's Cairn](#kelvins-cairn)
 
 # Legends
 ## Oraal the Frost Maiden
