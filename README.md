@@ -460,6 +460,53 @@
 - [Pillby](#pillby) asks [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer) about [the gay boi from Targos](#brokeback-mountain-pass), who is named [Garret](#garret), who is somewhere up the peak of [Kelvin's Cairn](#kelvins-cairn)
 - [The party](#party) decides to be merry while [Pillby](#pillby) plays some ambiance with [Brynn](#brynn) on his pan flute
 
+## Session #19
+- [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer) are cooking up meat over the fire, and drinking some dwarvish ale
+- The dwarves want the party to leave abruptly, suggesting they are planning some kind of intercourse
+- [Sfen](#sven) decides to give the almost certainly gay dwarves a couple flagons of ale and that persaudes them to let [the party](#party) stay
+- [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer) take the first watch, which is uneventful
+- [Pillby](#pillby) and [Brynn](#brynn) take the second watch, and [Brynn](#brynn) notices a spotlight, and lets [Pillby](#pillby) know about it
+- [Chroneer](#chroneer) and [Sfen](#sven) take the third wtach, and is uneventful
+- In the morning, [Tulin](#tulin-battlehammer) and [Buffin](#buffin-battlehammer) let [the party](#party) know there is a mountain pass about 2-3 hours away where they'd check for [the other gay man](#garret)
+- [The party](#party) finds a base camp after trekking through the mountain for a couple hours, that has a turned over sled, about 5 dogs, and a goblin corpse
+- [Krummok](#krummok) offers one of the dogs one of his famous dead rats, and the dog happily eats it and befriends him
+- [Brynn](#brynn) rummages through the containers nearby to find some moose meat, and offers some to the dogs, and communicates with them
+- The dogs say they want to leave, and [Brynn](#brynn) lets them off their harness
+- [Brynn](#brynn) gets some more information about of the dogs about what happened to their owners, they were attacked and separated, and they've been down there for 5 days
+- [Krummok](#krummok) has a real idea that the party should use one of the dogs to track down [the gay man](#garret)
+- [Brynn](#brynn) asks the alpha dog, Casper, if he wants to help them track down their leader
+- [Krummok](#krummok) notices four mountain goats, and attempts to shoot one with a blowgun, but instead inhales the blow dart backwards, begins struggling, gasping for air, and stumbling around the mountain
+- [Sfen](#sven) can't see [Krummok](#krummok) actively choking and dying
+- [Brynn](#brynn) notices [Krummok](#krummok) is choking, and [Krummok](#krummok) spits up the dart, nearly into [Brynn's](#brynn) mouth
+- [The party](#party) notices another goblin corpse, but this one is mutilated
+- [Krummok](#krummok) can tell a yeti has killed this goblin
+- [Sfen](#sven) and [Krummok](#krummok) notice a cave with some goblins in there
+- [Sfen](#sven) goes to tell the group about the goblins, then hears [Krummok](#krummok) actively screams and charges in, while [Sfen](#sven) exhales and shakes his head and begins walking back
+- [The party](#party) beats the goblins, the last of which ends up throwing themselves down a pit
+- [Sfen](#sven) loots an [interesting shiny magic metal tube](#unknown-cool-magical-rod) from a goblin corpse, and nobody in [the party](#party) can tell what it is
+- [The party](#party) refocuses, and begins to look for [the man most gay](#garret) again
+- [Pillby](#pillby) looks around, panicked, and notices [Krummok](#krummok) is not choking, and is temporarily relieved, before noticing that an avalanche has begun
+- [Brynn](#brynn) turns into a mole(???) and beging burrowing underground to safety
+- The rest of [the party](#party) begins to book it, and knowing [Pillby](#pillby) is as fast as [Krummok's](#krummok) wit, [Sfen](#sven) picks him up and begins dashing to safety
+- [The party](#party) escapes the avalanche safely
+- [The party](#party) keeps ascending [Kelvin's Cairn](#kelvins-cairn), and notices a human that is laying face-down in the snow with very colorful clothes
+- [Sfen](#sven) rappels down a narrow ravine, and comes to the aid of the colorfully-clothed man, who then begins to haul the man back up to where [the party](#party) and [Casper](#casper) are
+- [Casper](#casper) begins barking and motioning toward the man
+- [Pillby](#pillby) casts cure wounds on the near-corpse, in an attempt to heal it
+- [Sfen](#sven) gets ambushed by a couple of cats named Craig while he's still down in the pit, waiting for the rope to come back up to where [the party](#party) is
+- [Krummok](#krummok) does a heroic body slam down on the cats, and dispatches one, then [Sfen](#sven) murders the other, and [the party](#party) is safe again
+- [Garret](#garret) comes to and tells [the party](#party) that he was ambushed by yetis, after being attacked by goblins
+- He was there with a goliath named [Mokingo](#mokingo), someone named [Perilu](#perilu), and a halfling named [Asterisk](#asterisk), who he last saw before falling into the ravine
+- [The party](#party) decides to [help find Garret's expedition members](#find-garrets-lost-expedition-members), while [Garret](#garret) decides to take [Casper](#casper) and head back to [Targos](#targos) to be with [his very gay husband](#gay-man)
+- There is a 50-foot tall solid ice wall that [the party](#party) must climb to get to where [Garret's expedition members](#find-garrets-lost-expedition-members) were last seen
+- [The party](#party) finds a harrowing 20-foot slick ice bridge, which they must cross perfectly or die
+- [Sfen](#sven) crosses without an issue at all, and attaches a rope to a piton
+- [Brynn](#brynn) turns into a spooder and crosses without an issue
+- [Pillby](#pillby) nearly dies
+- [Krummok](#krummok) just sort of walks across very easily
+- [Chroneer](#chroneer) walks across also without issue an issue
+- [The party](#party) discovers a cave at the end of the ice bridge
+
 # Party
 ## Finnegan
 - Bard/monk
@@ -523,6 +570,16 @@
 - In [session 13](#session-13), [the party](#party) met him at [The Northlook](#the-northlook), and adopted him
 
 # Quests
+## Find Garret's Lost Expedition Members
+### Giver
+- [Gay man's husband](#garret) in a ravine in [Kelvin's Cairn](#kelvins-cairn)
+
+### Reward
+- Unknown
+
+### Duty
+- Help [Garret](#garret) find the goliath [Mokingo](#mokingo), [Perilu](#perilu), and a halfling [Asterisk](#asterisk), who were part of his expedition
+
 ## Find Nabira's Enchanted Fishhook
 ### Giver
 - A rumor in [Lonelywood](#lonelywood): "[Nabira Moarskull](#nabira-moarskull), an Easthaven fisher, owned an enchanted fishhook that could catch magical fish. While she and her friends were out on the ice one day, a pair of filthy gnolls attacked them. They killed Nabira and stole her fishing pole and hook. Hunters from Easthaven tracked the gnolls to an icy rift in the ground but were too scared to go farther."
@@ -571,6 +628,8 @@
 
 ### Duty
 - In [session 13](#session-13), [the gay man](#gay-man) told us [his husband](#Garret) went to [Caer Konig](#caer-konig)
+- In [session 19](#session-19), [the party](#party) finds [Garret](#garret) face down in a ravine, nearly dead
+- [The party](#party) saves [Garret](#garret), and he heads back to [Targos](#targos), and tasks [the party](#party) with [finding lost members of his expedition](#find-garrets-lost-expedition-members)
 
 ## Find a cask of Dwarven Ale for Scramsacks
 ### Giver
@@ -1131,9 +1190,11 @@
 - Lives in [Targos](#targos)
 - Has a plot dog named "Boy"
 - Gay
+- Named Keegan Velren
 
 ## Garret
 - Husband of [Gay Man](#gay-man) in [Targos](#targos)
+- In [session 19](#session-19), [the party](#party) discovered him unconscious in a pit of [Kelvin's Cairn](#kelvins-cairn)
 
 ## Speaker Masshew
 - The speaker of [Termalaine](#termalaine)
@@ -1196,6 +1257,18 @@
 ## Buffin Battlehammer
 - A dwarven giant watcher at the base of [Kelvin's Cairn](#kelvins-cairn)
 
+## Mokingo
+- Was exploring [Kelvin's Cairn](#kelvins-cairn) with [Garret](#garret)
+- Part of [Garret's](#garret) expedition
+- Goliath warrior
+
+## Perilu
+- Part of [Garret's](#garret) expedition
+
+## Asterisk
+- Part of [Garret's](#garret) expedition
+- Halfling
+
 # Legends
 ## Oraal the Frost Maiden
 - orail the frost maiden is the reason why there is no sun in [Bryn Shander](#bryn-shander) the last two years, even some worship orail
@@ -1256,6 +1329,11 @@
 - The original leaders of [Icewind Dale](#icewind-dale)
 - In [session 17](#session-17), [the party](#party) learned that there is [conflict among frost giants](#frost-giant-conflict-resolution), and decided to head to where they live to see if they can help, and to learn more about when the ritual sacrifices to [Oraal, the Frost Maiden](#oraal-the-frost-maiden) started
 
+## Casper
+- An alpha dog discovered in [Kelvin's Cairn](#kelvins-cairn), along with his pack of 4 other dogs
+- His leader was attacked
+- In [session #19](#session-19), [the party](#party) discovered Casper and his friendly dogs
+
 # Concepts
 ## Time Paradox
 - [Chroneer](#chroneer) is investigating a paradox in [Icewind Dale](#icewind-dale)
@@ -1315,6 +1393,11 @@
 ## Ring of Warmth
 - In [session 16](#session-16), [Finn](#finnegan) attempts to identify a ring from a waitress in [The Blue Clam](#the-blue-clam)
 - When this ring is worn, and attuned to, this ring helps protect the wearer from the cold elements, keeps the wearer quite warm
+
+## Unknown Cool Magical Rod
+- In [session 19](#session-19), [Sfen](#sven) discovered the unknown cool magical rod on a desecrated goblin corpse
+- Nobody in the party could decipher what it is
+- It is inscribed with some strange old language
 
 # Notes
 ## Chardolyn Note

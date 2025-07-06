@@ -1,0 +1,46 @@
+- [Tulin](/pages/tulin-battlehammer) and [Buffin](/pages/buffin-battlehammer) are cooking up meat over the fire, and drinking some dwarvish ale
+- The dwarves want the party to leave abruptly, suggesting they are planning some kind of intercourse
+- [Sfen](/pages/sven) decides to give the almost certainly gay dwarves a couple flagons of ale and that persaudes them to let [the party](/pages/party) stay
+- [Tulin](/pages/tulin-battlehammer) and [Buffin](/pages/buffin-battlehammer) take the first watch, which is uneventful
+- [Pillby](/pages/pillby) and [Brynn](/pages/brynn) take the second watch, and [Brynn](/pages/brynn) notices a spotlight, and lets [Pillby](/pages/pillby) know about it
+- [Chroneer](/pages/chroneer) and [Sfen](/pages/sven) take the third wtach, and is uneventful
+- In the morning, [Tulin](/pages/tulin-battlehammer) and [Buffin](/pages/buffin-battlehammer) let [the party](/pages/party) know there is a mountain pass about 2-3 hours away where they'd check for [the other gay man](/pages/garret)
+- [The party](/pages/party) finds a base camp after trekking through the mountain for a couple hours, that has a turned over sled, about 5 dogs, and a goblin corpse
+- [Krummok](/pages/krummok) offers one of the dogs one of his famous dead rats, and the dog happily eats it and befriends him
+- [Brynn](/pages/brynn) rummages through the containers nearby to find some moose meat, and offers some to the dogs, and communicates with them
+- The dogs say they want to leave, and [Brynn](/pages/brynn) lets them off their harness
+- [Brynn](/pages/brynn) gets some more information about of the dogs about what happened to their owners, they were attacked and separated, and they've been down there for 5 days
+- [Krummok](/pages/krummok) has a real idea that the party should use one of the dogs to track down [the gay man](/pages/garret)
+- [Brynn](/pages/brynn) asks the alpha dog, Casper, if he wants to help them track down their leader
+- [Krummok](/pages/krummok) notices four mountain goats, and attempts to shoot one with a blowgun, but instead inhales the blow dart backwards, begins struggling, gasping for air, and stumbling around the mountain
+- [Sfen](/pages/sven) can't see [Krummok](/pages/krummok) actively choking and dying
+- [Brynn](/pages/brynn) notices [Krummok](/pages/krummok) is choking, and [Krummok](/pages/krummok) spits up the dart, nearly into [Brynn's](/pages/brynn) mouth
+- [The party](/pages/party) notices another goblin corpse, but this one is mutilated
+- [Krummok](/pages/krummok) can tell a yeti has killed this goblin
+- [Sfen](/pages/sven) and [Krummok](/pages/krummok) notice a cave with some goblins in there
+- [Sfen](/pages/sven) goes to tell the group about the goblins, then hears [Krummok](/pages/krummok) actively screams and charges in, while [Sfen](/pages/sven) exhales and shakes his head and begins walking back
+- [The party](/pages/party) beats the goblins, the last of which ends up throwing themselves down a pit
+- [Sfen](/pages/sven) loots an [interesting shiny magic metal tube](/pages/unknown-cool-magical-rod) from a goblin corpse, and nobody in [the party](/pages/party) can tell what it is
+- [The party](/pages/party) refocuses, and begins to look for [the man most gay](/pages/garret) again
+- [Pillby](/pages/pillby) looks around, panicked, and notices [Krummok](/pages/krummok) is not choking, and is temporarily relieved, before noticing that an avalanche has begun
+- [Brynn](/pages/brynn) turns into a mole(???) and beging burrowing underground to safety
+- The rest of [the party](/pages/party) begins to book it, and knowing [Pillby](/pages/pillby) is as fast as [Krummok's](/pages/krummok) wit, [Sfen](/pages/sven) picks him up and begins dashing to safety
+- [The party](/pages/party) escapes the avalanche safely
+- [The party](/pages/party) keeps ascending [Kelvin's Cairn](/pages/kelvins-cairn), and notices a human that is laying face-down in the snow with very colorful clothes
+- [Sfen](/pages/sven) rappels down a narrow ravine, and comes to the aid of the colorfully-clothed man, who then begins to haul the man back up to where [the party](/pages/party) and [Casper](/pages/casper) are
+- [Casper](/pages/casper) begins barking and motioning toward the man
+- [Pillby](/pages/pillby) casts cure wounds on the near-corpse, in an attempt to heal it
+- [Sfen](/pages/sven) gets ambushed by a couple of cats named Craig while he's still down in the pit, waiting for the rope to come back up to where [the party](/pages/party) is
+- [Krummok](/pages/krummok) does a heroic body slam down on the cats, and dispatches one, then [Sfen](/pages/sven) murders the other, and [the party](/pages/party) is safe again
+- [Garret](/pages/garret) comes to and tells [the party](/pages/party) that he was ambushed by yetis, after being attacked by goblins
+- He was there with a goliath named [Mokingo](/pages/mokingo), someone named [Perilu](/pages/perilu), and a halfling named [Asterisk](/pages/asterisk), who he last saw before falling into the ravine
+- [The party](/pages/party) decides to [help find Garret's expedition members](/pages/find-garrets-lost-expedition-members), while [Garret](/pages/garret) decides to take [Casper](/pages/casper) and head back to [Targos](/pages/targos) to be with [his very gay husband](/pages/gay-man)
+- There is a 50-foot tall solid ice wall that [the party](/pages/party) must climb to get to where [Garret's expedition members](/pages/find-garrets-lost-expedition-members) were last seen
+- [The party](/pages/party) finds a harrowing 20-foot slick ice bridge, which they must cross perfectly or die
+- [Sfen](/pages/sven) crosses without an issue at all, and attaches a rope to a piton
+- [Brynn](/pages/brynn) turns into a spooder and crosses without an issue
+- [Pillby](/pages/pillby) nearly dies
+- [Krummok](/pages/krummok) just sort of walks across very easily
+- [Chroneer](/pages/chroneer) walks across also without issue an issue
+- [The party](/pages/party) discovers a cave at the end of the ice bridge
+
