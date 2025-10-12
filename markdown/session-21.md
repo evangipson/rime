@@ -1,0 +1,15 @@
+- [The Party](/pages/party) arrives at [Bryn Shander](/pages/bryn-shander) with the speaker and talks to the Sheriff about a well-spoken goblin
+- [The Party](/pages/party) speaks to the [well-spoken goblin](#skik), who is an emissary to the goblin king
+- [Krummok](/pages/krummok) forms a dead-mouse bond with [Skik](/pages/skik)
+- [The Party](/pages/party) learns of an espionage thing from [Duvessa](/pages/duvessa-shane), but won't learn about it in full until after going to [Karkalok](/pages/karkalok)
+- [The Party](/pages/party) goes to buy sleds and dogs from Krelly's Tack, with [Chroneer](/pages/chroneer) graciously paying for half
+- [The Party](/pages/party) sells a bunch of weapons to [The Black Iron Blades](/pages/black-iron-blades), and [Krummok](/pages/krummok) strikes such a good deal (at 20 gold pieces less than they were offered) that he earns a free heavy snowcloak
+- [Pillby](/pages/pillby) buys a jug, a russian cossack hat, a backpack, and a rope as a base for some infusions later
+- [Krummok](/pages/krummok) gets a beaver hat
+- [Pillby](/pages/pillby) creates a cap of water breathing, and an alchemy jug of oil
+- [The Party](/pages/party) wakes up early the next morning, gets [Skik](/pages/skik), and smuggles him out of the city using the dog sleds, and starts to head south down the ten trails
+- [The Party](/pages/party) runs into Otacon, from the Doolakalaka clan, traveling with members of the Thuunlakalaka clan (but he does not know the boomshakalaka clan)
+- [The Party](/pages/party) gets into a tug-of-war with Otacon and his tribe, but eventually lose, and Otacon invites [the party](/pages/party) to go visit their tribe
+- [The Party](/pages/party) encounters a frost druid and multiple reindeer, and [Chroneer](/pages/chroneer) nearly dies, but [the party](/pages/party) survives after [Krummok](/pages/krummok) shatters the frost bitch into a billion pieces
+- [The Party](/pages/party) is nearing in on [Garglecock](/pages/karkalok)...
+

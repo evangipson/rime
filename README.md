@@ -507,6 +507,29 @@
 - [Chroneer](#chroneer) walks across also without issue an issue
 - [The party](#party) discovers a cave at the end of the ice bridge
 
+## Session #20
+- [The party](#party) found a lady about to be eaten by yetis
+- [The party](#party) continued to explore on the mountain, finding another party member that was frozen solid
+- [The party](#party) heads back to [Lonelywood](#lonelywood) and drops off materials and supplies to [Barry and the Bandage](#ramshackle-inn), and learned it was prospering, and that [Shanar](#shanar) hadn't killed anyone else while they've been gone
+- [The party](#party) pooled their gold together to help [Brynn](#brynn) buy a diamond
+- [The party](#party) finds out about a [well-spoken goblin](#skik) being held at [Bryn Shander](#bryn-shander) and decides to go investigate
+
+## Session #21
+- [The Party](#party) arrives at [Bryn Shander](#bryn-shander) with the speaker and talks to the Sheriff about a well-spoken goblin
+- [The Party](#party) speaks to the [well-spoken goblin](#skik), who is an emissary to the goblin king
+- [Krummok](#krummok) forms a dead-mouse bond with [Skik](#skik)
+- [The Party](#party) learns of an espionage thing from [Duvessa](#duvessa-shane), but won't learn about it in full until after going to [Karkalok](#karkalok)
+- [The Party](#party) goes to buy sleds and dogs from Krelly's Tack, with [Chroneer](#chroneer) graciously paying for half
+- [The Party](#party) sells a bunch of weapons to [The Black Iron Blades](#black-iron-blades), and [Krummok](#krummok) strikes such a good deal (at 20 gold pieces less than they were offered) that he earns a free heavy snowcloak
+- [Pillby](#pillby) buys a jug, a russian cossack hat, a backpack, and a rope as a base for some infusions later
+- [Krummok](#krummok) gets a beaver hat
+- [Pillby](#pillby) creates a cap of water breathing, and an alchemy jug of oil
+- [The Party](#party) wakes up early the next morning, gets [Skik](#skik), and smuggles him out of the city using the dog sleds, and starts to head south down the ten trails
+- [The Party](#party) runs into Otacon, from the Doolakalaka clan, traveling with members of the Thuunlakalaka clan (but he does not know the boomshakalaka clan)
+- [The Party](#party) gets into a tug-of-war with Otacon and his tribe, but eventually lose, and Otacon invites [the party](#party) to go visit their tribe
+- [The Party](#party) encounters a frost druid and multiple reindeer, and [Chroneer](#chroneer) nearly dies, but [the party](#party) survives after [Krummok](#krummok) shatters the frost bitch into a billion pieces
+- [The Party](#party) is nearing in on [Garglecock](#karkalok)...
+
 # Party
 ## Finnegan
 - Bard/monk
@@ -1008,6 +1031,10 @@
 ## Sea of Moving Ice
 - A large sea of moving ice to the northwest of [Lonelywood](#lonelywood)
 
+## Karkalok
+- Goblin city that [Skik](#skik) is from
+- Has a leader that is totally NOT a gnome
+
 # People
 ## Hjoln
 - Female dwarf at bar that gave us first quest
@@ -1268,6 +1295,12 @@
 ## Asterisk
 - Part of [Garret's](#garret) expedition
 - Halfling
+
+## Skik
+- Greasy goblin from [Karkalok](#karkalok)
+- In [session 21](#session-21), [the party](#party) ran into him being jailed in [Bryn Shander](#bryn-shander)
+- In [session 21](#session-21), he came with [the party](#party) on a journey back to [Karkalok](#karkalok)
+- Holds [Krummok](#krummok) in high regards
 
 # Legends
 ## Oraal the Frost Maiden
