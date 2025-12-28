@@ -1,0 +1,1 @@
+const W="data:text/markdown;base64,LSBMZWFkZXIgb2YgW0dhcmdsZWNvY2tdKC9wYWdlcy9rYXJrYWxvaykKLSBJcyBhY3R1YWxseSBhIGdub21lIG5hbWVkIFNwZWxsdWNrcyBSb213YW5kCgo=";export{W as default};

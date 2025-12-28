@@ -530,6 +530,28 @@
 - [The Party](#party) encounters a frost druid and multiple reindeer, and [Chroneer](#chroneer) nearly dies, but [the party](#party) survives after [Krummok](#krummok) shatters the frost bitch into a billion pieces
 - [The Party](#party) is nearing in on [Garglecock](#karkalok)...
 
+## Session #22
+- [The party](#party) gets teleported by [Chroneer's](#chroneer) [haggardly, wrapped girlfriend](#shanar) to [Benny and the Jets](#ramshackle-inn), and see [Finnegan](#finnegan)
+- [Finnegan](#finnegan) nonchalantly greets [the party](#party), and [Krummok](#krummok) pokes him to make sure he's real
+- [The party](#party) gets to the red river, and is able to cross, as it is frozen
+- [The party](#party) spots a torch illuminating a blackened structure, which looks sort of like a icy prison fortress
+- [The party](#party) makes it to [Garglecock](#karkalok), and insists that [Skik](#skik) go up and negotiate with it's inhabitants
+- [Finnegan](#finnegan) gives [Skik](#skik) a handkerchief, after blowing his nose into it, and says nothing
+- [The party](#party) meets [Snubsuck](#snubsuck), the warden of [Garglecock](#karkalok), who bribes [the party](#party) for safe passage
+- [Finnegan](#finnegan) attempts to persuade [Snubsuck](#snubsuck) into not paying the troll toll
+- [Finnegan](#finnegan) succeeds in the persuation attempt, and [the party](#party) gains access to [Garglecock](#karkalok)
+- [The party](#party) notices a 20-foot tall armored golem construct that is set up somewhat like a marionette, but cannot figure out for the life of them what it actually is
+- [The party](#party) meets [Yarbknock](#yarbknock), and find out almost immediately that he is a gnome, and he is concerned about the goblins of [Garglecock](#karkalok) finding out that he is, in fact, not a goblin
+- [Yarbknock](#yarbknock) explains that he was travelling to [Bryn Shander](#bryn-shander), and goblins ate the rest of his party; he had a few companions left alive, so he started to scavenge around (as he's an engineer), and he was able to fool the goblins with "silent image", a spell he has
+- [The party](#party) and [Yarbknock](#yarbknock) debate goblin politics for some time, and concoct an elusive scheme to break him out of [Garglecock](#karkalok), as he's scared about being overthrown
+- A plan is concocted where at night, during the nightly fire, [the party](#party) and [Yarbknock](#yarbknock) will announce he will be travelling as an emissary to [Bryn Shander](#bryn-shander) to further trade, but really, he will never come back
+- [Krummok](#krummok) divulges the political overthrowing plan to [Skik](#skik), who asks if he can hang out with the party, to which [Pillby](#pillby) says "yes" (otherwise [skik](#skik) will be raped until he's a puddle of goo)
+- [The party](#party) briefly debates calling in each goblin one-by-one and murdering them individually, but decide against it
+- A goblin shaman, Manafek, and [Snubsuck](#snubsuck) enter the table, and suggest offering the construct as a gift to [Bryn Shander](#bryn-shander)
+- [The party](#party) begins to leave [Garglecock](#karkalok) with the construct in tow, after convincing the goblins they will be smattered with "goat stuff" from [Bryn Shander](#bryn-shander)
+- [The party](#party) decides to see the trade plan through, and actually take the golem construct to [Bryn Shander](#bryn-shander) in hopes of facilitating trade, after getting [Yarbknock](#yarbknock) separated from the guards with the leaders to discuss the "real" trade route plan
+- [The party](#party) makes it successfully to just outside of the gates of [Bryn Shander](#bryn-shander), with a polar bear cart and goblin construct in tow
+
 # Party
 ## Finnegan
 - Bard/monk
@@ -1301,6 +1323,14 @@
 - In [session 21](#session-21), [the party](#party) ran into him being jailed in [Bryn Shander](#bryn-shander)
 - In [session 21](#session-21), he came with [the party](#party) on a journey back to [Karkalok](#karkalok)
 - Holds [Krummok](#krummok) in high regards
+
+## Snubsuck
+- Warden of [Garglecock](#karkalok)
+- In [session #22](#session-22), blackmailed [the party](#party) for safe passage through [Garglecock](#karkalok)
+
+## Yarbknock
+- Leader of [Garglecock](#karkalok)
+- Is actually a gnome named Spellucks Romwand
 
 # Legends
 ## Oraal the Frost Maiden

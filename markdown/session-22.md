@@ -1,0 +1,21 @@
+- [The party](/pages/party) gets teleported by [Chroneer's](/pages/chroneer) [haggardly, wrapped girlfriend](#shanar) to [Benny and the Jets](/pages/ramshackle-inn), and see [Finnegan](/pages/finnegan)
+- [Finnegan](/pages/finnegan) nonchalantly greets [the party](/pages/party), and [Krummok](/pages/krummok) pokes him to make sure he's real
+- [The party](/pages/party) gets to the red river, and is able to cross, as it is frozen
+- [The party](/pages/party) spots a torch illuminating a blackened structure, which looks sort of like a icy prison fortress
+- [The party](/pages/party) makes it to [Garglecock](/pages/karkalok), and insists that [Skik](/pages/skik) go up and negotiate with it's inhabitants
+- [Finnegan](/pages/finnegan) gives [Skik](/pages/skik) a handkerchief, after blowing his nose into it, and says nothing
+- [The party](/pages/party) meets [Snubsuck](/pages/snubsuck), the warden of [Garglecock](/pages/karkalok), who bribes [the party](/pages/party) for safe passage
+- [Finnegan](/pages/finnegan) attempts to persuade [Snubsuck](/pages/snubsuck) into not paying the troll toll
+- [Finnegan](/pages/finnegan) succeeds in the persuation attempt, and [the party](/pages/party) gains access to [Garglecock](/pages/karkalok)
+- [The party](/pages/party) notices a 20-foot tall armored golem construct that is set up somewhat like a marionette, but cannot figure out for the life of them what it actually is
+- [The party](/pages/party) meets [Yarbknock](/pages/yarbknock), and find out almost immediately that he is a gnome, and he is concerned about the goblins of [Garglecock](/pages/karkalok) finding out that he is, in fact, not a goblin
+- [Yarbknock](/pages/yarbknock) explains that he was travelling to [Bryn Shander](/pages/bryn-shander), and goblins ate the rest of his party; he had a few companions left alive, so he started to scavenge around (as he's an engineer), and he was able to fool the goblins with "silent image", a spell he has
+- [The party](/pages/party) and [Yarbknock](/pages/yarbknock) debate goblin politics for some time, and concoct an elusive scheme to break him out of [Garglecock](/pages/karkalok), as he's scared about being overthrown
+- A plan is concocted where at night, during the nightly fire, [the party](/pages/party) and [Yarbknock](/pages/yarbknock) will announce he will be travelling as an emissary to [Bryn Shander](/pages/bryn-shander) to further trade, but really, he will never come back
+- [Krummok](/pages/krummok) divulges the political overthrowing plan to [Skik](/pages/skik), who asks if he can hang out with the party, to which [Pillby](/pages/pillby) says "yes" (otherwise [skik](/pages/skik) will be raped until he's a puddle of goo)
+- [The party](/pages/party) briefly debates calling in each goblin one-by-one and murdering them individually, but decide against it
+- A goblin shaman, Manafek, and [Snubsuck](/pages/snubsuck) enter the table, and suggest offering the construct as a gift to [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) begins to leave [Garglecock](/pages/karkalok) with the construct in tow, after convincing the goblins they will be smattered with "goat stuff" from [Bryn Shander](/pages/bryn-shander)
+- [The party](/pages/party) decides to see the trade plan through, and actually take the golem construct to [Bryn Shander](/pages/bryn-shander) in hopes of facilitating trade, after getting [Yarbknock](/pages/yarbknock) separated from the guards with the leaders to discuss the "real" trade route plan
+- [The party](/pages/party) makes it successfully to just outside of the gates of [Bryn Shander](/pages/bryn-shander), with a polar bear cart and goblin construct in tow
+
